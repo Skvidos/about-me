@@ -1,6 +1,6 @@
 /* Main Page Styles */
 
-@import url(src/fonts/fonts.css);
+@import url('./src/fonts/fonts.css');
 
 :root {
   --bg-color: #000;
@@ -15,6 +15,19 @@
 
   --transition-fast: 0.25s ease;
   --transition-normal: 0.35s ease;
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+html {
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  scroll-behavior: smooth;
+  -webkit-touch-callout: none;
 }
 
 
@@ -182,6 +195,7 @@ body {
   font-weight: 300;
   color: var(--text-color);
   text-decoration: none;
+  min-height: 44px;
 
   background: var(--glass-bg);
   border: 1px solid var(--glass-border);
@@ -193,6 +207,10 @@ body {
     border var(--transition-normal),
     box-shadow var(--transition-normal),
     color var(--transition-normal);
+
+  touch-action: manipulation;
+  -webkit-user-select: none;
+  user-select: none;
 }
 
 .social_link:hover {
@@ -217,10 +235,27 @@ body {
   width: 22px;
   height: 22px;
   transition: transform var(--transition-fast);
+  display: block;
+  flex-shrink: 0;
 }
 
 .social_link:hover .social_icon_img {
   transform: rotate(10deg) scale(1.15);
+}
+
+@media (hover: none) {
+  .social_link_container:hover {
+    transform: none;
+  }
+
+  .social_link:hover {
+    background: var(--glass-bg);
+    border-color: var(--glass-border);
+  }
+
+  .social_link:hover .social_icon_img {
+    transform: none;
+  }
 }
 
 @media (max-width: 1024px) {
@@ -262,11 +297,23 @@ body {
 
   .social_link {
     font-size: 0.7rem;
-    padding: 0.5rem 0.8rem;
+    padding: 0.6rem 0.8rem;
+    min-height: 44px;
+    display: inline-flex;
+    align-items: center;
   }
 
   .social_icon_img {
     width: 18px;
     height: 18px;
+    margin-right: 0.4rem;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
   }
 }

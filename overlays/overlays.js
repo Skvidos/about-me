@@ -10,6 +10,13 @@ class TournamentSlider {
     this.currentIndex = 0;
     this.totalSlides = this.sliderItems.length;
 
+    this.sliderItems.forEach((item, index) => {
+      const img = item.querySelector('img');
+      if (img && index !== 0) {
+        img.loading = 'lazy';
+      }
+    });
+
     this.init();
   }
 
