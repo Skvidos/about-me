@@ -1,20 +1,25 @@
-body { 
-  margin:0; 
-  font:normal 75% Arial, Helvetica, sans-serif; 
-} 
+body {
+  margin: 0;
+  font:
+    normal 75% Arial,
+    Helvetica,
+    sans-serif;
+}
 
-canvas { 
-  display: block; 
-  vertical-align: bottom; 
-} 
+canvas {
+  display: block;
+  vertical-align: bottom;
+}
 
-#particles-js { 
-  position:absolute; 
-  width: 100%; 
-  height: 100%; 
-  background-color: #000000; 
-  background-image: url(""); 
-  background-repeat: no-repeat; 
-  background-size: 20%; 
-  background-position: 50% 50%; 
-} 
+#particles-js {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: #000000;
+  background-image: url("");
+  background-repeat: no-repeat;
+  background-size: 20%;
+  background-position: 50% 50%;
+}
