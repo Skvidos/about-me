@@ -18,16 +18,16 @@ select {
 }
 
 .tournaments-list-section {
-  margin-top: 32px;
+  margin-top: 2rem;
   width: min(100%, 1500px);
   margin-left: auto;
   margin-right: auto;
 }
 
 .section_title {
-  font-size: 56px;
+  font-size: 3.5rem;
   font-weight: 700;
-  margin-bottom: 16px;
+  margin-bottom: 1rem;
   letter-spacing: 0.05em;
   background: linear-gradient(135deg, #ffffff 0%, #b0b8ff 100%);
   -webkit-background-clip: text;
@@ -40,37 +40,37 @@ select {
 
 .tournaments-subtitle {
   max-width: 1100px;
-  font-size: 16.8px;
+  font-size: 1.05rem;
   color: #d0d8e8;
   font-weight: 300;
   letter-spacing: 0.03em;
   animation: fadeInUp 1s ease-out;
   animation-delay: 0.2s;
   animation-fill-mode: both;
-  margin-bottom: 64px;
+  margin-bottom: 4rem;
 }
 
 /* Controls Wrapper (Filters & Search) */
 .controls-wrapper {
   display: flex;
   flex-direction: column;
-  gap: 16px;
-  margin-bottom: 32px;
+  gap: 1rem;
+  margin-bottom: 2rem;
   background: rgba(10, 14, 39, 0.6);
   backdrop-filter: blur(12px);
-  padding: 19.2px;
+  padding: 1.2rem;
   border-radius: 16px;
   border: 1px solid rgba(100, 200, 255, 0.2);
 }
 
 .search-box input {
   width: 100%;
-  padding: 12px 19.2px;
+  padding: 0.75rem 1.2rem;
   border-radius: 12px;
   background: rgba(255, 255, 255, 0.05);
   border: 1px solid rgba(255, 255, 255, 0.15);
   color: #fff;
-  font-size: 16px;
+  font-size: 1rem;
   outline: none;
   box-sizing: border-box;
   transition: border-color 0.25s ease;
@@ -85,18 +85,18 @@ select {
 .filters-row {
   display: grid;
   grid-template-columns: repeat(6, 1fr);
-  gap: 8px;
+  gap: 0.5rem;
   width: 100%;
 }
 
 .filter-select {
   width: 100%;
-  padding: 10.4px 9.6px;
+  padding: 0.65rem 0.6rem;
   border-radius: 10px;
   background: rgba(20, 26, 58, 0.9);
   border: 1px solid rgba(255, 255, 255, 0.12);
   color: #d7e4ff;
-  font-size: 14.08px;
+  font-size: 0.88rem;
   cursor: pointer;
   outline: none;
   text-overflow: ellipsis;
@@ -112,17 +112,17 @@ select {
 /* Cards Container */
 .tournament-cards-container {
   display: grid;
-  gap: 28px;
-  margin-top: 32px;
+  gap: 1.75rem;
+  margin-top: 2rem;
 }
 
 .tournament-card {
   background: rgba(10, 14, 39, 0.8);
   backdrop-filter: blur(16px);
   border-radius: 18px;
-  padding: 13.6px 13.6px 12.8px;
+  padding: 0.85rem 0.85rem 0.8rem;
   display: grid;
-  gap: 11.2px;
+  gap: 0.7rem;
   box-shadow: 0 18px 40px rgba(0, 0, 0, 0.2);
   border-width: 1px;
   border-style: solid;
@@ -190,18 +190,17 @@ select {
 
 .tournament-number {
   position: absolute;
-  top: 50%;
-  left: 16px;
+  top: 0.7rem;
+  left: 1rem;
   z-index: 2;
   color: rgba(255, 255, 255, 0.35);
-  font-size: 54.4px;
+  font-size: 3.4rem;
   font-weight: 800;
   text-transform: uppercase;
   pointer-events: none;
   transition:
     color 0.3s ease,
     scale 0.3s ease;
-  transform: translateY(-50%) scale(1);
 }
 
 .tournament-card:hover .tournament-number {
@@ -211,12 +210,12 @@ select {
 
 .tournament-host {
   position: absolute;
-  bottom: 16px;
-  right: 16px;
+  bottom: 1rem;
+  right: 1rem;
   z-index: 5;
   display: flex;
   align-items: center;
-  gap: 8px;
+  gap: 0.5rem;
   flex-wrap: wrap;
   animation: fadeInUp 0.8s ease-out 0.4s both;
   transition:
@@ -229,41 +228,8 @@ select {
 .tournament-host a {
   display: flex;
   align-items: center;
-  gap: 8px;
+  gap: 0.5rem;
   text-decoration: none;
-}
-
-.tournament-host:has(a + a) {
-  width: min(300px, calc(100% - 16px));
-  max-width: 300px;
-  display: grid;
-  grid-template-columns: auto auto;
-  justify-content: end;
-  align-items: center;
-  column-gap: 8px;
-  row-gap: 4px;
-}
-
-.tournament-host:has(a + a) .host-text {
-  grid-column: 1 / -1;
-  justify-self: end;
-}
-
-.tournament-host:has(a + a) a {
-  width: auto;
-  min-width: 0;
-  justify-content: flex-end;
-}
-
-.tournament-host:has(a + a) .host-name {
-  min-width: 0;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap;
-}
-
-.tournament-title-banner:has(.tournament-host > a + a) {
-  height: 120px;
 }
 
 .tournament-card:hover .tournament-host,
@@ -283,14 +249,14 @@ select {
 }
 
 .host-text {
-  font-size: 12.8px;
+  font-size: 0.8rem;
   font-weight: 600;
   color: #ffffff;
   letter-spacing: 0.03em;
 }
 
 .host-name {
-  font-size: 12.8px;
+  font-size: 0.8rem;
   font-weight: 600;
   color: #b0d4ff;
   letter-spacing: 0.03em;
@@ -311,12 +277,12 @@ select {
 
 .tournament-status {
   position: absolute;
-  top: 14.4px;
-  right: 16px;
+  top: 0.9rem;
+  right: 1rem;
   z-index: 2;
-  padding: 5.6px 13.6px;
+  padding: 0.35rem 0.85rem;
   border-radius: 999px;
-  font-size: 12.48px;
+  font-size: 0.78rem;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.06em;
@@ -360,7 +326,7 @@ select {
   display: grid;
   place-items: center;
   color: rgba(255, 255, 255, 0.06);
-  font-size: 29.6px;
+  font-size: 1.85rem;
   letter-spacing: 0.35em;
   text-transform: uppercase;
   font-weight: 800;
@@ -369,11 +335,16 @@ select {
 
 .tournament-title-banner a:has(.tournament-rucast) {
   position: absolute;
-  top: 50%;
+  top: 0;
   left: 0;
   z-index: 5;
   display: block;
-  transform: translateY(-50%);
+}
+
+.tournament-rucast {
+  position: relative;
+  top: 0;
+  left: 0;
 }
 
 .tournament-logo {
@@ -392,15 +363,15 @@ select {
 
 .tournament-rucast {
   position: absolute;
-  top: 50%;
-  left: 96px;
+  top: 0.9rem;
+  left: 6rem;
   z-index: 2;
   width: 65px;
   height: 65px;
   background-size: cover;
   background-position: center;
   filter: opacity(0.4);
-  transform: scale(1) translateY(-50%);
+  transform: scale(1);
   transition:
     filter 0.35s ease,
     transform 0.35s ease,
@@ -418,7 +389,7 @@ select {
 
 .tournament-card:hover .tournament-rucast {
   filter: brightness(0.9) opacity(1);
-  transform: scale(1.1) translateY(-50%);
+  transform: scale(1.04);
 }
 
 .tournament-card:hover .tournament-logo {
@@ -431,16 +402,15 @@ select {
   z-index: 2;
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  gap: 3.2px;
-  padding: 14.4px 17.6px;
-  height: 100%;
+  justify-content: flex-end;
+  gap: 0.2rem;
+  padding: 0.9rem 1.1rem;
+  min-height: 92px;
   box-sizing: border-box;
 }
-
 .tournament-name {
   margin: 0;
-  font-size: clamp(19.2px, 2.2vw, 24px);
+  font-size: clamp(1.2rem, 2.2vw, 1.5rem);
   font-weight: 700;
   color: #ffffff;
   letter-spacing: 0.02em;
@@ -450,25 +420,25 @@ select {
   margin: 0;
   color: rgba(208, 216, 232, 0.9);
   line-height: 1.5;
-  font-size: 15.68px;
+  font-size: 0.98rem;
 }
 
 .tournament-details-grid {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  gap: 8.8px;
+  gap: 0.55rem;
 }
 
 .detail-icon {
-  margin-right: 5.6px;
+  margin-right: 0.35rem;
 }
 
 .tournament-detail {
   display: inline-flex;
   align-items: center;
-  gap: 7.2px;
-  padding: 8px 14.4px;
+  gap: 0.45rem;
+  padding: 0.5rem 0.9rem;
   background: rgba(255, 255, 255, 0.05);
   border: 1px solid rgba(255, 255, 255, 0.1);
   border-radius: 999px;
@@ -488,26 +458,26 @@ select {
 .date-range {
   display: inline-flex;
   align-items: center;
-  gap: 8px;
+  gap: 0.5rem;
 }
 
 .date-pill {
   display: inline-block;
   color: #d7e4ff;
-  font-size: 14.08px;
+  font-size: 0.88rem;
   line-height: 1;
 }
 
 .date-pill:not(:last-child)::after {
   content: "→";
-  margin-left: 8px;
+  margin-left: 0.5rem;
   color: rgba(100, 180, 255, 0.6);
 }
 
 .detail-label {
   display: inline-flex;
   align-items: center;
-  font-size: 12.48px;
+  font-size: 0.78rem;
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 0.06em;
@@ -515,19 +485,19 @@ select {
 }
 
 .tournament-detail > div:not(.detail-label) {
-  font-size: 14.4px;
+  font-size: 0.9rem;
   color: #e4eaff;
 }
 
 .badge-value {
   display: inline-flex;
   align-items: center;
-  gap: 8px;
+  gap: 0.5rem;
 }
 
 .badge-value.none {
   color: rgba(200, 210, 230, 0.55);
-  font-size: 14.4px;
+  font-size: 0.9rem;
   font-style: italic;
 }
 
@@ -541,23 +511,22 @@ select {
 .tournament-detail.detail-roles {
   background: none;
   border: none;
-  padding: 2.4px 0 0;
-  flex-basis: 100%;
+  padding: 0.15rem 0 0;
 }
 
 .role-chips {
   display: flex;
   flex-wrap: wrap;
-  gap: 8px;
+  gap: 0.5rem;
 }
 
 .role-chip {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  padding: 6.4px 12.8px;
+  padding: 0.4rem 0.8rem;
   border-radius: 999px;
-  font-size: 14.4px;
+  font-size: 0.9rem;
   font-weight: 600;
   color: #fff;
   letter-spacing: 0.03em;
@@ -636,20 +605,20 @@ select {
 .tournament-bottom-row {
   display: grid;
   grid-template-columns: 1fr 2fr;
-  gap: 11.2px;
+  gap: 0.7rem;
 }
 
 .description-box,
 .links-box {
   background: rgba(100, 200, 255, 0.08);
   border-left: 3px solid rgba(100, 200, 255, 0.5);
-  padding: 12.8px 14.4px;
+  padding: 0.8rem 0.9rem;
   border-radius: 14px;
 }
 
 .section-card-title {
-  margin: 0 0 8.8px 0;
-  font-size: 12.48px;
+  margin: 0 0 0.55rem 0;
+  font-size: 0.78rem;
   font-weight: 700;
   color: #a0d8ff;
   text-transform: uppercase;
@@ -667,7 +636,7 @@ select {
 .description-text,
 .links-text {
   margin: 0;
-  font-size: 14.72px;
+  font-size: 0.92rem;
   color: #b0b8d8;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -676,20 +645,20 @@ select {
 .links-list {
   display: flex;
   flex-wrap: wrap;
-  gap: 8px;
+  gap: 0.5rem;
 }
 
 .links-text-link {
   display: inline-flex;
   align-items: center;
-  gap: 8px;
-  padding: 6.4px 12px;
+  gap: 0.5rem;
+  padding: 0.4rem 0.75rem;
   border-radius: 999px;
   border: 1px solid rgba(120, 180, 255, 0.22);
   background: rgba(100, 180, 255, 0.08);
   color: #d9e9ff;
   text-decoration: none;
-  font-size: 14.08px;
+  font-size: 0.88rem;
   transition:
     color 0.3s ease,
     background 0.22s ease,
@@ -710,21 +679,21 @@ select {
   height: 18px;
   align-items: center;
   justify-content: center;
-  font-size: 16px;
+  font-size: 1rem;
 }
 
 .tournament-link {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  padding: 11.2px 16px;
+  padding: 0.7rem 1rem;
   border-radius: 999px;
   border: 1px solid rgba(120, 180, 255, 0.22);
   background: rgba(100, 180, 255, 0.08);
   color: #d9e9ff;
   text-decoration: none;
   font-weight: 500;
-  font-size: 15.2px;
+  font-size: 0.95rem;
   transition:
     transform 0.22s ease,
     background 0.22s ease,
@@ -739,13 +708,13 @@ select {
 
 .tournament-comments {
   margin: 0;
-  padding: 13.6px 15.2px;
+  padding: 0.85rem 0.95rem;
   border-radius: 16px;
   background: rgba(255, 255, 255, 0.04);
   border: 1px solid rgba(255, 255, 255, 0.08);
   color: var(--text-muted);
   line-height: 1.6;
-  font-size: 15.2px;
+  font-size: 0.95rem;
 }
 
 /* Pagination */
@@ -753,17 +722,17 @@ select {
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 8px;
-  margin: 40px 0;
+  gap: 0.5rem;
+  margin: 2.5rem 0;
 }
 
 .page-btn {
-  padding: 8px 14.4px;
+  padding: 0.5rem 0.9rem;
   border-radius: 8px;
   background: rgba(255, 255, 255, 0.05);
   border: 1px solid rgba(255, 255, 255, 0.15);
   color: #fff;
-  font-size: 14.4px;
+  font-size: 0.9rem;
   font-weight: 600;
   cursor: pointer;
   transition: all 0.2s ease;
@@ -788,15 +757,15 @@ select {
 .back-link-container {
   text-align: center;
   animation: cardFadeIn 1s ease-out 0.5s both;
-  margin-bottom: 80px;
+  margin-bottom: 5rem;
 }
 
 .back-link {
   display: inline-flex;
   justify-content: center;
   align-items: center;
-  gap: 9.6px;
-  padding: 12.8px 32px;
+  gap: 0.6rem;
+  padding: 0.8rem 2rem;
   background: rgba(255, 255, 255, 0.05);
   border: 1px solid rgba(100, 200, 255, 0.4);
   border-radius: 50px;
@@ -818,10 +787,6 @@ select {
   transform: translateY(-2px);
 }
 
-.role-chips {
-  justify-content: center;
-}
-
 /* Animations & Responsive */
 @keyframes fadeInUp {
   from {
@@ -835,267 +800,19 @@ select {
 }
 
 @media (max-width: 900px) {
-  .section_title {
-    font-size: 41.6px;
-  }
-
   .filters-row {
     grid-template-columns: repeat(3, 1fr);
   }
-
   .tournament-bottom-row {
     grid-template-columns: 1fr;
-  }
-
-  .links-list {
-    justify-content: center;
-  }
-
-  .tournament-details-grid {
-    justify-content: center;
-  }
-
-  .tournament-detail {
-    justify-content: center;
   }
 }
 
 @media (max-width: 600px) {
-  .tournaments-list-section {
-    margin-top: 19.2px;
-    padding: 0 12px;
-    box-sizing: border-box;
-  }
-
-  .section_title {
-    font-size: 32px;
-    margin-bottom: 12px;
-  }
-
-  .tournaments-subtitle {
-    font-size: 15.2px;
-    margin-bottom: 32px;
-  }
-
-  .controls-wrapper {
-    padding: 14.4px;
-    gap: 12px;
-  }
-
   .filters-row {
     grid-template-columns: repeat(2, 1fr);
   }
-
-  .filter-select {
-    font-size: 13.12px;
-    padding: 9.6px 8px;
-  }
-
-  .tournament-cards-container {
-    gap: 17.6px;
-    margin-top: 19.2px;
-  }
-
-  .tournament-card {
-    padding: 11.2px 11.2px 10.4px;
-    border-radius: 14px;
-  }
-
-  .tournament-title-banner {
-    min-height: 0;
-    min-height: 145px;
-    height: auto;
-    padding-top: 33.6px;
-    border-radius: 12px;
-  }
-
-  .tournament-title-banner:has(.tournament-host > a + a) {
-    height: 160px;
-  }
-
-  .tournament-number {
-    top: 24px;
-    left: 11.2px;
-    font-size: 32px;
-  }
-
-  .tournament-status {
-    top: 8.8px;
-    right: 11.2px;
-    padding: 4.48px 10.4px;
-    font-size: 10.88px;
-  }
-
-  .tournament-host {
-    position: absolute;
-    right: 11.2px;
-    bottom: 11.2px;
-    max-width: calc(100% - 72px);
-    padding: 0;
-    justify-content: flex-end;
-  }
-
-  .host-text {
-    font-size: 9.6px;
-  }
-
-  .host-name {
-    font-size: 11.2px;
-  }
-
-  .tournament-host:has(a + a) {
-    width: min(210px, calc(100% - 72px));
-    max-width: 210px;
-    align-items: flex-start;
-    margin-top: 4.8px;
-  }
-
-  .tournament-host:has(a + a) .host-text {
-    align-self: flex-start;
-  }
-
-  .tournament-host:has(a + a) a {
-    justify-content: flex-start;
-  }
-
-  .tournament-card-title {
-    padding: 6.4px 14.4px 60.8px;
-    min-height: 0;
-  }
-
-  .tournament-name {
-    font-size: 17.6px;
-  }
-
-  .tournament-subtitle {
-    font-size: 13.6px;
-  }
-
   .tournament-details-grid {
     grid-template-columns: 1fr;
-  }
-
-  .tournament-detail {
-    width: 100%;
-    box-sizing: border-box;
-    white-space: normal;
-  }
-
-  .tournament-details-grid > .tournament-detail:nth-child(2) {
-    flex-direction: column;
-    align-items: center;
-    gap: 3.2px;
-    text-align: center;
-  }
-
-  .date-range {
-    flex-wrap: wrap;
-    row-gap: 4.8px;
-  }
-
-  .tournament-bottom-row {
-    gap: 9.6px;
-  }
-
-  .description-box,
-  .links-box {
-    padding: 11.2px 12.8px;
-  }
-
-  .pagination-container {
-    flex-wrap: wrap;
-    row-gap: 8px;
-    margin: 24px 0;
-  }
-
-  .page-btn {
-    padding: 7.2px 11.2px;
-    font-size: 13.6px;
-  }
-
-  .back-link-container {
-    margin-bottom: 48px;
-  }
-
-  .tournament-rucast {
-    top: auto;
-    left: 1.6px;
-    bottom: 1.6px;
-    width: 42px;
-    height: 42px;
-    transform: none;
-    filter: opacity(0.7);
-  }
-
-  .tournament-title-banner a:has(.tournament-rucast) {
-    top: auto;
-    left: 11.2px;
-    bottom: 11.2px;
-    transform: none;
-  }
-
-  .tournament-card:hover .tournament-rucast {
-    transform: scale(1.05);
-  }
-
-  .tournament-detail.detail-dates {
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-  }
-
-  .tournament-detail.detail-dates .detail-label,
-  .tournament-detail.detail-dates .date-range {
-    width: 100%;
-    justify-content: center;
-    text-align: center;
-  }
-
-  .date-range {
-    justify-content: center;
-  }
-}
-
-@media (max-width: 420px) {
-  .pagination-container {
-    justify-content: flex-start;
-    flex-wrap: nowrap;
-    overflow-x: auto;
-    overflow-y: hidden;
-    width: 100%;
-    padding-bottom: 5.6px;
-    -webkit-overflow-scrolling: touch;
-    scrollbar-width: thin;
-  }
-
-  .pagination-container .page-btn {
-    flex: 0 0 auto;
-  }
-
-  .section_title {
-    font-size: 25.6px;
-  }
-
-  .filters-row {
-    grid-template-columns: 1fr;
-  }
-
-  .tournament-number {
-    font-size: 25.6px;
-  }
-
-  .tournament-name {
-    font-size: 16px;
-  }
-
-  .badge-icon {
-    width: 46px;
-    height: 22px;
-  }
-
-  .role-chip,
-  .links-text-link {
-    font-size: 12.8px;
-    padding: 5.6px 10.4px;
   }
 }
