@@ -1,12 +1,11 @@
-document.addEventListener('DOMContentLoaded', () => {
+document.addEventListener('DOMContentLoaded', async () => {
   const ITEMS_PER_PAGE = 6;
   let currentPage = 1;
+  let rawTournaments = [];
 
   const container = document.getElementById('cardsContainer');
   const paginationTop = document.getElementById('paginationTop');
   const paginationBottom = document.getElementById('paginationBottom');
-
-  const cards = Array.from(container.getElementsByClassName('tournament-card'));
 
   const searchInput = document.getElementById('searchInput');
   const statusFilter = document.getElementById('statusFilter');
@@ -16,31 +15,126 @@ document.addEventListener('DOMContentLoaded', () => {
   const yearFilter = document.getElementById('yearFilter');
   const sortOrder = document.getElementById('sortOrder');
 
-  const parsedCards = cards.map((card, index) => {
-    const title = card.querySelector('.tournament-name')?.textContent.toLowerCase() || '';
-    const host = card.querySelector('.host-name')?.textContent.toLowerCase() || '';
-    const number = parseInt(card.querySelector('.tournament-number')?.textContent || index, 10);
+  // Load tournaments.json
+  try {
+    const response = await fetch('tournaments.json');
+    rawTournaments = await response.json();
+  } catch (error) {
+    console.error('Failed to load tournaments.json:', error);
+    container.innerHTML = '<p style="color: #ff8080; text-align: center;">Error loading tournaments data.</p>';
+    return;
+  }
 
-    let status = 'completed';
-    if (card.querySelector('.status-ongoing')) status = 'ongoing';
-    if (card.querySelector('.status-upcoming')) status = 'upcoming';
+  // Card template generator
+  function createCardElement(item) {
+    const card = document.createElement('div');
+    card.className = 'tournament-card';
 
-    const roles = Array.from(card.querySelectorAll('.role-chip')).map(chip => chip.textContent.toLowerCase());
+    // Render hosts
+    const hostsHtml = item.hosts.map(h => `
+      <a href="${h.url}" target="_blank">
+        <span class="host-name">${h.name}</span>
+        ${h.avatar ? `<img src="${h.avatar}" alt="${h.name}" class="host-avatar" />` : ''}
+      </a>
+    `).join('');
 
-    const details = Array.from(card.querySelectorAll('.tournament-detail'));
-    const typeDetail = details.find(d => d.querySelector('.detail-label')?.textContent.includes('Type'));
-    const type = typeDetail ? typeDetail.querySelector('div:not(.detail-label)')?.textContent.trim() : '';
+    // Render the Rucast / TC-Cast logo
+    const rucastHtml = item.rucast ? `
+      <a href="${item.rucast.url}" target="_blank">
+        <div class="tournament-rucast ${item.rucast.class}"></div>
+      </a>
+    ` : '';
 
-    const badgeElement = card.querySelector('.badge-value');
-    const hasBadge = badgeElement ? !badgeElement.classList.contains('none') && !badgeElement.querySelector('.none') : false;
+    // Render the badge
+    let badgeHtml = '';
+    if (item.badge && item.badge.hasBadge) {
+      const icons = (item.badge.icons || []).map(icon => `<img src="${icon}" alt="Badge icon" class="badge-icon" />`).join('');
+      badgeHtml = `<div class="badge-value">${icons}<span>${item.badge.statusText || ''}</span></div>`;
+    } else {
+      const badgeText = item.badge?.text || 'No badge';
+      badgeHtml = `<div class="badge-value none">${badgeText}</div>`;
+    }
 
-    const datesText = card.querySelector('.detail-dates')?.textContent || '';
-    const yearMatch = datesText.match(/\b(202\d)\b/);
-    const year = yearMatch ? yearMatch[1] : '';
+    // Render roles
+    const rolesHtml = item.roles.map(r => {
+      if (r.url) {
+        return `<a href="${r.url}"><span class="role-chip ${r.class}">${r.name}</span></a>`;
+      }
+      return `<span class="role-chip ${r.class}">${r.name}</span>`;
+    }).join('');
 
-    return { element: card, title, host, number, status, roles, type, hasBadge, year };
-  });
+    // Render links
+    const linksHtml = item.links.map(l => `
+      <a href="${l.url}" target="_blank" class="links-text-link">
+        <img src="${l.icon}" alt="${l.name} Icon" class="link-icon" />
+        ${l.name}
+      </a>
+    `).join('');
 
+    card.innerHTML = `
+      <div class="tournament-card-top">
+        <div class="tournament-title-banner">
+          <div class="tournament-number">${item.number}</div>
+          ${rucastHtml}
+          <div class="tournament-host">
+            <span class="host-text">Hosted by</span>
+            ${hostsHtml}
+          </div>
+          <div class="tournament-status status-${item.status}">${item.status}</div>
+          <div class="tournament-logo-overlay">
+            <img class="tournament-logo" src="${item.banner}" alt="" />
+          </div>
+          <div class="tournament-card-title">
+            <p class="tournament-name">${item.name}</p>
+            <p class="tournament-subtitle">${item.subtitle}</p>
+          </div>
+        </div>
+      </div>
+      <div class="tournament-details-grid">
+        <div class="tournament-detail detail-dates">
+          <div class="detail-label"><span class="detail-icon">📅</span>Dates</div>
+          <div class="date-range">
+            <div class="date-pill">Start: ${item.dates.start}</div>
+            <div class="date-pill">End: ${item.dates.end}</div>
+          </div>
+        </div>
+        <div class="tournament-detail">
+          <div class="detail-label"><span class="detail-icon">🏅</span>Rank</div>
+          <div>${item.rank}</div>
+        </div>
+        <div class="tournament-detail">
+          <div class="detail-label"><span class="detail-icon">🎮</span>Type</div>
+          <div>${item.type}</div>
+        </div>
+        <div class="tournament-detail">
+          <div class="detail-label"><span class="detail-icon">⚔️</span>Format</div>
+          <div>${item.format}</div>
+        </div>
+        <div class="tournament-detail">
+          <div class="detail-label"><span class="detail-icon">🎖️</span>Badge</div>
+          ${badgeHtml}
+        </div>
+        <div class="tournament-detail detail-roles">
+          <div class="detail-label"><span class="detail-icon">👤</span>Roles</div>
+          <div class="role-chips">${rolesHtml}</div>
+        </div>
+      </div>
+      <div class="tournament-bottom-row">
+        <div class="links-box">
+          <h4 class="section-card-title">Links</h4>
+          <div class="links-list">${linksHtml}</div>
+        </div>
+        <div class="description-box">
+          <h4 class="section-card-title">Comments</h4>
+          <p class="description-text">${item.comments || ''}</p>
+        </div>
+      </div>
+    `;
+
+    return card;
+  }
+
+  // Filtering and pagination logic
   function updateDisplay() {
     const query = searchInput.value.toLowerCase().trim();
     const selectedStatus = statusFilter.value;
@@ -50,21 +144,34 @@ document.addEventListener('DOMContentLoaded', () => {
     const selectedYear = yearFilter.value;
     const order = sortOrder.value;
 
-    let filtered = parsedCards.filter(item => {
-      const matchesSearch = item.title.includes(query) || item.host.includes(query) || item.roles.some(r => r.includes(query));
+    let filtered = rawTournaments.filter(item => {
+      const itemTitle = item.name.toLowerCase();
+      const itemHosts = item.hosts.map(h => h.name.toLowerCase()).join(' ');
+      const itemRoleNames = item.roles.map(r => r.name.toLowerCase());
+
+      const yearMatch = (item.dates.start + ' ' + item.dates.end).match(/\b(202\d)\b/g);
+      const itemYears = yearMatch ? Array.from(new Set(yearMatch)) : [];
+
+      const matchesSearch = itemTitle.includes(query) || itemHosts.includes(query) || itemRoleNames.some(r => r.includes(query));
       const matchesStatus = selectedStatus === 'all' || item.status === selectedStatus;
-      const matchesRole = selectedRole === 'all' || item.roles.some(r => r.includes(selectedRole));
+      const matchesRole = selectedRole === 'all' || itemRoleNames.some(r => r.toLowerCase().includes(selectedRole));
       const matchesType = selectedType === 'all' || item.type.toLowerCase() === selectedType.toLowerCase();
-      const matchesYear = selectedYear === 'all' || item.year === selectedYear;
+      const matchesYear = selectedYear === 'all' || itemYears.includes(selectedYear);
 
       let matchesBadge = true;
-      if (selectedBadge === 'badged') matchesBadge = item.hasBadge;
-      if (selectedBadge === 'nobadge') matchesBadge = !item.hasBadge;
+      const hasBadge = item.badge && item.badge.hasBadge;
+      if (selectedBadge === 'badged') matchesBadge = hasBadge;
+      if (selectedBadge === 'nobadge') matchesBadge = !hasBadge;
 
       return matchesSearch && matchesStatus && matchesRole && matchesType && matchesBadge && matchesYear;
     });
 
-    filtered.sort((a, b) => order === 'desc' ? b.number - a.number : a.number - b.number);
+    // Sort by tournament number
+    filtered.sort((a, b) => {
+      const numA = parseInt(a.number, 10);
+      const numB = parseInt(b.number, 10);
+      return order === 'desc' ? numB - numA : numA - numB;
+    });
 
     const totalPages = Math.ceil(filtered.length / ITEMS_PER_PAGE) || 1;
     if (currentPage > totalPages) currentPage = 1;
@@ -74,7 +181,9 @@ document.addEventListener('DOMContentLoaded', () => {
     const paginatedItems = filtered.slice(start, end);
 
     container.innerHTML = '';
-    paginatedItems.forEach(item => container.appendChild(item.element));
+    paginatedItems.forEach(item => {
+      container.appendChild(createCardElement(item));
+    });
 
     renderPagination(totalPages);
   }
@@ -128,6 +237,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   [searchInput, statusFilter, roleFilter, typeFilter, badgeFilter, yearFilter, sortOrder].forEach(element => {
     element?.addEventListener('input', () => { currentPage = 1; updateDisplay(); });
+    element?.addEventListener('change', () => { currentPage = 1; updateDisplay(); });
   });
 
   updateDisplay();

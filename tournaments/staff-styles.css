@@ -81,7 +81,7 @@ select {
   box-shadow: 0 0 12px rgba(100, 200, 255, 0.2);
 }
 
-/* 6 фильтров строго в одну строку */
+/* Keep all 6 filters on one line */
 .filters-row {
   display: grid;
   grid-template-columns: repeat(6, 1fr);
