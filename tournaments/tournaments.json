@@ -1,748 +1,11 @@
 [
   {
-    "number": "01",
-    "name": "osu!Kazakhstan Community Cup 5",
-    "subtitle": "Open Rank (Kazakhstan only) · Standard · 1v1",
-    "status": "completed",
-    "banner": "banners/KZcup5.png",
+    "number": "46",
+    "name": "osu!Collegiate League 2026",
+    "subtitle": "Open Rank (Only Students) · Standard · 3v3 (TS 5)",
+    "status": "upcoming",
+    "banner": "banners/ocl26.png",
     "rucast": null,
-    "hosts": [
-      {
-        "name": "Lightin",
-        "url": "https://osu.ppy.sh/users/7595619",
-        "avatar": "https://a.ppy.sh/7595619"
-      }
-    ],
-    "dates": {
-      "start": "May 15, 2024",
-      "end": "July 28, 2024"
-    },
-    "rank": "Open Rank (Kazakhstan only)",
-    "type": "Standard",
-    "format": "1v1",
-    "badge": {
-      "hasBadge": true,
-      "statusText": "Approved",
-      "icons": [
-        "badges/KZcup5.png"
-      ]
-    },
-    "roles": [
-      {
-        "name": "Referee",
-        "class": "role-referee"
-      },
-      {
-        "name": "Caster",
-        "class": "role-caster"
-      },
-      {
-        "name": "Streamer",
-        "class": "role-streamer"
-      }
-    ],
-    "links": [
-      {
-        "name": "Forum Post",
-        "url": "https://osu.ppy.sh/community/forums/topics/1922332?n=1",
-        "icon": "../src/icons/osu-blue.png"
-      },
-      {
-        "name": "Spreadsheet",
-        "url": "https://docs.google.com/spreadsheets/d/1p1gWVi2j8s-hMi0frRTH808z06ti0u0mnhqsK9TsoAc/edit?gid=508748914#gid=508748914",
-        "icon": "../src/icons/file-spreadsheet-blue.svg"
-      },
-      {
-        "name": "Twitch",
-        "url": "https://www.twitch.tv/osukazakhstan/videos",
-        "icon": "../src/icons/twitch-blue.svg"
-      },
-      {
-        "name": "Tcomm page",
-        "url": "https://tcomm.hivie.tn/tournaments/67ec5f8f0f2d0e242093677c",
-        "icon": "../src/icons/tcomm.svg"
-      },
-      {
-        "name": "Liquipedia",
-        "url": "https://liquipedia.net/osu/Osu!kz_Community_Cup/5",
-        "icon": "../src/icons/liquipedia.png"
-      }
-    ],
-    "comments": "My first staff experience"
-  },
-  {
-    "number": "02",
-    "name": "Emerald cup 2",
-    "subtitle": "500-10k · Standard · 1v1",
-    "status": "completed",
-    "banner": "banners/ec2.png",
-    "rucast": null,
-    "hosts": [
-      {
-        "name": "Ternafis",
-        "url": "https://osu.ppy.sh/users/9921139",
-        "avatar": "https://a.ppy.sh/9921139"
-      }
-    ],
-    "dates": {
-      "start": "July 2, 2024",
-      "end": "September 23, 2024"
-    },
-    "rank": "500-10k",
-    "type": "Standard",
-    "format": "1v1",
-    "badge": {
-      "hasBadge": true,
-      "statusText": "Approved",
-      "icons": [
-        "badges/ec2.png"
-      ]
-    },
-    "roles": [
-      {
-        "name": "Referee",
-        "class": "role-referee"
-      },
-      {
-        "name": "Caster",
-        "class": "role-caster"
-      },
-      {
-        "name": "Streamer",
-        "class": "role-streamer"
-      }
-    ],
-    "links": [
-      {
-        "name": "Forum Post",
-        "url": "https://osu.ppy.sh/community/forums/topics/1943185?n=1",
-        "icon": "../src/icons/osu-blue.png"
-      },
-      {
-        "name": "Spreadsheet",
-        "url": "https://docs.google.com/spreadsheets/d/1REU0Go2rzN-lHzZ9MSsYKpBbPfPfKlQV-Dgwd5qPGdg/edit?gid=0#gid=0",
-        "icon": "../src/icons/file-spreadsheet-blue.svg"
-      },
-      {
-        "name": "Twitch",
-        "url": "https://www.twitch.tv/ternafistournaments/videos",
-        "icon": "../src/icons/twitch-blue.svg"
-      },
-      {
-        "name": "Tcomm page",
-        "url": "https://tcomm.hivie.tn/tournaments/67ec5fe20f2d0e2420936b37",
-        "icon": "../src/icons/tcomm.svg"
-      }
-    ],
-    "comments": "Nice"
-  },
-  {
-    "number": "03",
-    "name": "6 Digit World Cup 2024",
-    "subtitle": "100k-999k · Standard · 4v4 (TS 8)",
-    "status": "completed",
-    "banner": "banners/6wc24.png",
-    "rucast": {
-      "class": "tc-cast",
-      "url": "https://www.twitch.tv/tc_cast/videos"
-    },
-    "hosts": [
-      {
-        "name": "Mashyuf",
-        "url": "https://osu.ppy.sh/users/14356517",
-        "avatar": "https://a.ppy.sh/14356517"
-      }
-    ],
-    "dates": {
-      "start": "July 1, 2024",
-      "end": "October 6, 2024"
-    },
-    "rank": "100k-999k",
-    "type": "Standard",
-    "format": "4v4 (TS 8)",
-    "badge": {
-      "hasBadge": false,
-      "text": "No badge"
-    },
-    "roles": [
-      {
-        "name": "Restreamer",
-        "class": "role-restreamer"
-      },
-      {
-        "name": "Caster",
-        "class": "role-caster"
-      },
-      {
-        "name": "Streamer",
-        "class": "role-streamer"
-      }
-    ],
-    "links": [
-      {
-        "name": "Forum Post",
-        "url": "https://osu.ppy.sh/community/forums/topics/1942416?n=1",
-        "icon": "../src/icons/osu-blue.png"
-      },
-      {
-        "name": "Spreadsheet",
-        "url": "https://docs.google.com/spreadsheets/d/1L4HSL0Ssn40kK71bEd52yNZmZkWVsSbxRX-Ovj_lEfQ/edit?gid=0#gid=0",
-        "icon": "../src/icons/file-spreadsheet-blue.svg"
-      },
-      {
-        "name": "Twitch",
-        "url": "https://www.twitch.tv/6wc_osu/videos",
-        "icon": "../src/icons/twitch-blue.svg"
-      },
-      {
-        "name": "TС Cast",
-        "url": "https://www.twitch.tv/tc_cast/videos",
-        "icon": "../src/icons/twitch-blue.svg"
-      }
-    ],
-    "comments": "Gand Finals stream early in the morning 😊"
-  },
-  {
-    "number": "04",
-    "name": "Shika Random Tournament",
-    "subtitle": "7k-100k (Russian speaking only) · Standard · 4v4 (TS 8)",
-    "status": "completed",
-    "banner": "banners/shika.jpg",
-    "rucast": null,
-    "hosts": [
-      {
-        "name": "_Rossweisse_",
-        "url": "https://osu.ppy.sh/users/11621577",
-        "avatar": "https://a.ppy.sh/11621577"
-      }
-    ],
-    "dates": {
-      "start": "July 20, 2024",
-      "end": "October 13, 2024"
-    },
-    "rank": "7k-100k (Russian speaking only)",
-    "type": "Standard",
-    "format": "4v4 (TS 8)",
-    "badge": {
-      "hasBadge": true,
-      "statusText": "Approved",
-      "icons": [
-        "badges/shika.png"
-      ]
-    },
-    "roles": [
-      {
-        "name": "Caster",
-        "class": "role-caster"
-      },
-      {
-        "name": "Streamer",
-        "class": "role-streamer"
-      }
-    ],
-    "links": [
-      {
-        "name": "Forum Post",
-        "url": "https://osu.ppy.sh/community/forums/topics/1951508?n=1",
-        "icon": "../src/icons/osu-blue.png"
-      },
-      {
-        "name": "Spreadsheet",
-        "url": "https://docs.google.com/spreadsheets/d/1k8How9YjeGDOnVGxV39HvuXlfVqUU4GhxmSFEAX-9Lg/edit?gid=0#gid=0",
-        "icon": "../src/icons/file-spreadsheet-blue.svg"
-      },
-      {
-        "name": "Tcomm page",
-        "url": "https://tcomm.hivie.tn/tournaments/67ec5ff90f2d0e2420936c64",
-        "icon": "../src/icons/tcomm.svg"
-      }
-    ],
-    "comments": "Two out of the two matches I wanted to stream got canceled.\n                  Well, at least I got to commentate one"
-  },
-  {
-    "number": "05",
-    "name": "Gasha Cup Legacy",
-    "subtitle": "1-100k (Russian speaking only) · Draft · 3v3 (TS 4)",
-    "status": "completed",
-    "banner": "banners/gasha.png",
-    "rucast": null,
-    "hosts": [
-      {
-        "name": "z0mbir",
-        "url": "https://osu.ppy.sh/users/4939107",
-        "avatar": "https://a.ppy.sh/4939107"
-      }
-    ],
-    "dates": {
-      "start": "October 2, 2024",
-      "end": "December 2, 2024"
-    },
-    "rank": "1-100k (Russian speaking only)",
-    "type": "Draft",
-    "format": "3v3 (TS 4)",
-    "badge": {
-      "hasBadge": true,
-      "statusText": "Approved",
-      "icons": [
-        "badges/gasha.png"
-      ]
-    },
-    "roles": [
-      {
-        "name": "Referee",
-        "class": "role-referee"
-      },
-      {
-        "name": "Caster",
-        "class": "role-caster"
-      },
-      {
-        "name": "Streamer",
-        "class": "role-streamer"
-      }
-    ],
-    "links": [
-      {
-        "name": "Forum Post",
-        "url": "https://osu.ppy.sh/community/forums/topics/1972373?n=1",
-        "icon": "../src/icons/osu-blue.png"
-      },
-      {
-        "name": "Spreadsheet",
-        "url": "https://docs.google.com/spreadsheets/d/1ep3HQCwwenXmNWrXvrr0a83swgfBYvWsZNwpGLvBB-E/edit?gid=645297264#gid=645297264",
-        "icon": "../src/icons/file-spreadsheet-blue.svg"
-      },
-      {
-        "name": "Twitch",
-        "url": "https://www.twitch.tv/gashacup/videos",
-        "icon": "../src/icons/twitch-blue.svg"
-      },
-      {
-        "name": "Tcomm page",
-        "url": "https://tcomm.hivie.tn/tournaments/67ec601e0f2d0e2420936e0f",
-        "icon": "../src/icons/tcomm.svg"
-      }
-    ],
-    "comments": "I did a great job streaming the matches of the top players"
-  },
-  {
-    "number": "06",
-    "name": "osu!community cup 5",
-    "subtitle": "Open Rank · Standard · 1v1",
-    "status": "completed",
-    "banner": "banners/occ5.png",
-    "rucast": null,
-    "hosts": [],
-    "dates": {
-      "start": "October 26, 2024",
-      "end": "December 22, 2024"
-    },
-    "rank": "Open Rank",
-    "type": "Standard",
-    "format": "1v1",
-    "badge": {
-      "hasBadge": true,
-      "statusText": "",
-      "icons": []
-    },
-    "roles": [
-      {
-        "name": "Streamer",
-        "class": "role-streamer"
-      }
-    ],
-    "links": [
-      {
-        "name": "Spreadsheet",
-        "url": "https://docs.google.com/spreadsheets/d/1qrhU-APGpqNHHSUncaSvY2F-Yq1_VIkCAV0badJQXvg/edit?gid=1182072436#gid=1182072436",
-        "icon": "../src/icons/file-spreadsheet-blue.svg"
-      }
-    ],
-    "comments": "Thanks for the tournament. It was fun to stream it"
-  },
-  {
-    "number": "07",
-    "name": "Kazakhstan Tournament Mafia Cup 1",
-    "subtitle": "40k-999k (Kazakhstan only) · Draft · 2v2 (TS 3)",
-    "status": "completed",
-    "banner": "banners/KTMC1.png",
-    "rucast": null,
-    "hosts": [
-      {
-        "name": "Nordax21",
-        "url": "https://osu.ppy.sh/users/11603379",
-        "avatar": "https://a.ppy.sh/11603379"
-      }
-    ],
-    "dates": {
-      "start": "October 14, 2024",
-      "end": "January 13, 2025"
-    },
-    "rank": "40k-999k (Kazakhstan only)",
-    "type": "Draft",
-    "format": "2v2 (TS 3)",
-    "badge": {
-      "hasBadge": true,
-      "statusText": "",
-      "icons": []
-    },
-    "roles": [
-      {
-        "name": "Caster",
-        "class": "role-caster"
-      },
-      {
-        "name": "Streamer",
-        "class": "role-streamer"
-      },
-      {
-        "name": "GFX",
-        "class": "role-gfx"
-      },
-      {
-        "name": "tosu overlay developer",
-        "class": "role-developer",
-        "url": "https://skvidos.github.io/about-me/overlays/index.html"
-      }
-    ],
-    "links": [
-      {
-        "name": "Forum Post",
-        "url": "https://osu.ppy.sh/community/forums/topics/1989832?n=1",
-        "icon": "../src/icons/osu-blue.png"
-      },
-      {
-        "name": "Spreadsheet",
-        "url": "https://docs.google.com/spreadsheets/d/1Pn1ewjieX7JGpbCm1gsip8Hiy0Tx7FrV1CEp2pOeEHI/edit?gid=0#gid=0",
-        "icon": "../src/icons/file-spreadsheet-blue.svg"
-      },
-      {
-        "name": "Twitch",
-        "url": "https://www.twitch.tv/ktm_tournaments/videos",
-        "icon": "../src/icons/twitch-blue.svg"
-      }
-    ],
-    "comments": "A lot of work has been done. Thank you Nordax21 for organizing\n                  this tournament"
-  },
-  {
-    "number": "08",
-    "name": "osu!Kazakhstan Collegiate Cup",
-    "subtitle": "Open Rank (Kazakhstani Students Only) · Standard · 2v2 (TS\n                    2)",
-    "status": "completed",
-    "banner": "banners/okc.png",
-    "rucast": null,
-    "hosts": [
-      {
-        "name": "Lightin",
-        "url": "https://osu.ppy.sh/users/7595619",
-        "avatar": "https://a.ppy.sh/7595619"
-      }
-    ],
-    "dates": {
-      "start": "October 14, 2024",
-      "end": "December 8, 2024"
-    },
-    "rank": "Open Rank (Kazakhstani Students Only)",
-    "type": "Standard",
-    "format": "2v2 (TS 2)",
-    "badge": {
-      "hasBadge": true,
-      "statusText": "",
-      "icons": []
-    },
-    "roles": [
-      {
-        "name": "Referee",
-        "class": "role-referee"
-      },
-      {
-        "name": "Caster",
-        "class": "role-caster"
-      },
-      {
-        "name": "Streamer",
-        "class": "role-streamer"
-      }
-    ],
-    "links": [
-      {
-        "name": "Forum Post",
-        "url": "https://osu.ppy.sh/community/forums/topics/1990080?n=1",
-        "icon": "../src/icons/osu-blue.png"
-      },
-      {
-        "name": "Spreadsheet",
-        "url": "https://docs.google.com/spreadsheets/d/1tJzNHHs7OOHnte4nQfMonMeSNDnHCTcHsHemjRLwi4k/edit?usp=sharing",
-        "icon": "../src/icons/file-spreadsheet-blue.svg"
-      },
-      {
-        "name": "Twitch",
-        "url": "https://www.twitch.tv/nujapaneseclub/videos",
-        "icon": "../src/icons/twitch-blue.svg"
-      }
-    ],
-    "comments": "I didn't stream much, but the tournament was top"
-  },
-  {
-    "number": "09",
-    "name": "Котятки Cup 3",
-    "subtitle": "Open Rank · Draft · 2v2 (TS 3)",
-    "status": "completed",
-    "banner": "banners/kot3.png",
-    "rucast": null,
-    "hosts": [],
-    "dates": {
-      "start": "Decebmer 28, 2024",
-      "end": "February 8, 2025"
-    },
-    "rank": "Open Rank",
-    "type": "Draft",
-    "format": "2v2 (TS 3)",
-    "badge": {
-      "hasBadge": true,
-      "statusText": "",
-      "icons": []
-    },
-    "roles": [
-      {
-        "name": "Streamer",
-        "class": "role-streamer"
-      }
-    ],
-    "links": [
-      {
-        "name": "Spreadsheet",
-        "url": "https://docs.google.com/spreadsheets/d/1aKTp_HkdCUE4ok9L8sXW826C6Gc8uwAjpJkW7VgMSu0/edit?gid=2086491910#gid=2086491910",
-        "icon": "../src/icons/file-spreadsheet-blue.svg"
-      }
-    ],
-    "comments": "It was a good tournament. I enjoyed it. Too bad I didn't\n                  stream much."
-  },
-  {
-    "number": "10",
-    "name": "TRAVKA CUP",
-    "subtitle": "Open Rank · Standard · 1v1",
-    "status": "completed",
-    "banner": "banners/travka.png",
-    "rucast": null,
-    "hosts": [
-      {
-        "name": "garab1k",
-        "url": "https://osu.ppy.sh/users/9984244",
-        "avatar": "https://a.ppy.sh/9984244"
-      }
-    ],
-    "dates": {
-      "start": "January 16, 2025",
-      "end": "March 16, 2025"
-    },
-    "rank": "Open Rank",
-    "type": "Standard",
-    "format": "1v1",
-    "badge": {
-      "hasBadge": true,
-      "statusText": "Approved",
-      "icons": [
-        "badges/travka.png"
-      ]
-    },
-    "roles": [
-      {
-        "name": "Streamer",
-        "class": "role-streamer"
-      }
-    ],
-    "links": [
-      {
-        "name": "Forum Post",
-        "url": "https://osu.ppy.sh/community/forums/topics/2007458?n=1",
-        "icon": "../src/icons/osu-blue.png"
-      },
-      {
-        "name": "Spreadsheet",
-        "url": "https://docs.google.com/spreadsheets/d/1ABBrNpsac7J_dqhsginXiqayrzlP5sNhrptToW1jrko/edit?gid=0#gid=0",
-        "icon": "../src/icons/file-spreadsheet-blue.svg"
-      },
-      {
-        "name": "Twitch",
-        "url": "https://www.twitch.tv/travkacup/videos",
-        "icon": "../src/icons/twitch-blue.svg"
-      },
-      {
-        "name": "Tcomm page",
-        "url": "https://tcomm.hivie.tn/tournaments/67ec60490f2d0e242093701f",
-        "icon": "../src/icons/tcomm.svg"
-      }
-    ],
-    "comments": "I don't know, something about this tournament really got me\n                  all fired up. I streamed one match, and there weren't any\n                  casters and streamers, for that matter"
-  },
-  {
-    "number": "11",
-    "name": "6 Digit European Cup 2025",
-    "subtitle": "100k-999k · Standard · 4v4 (TS 8)",
-    "status": "completed",
-    "banner": "banners/6ec25.png",
-    "rucast": null,
-    "hosts": [
-      {
-        "name": "FrauOn",
-        "url": "https://osu.ppy.sh/users/14942638",
-        "avatar": "https://a.ppy.sh/14942638"
-      },
-      {
-        "name": "WheelsWaz",
-        "url": "https://osu.ppy.sh/users/21404004",
-        "avatar": "https://a.ppy.sh/21404004"
-      }
-    ],
-    "dates": {
-      "start": "January 27, 2025",
-      "end": "March 30, 2025"
-    },
-    "rank": "100k-999k",
-    "type": "Standard",
-    "format": "4v4 (TS 8)",
-    "badge": {
-      "hasBadge": true,
-      "statusText": "",
-      "icons": []
-    },
-    "roles": [
-      {
-        "name": "Referee",
-        "class": "role-referee"
-      },
-      {
-        "name": "Caster",
-        "class": "role-caster"
-      },
-      {
-        "name": "Streamer",
-        "class": "role-streamer"
-      },
-      {
-        "name": "GFX",
-        "class": "role-gfx"
-      },
-      {
-        "name": "tosu overlay developer",
-        "class": "role-developer",
-        "url": "https://skvidos.github.io/about-me/overlays/index.html"
-      }
-    ],
-    "links": [
-      {
-        "name": "Forum Post",
-        "url": "https://osu.ppy.sh/community/forums/topics/2015866?n=1",
-        "icon": "../src/icons/osu-blue.png"
-      },
-      {
-        "name": "Spreadsheet",
-        "url": "https://docs.google.com/spreadsheets/d/1o5yW-YzqhzKnUhZ0usQReoVOigLjVEhfz6ZIpwa6CTg/edit?gid=1689800604#gid=1689800604",
-        "icon": "../src/icons/file-spreadsheet-blue.svg"
-      },
-      {
-        "name": "Twitch",
-        "url": "https://www.twitch.tv/6ec_osu/videos",
-        "icon": "../src/icons/twitch-blue.svg"
-      }
-    ],
-    "comments": "Awesome tournament. My first time streaming in English cast\n                  and I made a cool tournament overlay!"
-  },
-  {
-    "number": "12",
-    "name": "5 Digit European Cup 2025",
-    "subtitle": "10k-99.9k · Standard · 4v4 (TS 8)",
-    "status": "completed",
-    "banner": "banners/5ec25.png",
-    "rucast": {
-      "class": "tc-cast",
-      "url": "https://www.twitch.tv/tc_cast/videos"
-    },
-    "hosts": [
-      {
-        "name": "Kyori_",
-        "url": "https://osu.ppy.sh/users/18389558",
-        "avatar": "https://a.ppy.sh/18389558"
-      },
-      {
-        "name": "BeZonaurul",
-        "url": "https://osu.ppy.sh/users/11068604",
-        "avatar": "https://a.ppy.sh/11068604"
-      }
-    ],
-    "dates": {
-      "start": "December 1, 2024",
-      "end": "March 23, 2025"
-    },
-    "rank": "10k-99.9k",
-    "type": "Standard",
-    "format": "4v4 (TS 8)",
-    "badge": {
-      "hasBadge": true,
-      "statusText": "Approved",
-      "icons": [
-        "badges/5ec25.png"
-      ]
-    },
-    "roles": [
-      {
-        "name": "Restreamer",
-        "class": "role-restreamer"
-      },
-      {
-        "name": "Caster",
-        "class": "role-caster"
-      },
-      {
-        "name": "Streamer",
-        "class": "role-streamer"
-      }
-    ],
-    "links": [
-      {
-        "name": "Forum Post",
-        "url": "https://osu.ppy.sh/community/forums/topics/2010087?n=1",
-        "icon": "../src/icons/osu-blue.png"
-      },
-      {
-        "name": "Spreadsheet",
-        "url": "https://docs.google.com/spreadsheets/d/1guAhwo6XqcTp1xWIQbnZoVOiw5G5KfAkNzDB4iM8CjU/edit",
-        "icon": "../src/icons/file-spreadsheet-blue.svg"
-      },
-      {
-        "name": "Twitch",
-        "url": "https://www.twitch.tv/5digiteuropeancup/videos",
-        "icon": "../src/icons/twitch-blue.svg"
-      },
-      {
-        "name": "TС Cast",
-        "url": "https://www.twitch.tv/tc_cast/videos",
-        "icon": "../src/icons/twitch-blue.svg"
-      },
-      {
-        "name": "Tcomm page",
-        "url": "https://tcomm.hivie.tn/tournaments/67ec60630f2d0e2420937159",
-        "icon": "../src/icons/tcomm.svg"
-      },
-      {
-        "name": "Liquipedia",
-        "url": "https://liquipedia.net/osu/5_Digit_European_Cup/2025",
-        "icon": "../src/icons/liquipedia.png"
-      }
-    ],
-    "comments": "Re-streaming is definitely cool, but there's always the\n                  problem with the commentators—they're never there, which kind\n                  of sucks"
-  },
-  {
-    "number": "13",
-    "name": "5 Digit World Cup 2025",
-    "subtitle": "10k-99.9k · Standard · 4v4 (TS 8)",
-    "status": "completed",
-    "banner": "banners/5wc25.png",
-    "rucast": {
-      "class": "tc-cast",
-      "url": "https://www.twitch.tv/tc_cast/videos"
-    },
     "hosts": [
       {
         "name": "LumenLogic",
@@ -751,680 +14,46 @@
       }
     ],
     "dates": {
-      "start": "February 25, 2025",
-      "end": "April 13, 2025"
+      "start": "October 11, 2026",
+      "end": "idk"
     },
-    "rank": "10k-99.9k",
+    "rank": "Open Rank (Only Students)",
     "type": "Standard",
-    "format": "4v4 (TS 8)",
+    "format": "3v3",
     "badge": {
-      "hasBadge": true,
-      "statusText": "Approved",
-      "icons": [
-        "badges/5wc25.png"
-      ]
+      "hasBadge": false,
+      "text": "No badge"
     },
     "roles": [
+      {
+        "name": "Streamer",
+        "class": "role-streamer"
+      },
       {
         "name": "Restreamer",
         "class": "role-restreamer"
-      },
-      {
-        "name": "Caster",
-        "class": "role-caster"
-      },
-      {
-        "name": "Streamer",
-        "class": "role-streamer"
       }
     ],
     "links": [
       {
         "name": "Forum Post",
-        "url": "https://osu.ppy.sh/community/forums/topics/2028931",
+        "url": "https://osu.ppy.sh/community/forums/topics/2244941?n=1",
         "icon": "../src/icons/osu-blue.png"
       },
       {
         "name": "Spreadsheet",
-        "url": "https://docs.google.com/spreadsheets/d/1Zm4bKyWxron56ynG4SKYe80pUiZdPiWJmVwOoq2qa0c/edit?gid=0#gid=0",
-        "icon": "../src/icons/file-spreadsheet-blue.svg"
-      },
-      {
-        "name": "Twitch",
-        "url": "https://www.twitch.tv/5wc2025/videos",
-        "icon": "../src/icons/twitch-blue.svg"
-      },
-      {
-        "name": "TС Cast",
-        "url": "https://www.twitch.tv/tc_cast/videos",
-        "icon": "../src/icons/twitch-blue.svg"
-      },
-      {
-        "name": "Liquipedia",
-        "url": "https://liquipedia.net/osu/5_Digit_World_Cup/2025",
-        "icon": "../src/icons/liquipedia.png"
-      }
-    ],
-    "comments": "Same like 5ec25"
-  },
-  {
-    "number": "14",
-    "name": "Osu! Emo Cup",
-    "subtitle": "5k-50k (Russian speaking only) · Standard · 2v2 (TS 2)",
-    "status": "completed",
-    "banner": "banners/oec.png",
-    "rucast": null,
-    "hosts": [
-      {
-        "name": "Ch0knyt",
-        "url": "https://osu.ppy.sh/users/10360432",
-        "avatar": "https://a.ppy.sh/10360432"
-      }
-    ],
-    "dates": {
-      "start": "March 10, 2025",
-      "end": "April 27, 2025"
-    },
-    "rank": "5k-50k (Russian speaking only)",
-    "type": "Standard",
-    "format": "2v2 (TS 2)",
-    "badge": {
-      "hasBadge": true,
-      "statusText": "Approved",
-      "icons": [
-        "badges/oec.png"
-      ]
-    },
-    "roles": [
-      {
-        "name": "Referee",
-        "class": "role-referee"
-      },
-      {
-        "name": "Caster",
-        "class": "role-caster"
-      },
-      {
-        "name": "Streamer",
-        "class": "role-streamer"
-      },
-      {
-        "name": "tosu overlay developer",
-        "class": "role-developer",
-        "url": "https://skvidos.github.io/about-me/overlays/index.html"
-      }
-    ],
-    "links": [
-      {
-        "name": "Forum Post",
-        "url": "https://osu.ppy.sh/community/forums/topics/2031047?n=1",
-        "icon": "../src/icons/osu-blue.png"
-      },
-      {
-        "name": "Spreadsheet",
-        "url": "https://docs.google.com/spreadsheets/d/1UGtbVI40wAOqp3YY4llT6yN2cVQWpiNgssri2C-pkk8/edit?gid=859819526#gid=859819526",
-        "icon": "../src/icons/file-spreadsheet-blue.svg"
-      },
-      {
-        "name": "Twitch",
-        "url": "http://twitch.tv/ch0knyt/videos",
-        "icon": "../src/icons/twitch-blue.svg"
-      },
-      {
-        "name": "Tcomm page",
-        "url": "https://tcomm.hivie.tn/tournaments/67ec60770f2d0e2420937242",
-        "icon": "../src/icons/tcomm.svg"
-      }
-    ],
-    "comments": "A really awesome tournament. I made a really cool overlay,\n                  streamed a lot of matches, and got to talk to so many nice\n                  people! Thanks to\n                  Ch0knyt\n                  for organizing this tournament. Oh, and the stream with\n                  talala\n                  on GFs!"
-  },
-  {
-    "number": "15",
-    "name": "Котятки Random Cup",
-    "subtitle": "Open Rank · Draft · 2v2 (TS 3)",
-    "status": "completed",
-    "banner": "banners/kotr.png",
-    "rucast": null,
-    "hosts": [],
-    "dates": {
-      "start": "March 3, 2025",
-      "end": "June 22, 2025"
-    },
-    "rank": "Open Rank",
-    "type": "Draft",
-    "format": "2v2 (TS 3)",
-    "badge": {
-      "hasBadge": true,
-      "statusText": "",
-      "icons": []
-    },
-    "roles": [
-      {
-        "name": "Streamer",
-        "class": "role-streamer"
-      }
-    ],
-    "links": [
-      {
-        "name": "Spreadsheet",
-        "url": "https://docs.google.com/spreadsheets/d/19klCPNsyn51xN-ZqagKfKp8wm1Mw0ccLeSkyfR42I1E/edit?gid=2094230702#gid=2094230702",
+        "url": "https://docs.google.com/spreadsheets/d/1GRUz2t5IZqb3mbXI1ywAOphNMtNjVpHREcNcVTee5mg/edit",
         "icon": "../src/icons/file-spreadsheet-blue.svg"
       }
     ],
-    "comments": "One successful stream 😊"
+    "comments": ""
   },
   {
-    "number": "16",
-    "name": "VITYA Cup: RABBIT",
-    "subtitle": "Open Rank (Russian speaking only) · Standard · 1v1",
-    "status": "completed",
-    "banner": "banners/vityacuprabbit.png",
-    "rucast": null,
-    "hosts": [
-      {
-        "name": "JustRoxy",
-        "url": "https://osu.ppy.sh/users/9083516",
-        "avatar": "https://a.ppy.sh/9083516"
-      }
-    ],
-    "dates": {
-      "start": "May 17, 2025",
-      "end": "June 29, 2025"
-    },
-    "rank": "Open Rank (Russian speaking only)",
-    "type": "Standard",
-    "format": "1v1",
-    "badge": {
-      "hasBadge": true,
-      "statusText": "Approved",
-      "icons": [
-        "badges/vityacuprabbit.png"
-      ]
-    },
-    "roles": [
-      {
-        "name": "Referee",
-        "class": "role-referee"
-      },
-      {
-        "name": "Streamer",
-        "class": "role-streamer"
-      }
-    ],
-    "links": [
-      {
-        "name": "Forum Post",
-        "url": "https://osu.ppy.sh/community/forums/topics/2066186?n=1",
-        "icon": "../src/icons/osu-blue.png"
-      },
-      {
-        "name": "Spreadsheet",
-        "url": "https://docs.google.com/spreadsheets/d/1YKQfDz7EHvhi8WXUqkQlSI2gRobIS-8SRWAXm-j4-K8/edit?gid=1855546747#gid=1855546747",
-        "icon": "../src/icons/file-spreadsheet-blue.svg"
-      },
-      {
-        "name": "Twitch",
-        "url": "https://www.twitch.tv/vityacup/videos",
-        "icon": "../src/icons/twitch-blue.svg"
-      },
-      {
-        "name": "Tcomm page",
-        "url": "https://tcomm.hivie.tn/tournaments/680f83b56d8222a26abcd0e3",
-        "icon": "../src/icons/tcomm.svg"
-      }
-    ],
-    "comments": "It was a good tournament. I was happy to take part in it"
-  },
-  {
-    "number": "17",
-    "name": "Emo4kapro's Noob Tournament",
-    "subtitle": "90k-315k · Standard · 2v2 (TS 2)",
-    "status": "completed",
-    "banner": "banners/ent.png",
-    "rucast": null,
-    "hosts": [
-      {
-        "name": "emo4kapro",
-        "url": "https://osu.ppy.sh/users/20629395",
-        "avatar": "https://a.ppy.sh/20629395"
-      }
-    ],
-    "dates": {
-      "start": "June 6, 2025",
-      "end": "July 20, 2025"
-    },
-    "rank": "90k-315k",
-    "type": "Standard",
-    "format": "2v2 (TS 2)",
-    "badge": {
-      "hasBadge": true,
-      "statusText": "",
-      "icons": []
-    },
-    "roles": [
-      {
-        "name": "Admin",
-        "class": "role-admin"
-      },
-      {
-        "name": "Streamer",
-        "class": "role-streamer"
-      }
-    ],
-    "links": [
-      {
-        "name": "Forum Post",
-        "url": "https://osu.ppy.sh/community/forums/topics/2078056?n=1",
-        "icon": "../src/icons/osu-blue.png"
-      },
-      {
-        "name": "Spreadsheet",
-        "url": "https://docs.google.com/spreadsheets/d/1g4bkZ94HfN2eqFXB03BWZPio3MrfG7p3mqxXQYI39LU/edit?gid=1081147069#gid=1081147069",
-        "icon": "../src/icons/file-spreadsheet-blue.svg"
-      },
-      {
-        "name": "Twitch",
-        "url": "https://www.twitch.tv/emo4kanoobtourney/videos",
-        "icon": "../src/icons/twitch-blue.svg"
-      }
-    ],
-    "comments": "Thanks to emo4kapro for organizing the tournament. I was a\n                  really good “admin”"
-  },
-  {
-    "number": "18",
-    "name": "Lightin's Crystal Tide",
-    "subtitle": "Open Rank · Standard · 3v3 (TS 6)",
-    "status": "completed",
-    "banner": "banners/lct.png",
-    "rucast": null,
-    "hosts": [
-      {
-        "name": "Lightin",
-        "url": "https://osu.ppy.sh/users/7595619",
-        "avatar": "https://a.ppy.sh/7595619"
-      }
-    ],
-    "dates": {
-      "start": "June 28, 2025",
-      "end": "August 10, 2025"
-    },
-    "rank": "Open Rank",
-    "type": "Standard",
-    "format": "3v3 (TS 6)",
-    "badge": {
-      "hasBadge": true,
-      "statusText": "Approved",
-      "icons": [
-        "badges/lct.png"
-      ]
-    },
-    "roles": [
-      {
-        "name": "Streamer",
-        "class": "role-streamer"
-      },
-      {
-        "name": "tosu overlay developer",
-        "class": "role-developer",
-        "url": "https://skvidos.github.io/about-me/overlays/index.html"
-      }
-    ],
-    "links": [
-      {
-        "name": "Forum Post",
-        "url": "https://osu.ppy.sh/community/forums/topics/2082736?n=1",
-        "icon": "../src/icons/osu-blue.png"
-      },
-      {
-        "name": "Spreadsheet",
-        "url": "https://docs.google.com/spreadsheets/d/1CdXkaaHHRMMilxBecHRYwp8DKYxkww0_PgVMlvnD6Gw/edit",
-        "icon": "../src/icons/file-spreadsheet-blue.svg"
-      },
-      {
-        "name": "Twitch",
-        "url": "https://www.twitch.tv/notlightin/videos",
-        "icon": "../src/icons/twitch-blue.svg"
-      },
-      {
-        "name": "Tcomm page",
-        "url": "https://tcomm.hivie.tn/tournaments/68501f5d8bda4add5afb27c2",
-        "icon": "../src/icons/tcomm.svg"
-      },
-      {
-        "name": "Liquipedia",
-        "url": "https://liquipedia.net/osu/Lightin%27s_Crystal_Tide",
-        "icon": "../src/icons/liquipedia.png"
-      }
-    ],
-    "comments": "Thank you to Lightin for organizing this tournament. It was a\n                  pleasure working with him."
-  },
-  {
-    "number": "19",
-    "name": "Minimalistic Cup",
-    "subtitle": "10k-99k (Russian speaking only) · Standard · 1v1",
-    "status": "completed",
-    "banner": "banners/minimalistic.png",
-    "rucast": null,
-    "hosts": [
-      {
-        "name": "ikigatsumaru",
-        "url": "https://osu.ppy.sh/users/24658561",
-        "avatar": "https://a.ppy.sh/24658561"
-      },
-      {
-        "name": "Frindin",
-        "url": "https://osu.ppy.sh/users/17124682",
-        "avatar": "https://a.ppy.sh/17124682"
-      }
-    ],
-    "dates": {
-      "start": "June 28, 2025",
-      "end": "August 10, 2025"
-    },
-    "rank": "10k-99k (Russian speaking only)",
-    "type": "Standard",
-    "format": "1v1",
-    "badge": {
-      "hasBadge": true,
-      "statusText": "Approved",
-      "icons": [
-        "badges/minimalistic.png"
-      ]
-    },
-    "roles": [
-      {
-        "name": "Streamer",
-        "class": "role-streamer"
-      },
-      {
-        "name": "tosu overlay developer",
-        "class": "role-developer",
-        "url": "https://skvidos.github.io/about-me/overlays/index.html"
-      }
-    ],
-    "links": [
-      {
-        "name": "Forum Post",
-        "url": "https://osu.ppy.sh/community/forums/topics/2082372?n=1",
-        "icon": "../src/icons/osu-blue.png"
-      },
-      {
-        "name": "Spreadsheet",
-        "url": "https://docs.google.com/spreadsheets/d/1zZgbOAIoqOnatAnymBfPWCxuycCh7gC8HFJiot4FQRI/edit?gid=1176348381#gid=1176348381",
-        "icon": "../src/icons/file-spreadsheet-blue.svg"
-      },
-      {
-        "name": "Twitch",
-        "url": "https://www.twitch.tv/minimalisticcup/videos",
-        "icon": "../src/icons/twitch-blue.svg"
-      },
-      {
-        "name": "Tcomm page",
-        "url": "https://tcomm.hivie.tn/tournaments/68459e2cd410af37f86f20ed",
-        "icon": "../src/icons/tcomm.svg"
-      }
-    ],
-    "comments": "A fun 1v1 tournament. I didn't stream it, but I made a cool\n                  overlay"
-  },
-  {
-    "number": "20",
-    "name": "osu!Kazakhstan Community Cup 6",
-    "subtitle": "Open Rank (Kazakhstan and Kyrgyzstan only) · Standard · 1v1",
-    "status": "completed",
-    "banner": "banners/KZcup6.png",
-    "rucast": null,
-    "hosts": [
-      {
-        "name": "Lightin",
-        "url": "https://osu.ppy.sh/users/7595619",
-        "avatar": "https://a.ppy.sh/7595619"
-      }
-    ],
-    "dates": {
-      "start": "July 12, 2025",
-      "end": "August 31, 2025"
-    },
-    "rank": "Open Rank (Kazakhstan and Kyrgyzstan only)",
-    "type": "Standard",
-    "format": "1v1",
-    "badge": {
-      "hasBadge": true,
-      "statusText": "Approved",
-      "icons": [
-        "badges/kzcup6.png"
-      ]
-    },
-    "roles": [
-      {
-        "name": "Referee",
-        "class": "role-referee"
-      },
-      {
-        "name": "Caster",
-        "class": "role-caster"
-      },
-      {
-        "name": "Streamer",
-        "class": "role-streamer"
-      }
-    ],
-    "links": [
-      {
-        "name": "Forum Post",
-        "url": "https://osu.ppy.sh/community/forums/topics/2092254?n=1",
-        "icon": "../src/icons/osu-blue.png"
-      },
-      {
-        "name": "Spreadsheet",
-        "url": "https://docs.google.com/spreadsheets/d/1IriINvQy8VKuB3yeVZpxJkRYa3-bqaJnol1L-uRt4d4/edit?gid=0#gid=0",
-        "icon": "../src/icons/file-spreadsheet-blue.svg"
-      },
-      {
-        "name": "Twitch",
-        "url": "https://www.twitch.tv/osukazakhstan/videos",
-        "icon": "../src/icons/twitch-blue.svg"
-      },
-      {
-        "name": "Tcomm page",
-        "url": "https://tcomm.hivie.tn/tournaments/6860229ee93dc18f1d40640c",
-        "icon": "../src/icons/tcomm.svg"
-      },
-      {
-        "name": "Liquipedia",
-        "url": "https://liquipedia.net/osu/Osu!kz_Community_Cup/6",
-        "icon": "../src/icons/liquipedia.png"
-      }
-    ],
-    "comments": "\"@Skvidos - My man started his career as a streamer last\n                  iteration for osu!Kazakhstan Community Cup 5 and since then\n                  became the MOST active streamer in CIS that has been doing so\n                  much work not just for Kazakhstan tournaments but practically\n                  everywhere. I am gald we gave you the platform to grow and I\n                  am always happy to see you as a streamer on any tournament.\n                  The 🐐 of streamers for sure. THE BEST Streamer award for\n                  osu!Kazakhstan Community Cup 6 goes to: @Skvidos .\n                  Congratulations! - Lightin\""
-  },
-  {
-    "number": "21",
-    "name": "6 Digit World Cup 2025",
-    "subtitle": "100k - 999k · Standard · 4v4 (TS 8)",
-    "status": "completed",
-    "banner": "banners/6wc25.png",
-    "rucast": null,
-    "hosts": [
-      {
-        "name": "gamicrayola",
-        "url": "https://osu.ppy.sh/users/29426345",
-        "avatar": "https://a.ppy.sh/29426345"
-      }
-    ],
-    "dates": {
-      "start": "August 4, 2025",
-      "end": "September 21, 2025"
-    },
-    "rank": "100k - 999k",
-    "type": "Standard",
-    "format": "4v4 (TS 8)",
-    "badge": {
-      "hasBadge": false,
-      "text": "No badge"
-    },
-    "roles": [
-      {
-        "name": "Streamer",
-        "class": "role-streamer"
-      }
-    ],
-    "links": [
-      {
-        "name": "Forum Post",
-        "url": "https://osu.ppy.sh/community/forums/topics/2086828?n=1",
-        "icon": "../src/icons/osu-blue.png"
-      },
-      {
-        "name": "Spreadsheet",
-        "url": "https://docs.google.com/spreadsheets/d/1ja8dTQbEDG2S1AHTdfw_JE_C3lvdUpVSrnuovHHBlTg/edit?gid=1070934373#gid=1070934373",
-        "icon": "../src/icons/file-spreadsheet-blue.svg"
-      },
-      {
-        "name": "Twitch",
-        "url": "https://www.twitch.tv/project_hexagon/videos",
-        "icon": "../src/icons/twitch-blue.svg"
-      },
-      {
-        "name": "Tcomm page",
-        "url": "https://tcomm.hivie.tn/tournaments/6866d383a86ef9b03c192e0d",
-        "icon": "../src/icons/tcomm.svg"
-      },
-      {
-        "name": "Liquipedia",
-        "url": "https://liquipedia.net/osu/6_Digit_World_Cup/2025",
-        "icon": "../src/icons/liquipedia.png"
-      }
-    ],
-    "comments": "Project Hexagon is really doing things at a high level. I\n                  streamed almost all the matches in which Kazakhstan played"
-  },
-  {
-    "number": "22",
-    "name": "6 Digit World Cup 2025 (Minor League)",
-    "subtitle": "100k - 999k · Standard · 4v4 (TS 8)",
-    "status": "completed",
-    "banner": "banners/6wc25minor.png",
-    "rucast": null,
-    "hosts": [
-      {
-        "name": "WheelsWaz",
-        "url": "https://osu.ppy.sh/users/21404004",
-        "avatar": "https://a.ppy.sh/21404004"
-      }
-    ],
-    "dates": {
-      "start": "September 14, 2025",
-      "end": "October 19, 2025"
-    },
-    "rank": "100k - 999k",
-    "type": "Standard",
-    "format": "4v4 (TS 8)",
-    "badge": {
-      "hasBadge": false,
-      "text": "No badge"
-    },
-    "roles": [
-      {
-        "name": "Streamer",
-        "class": "role-streamer"
-      },
-      {
-        "name": "GFX",
-        "class": "role-gfx"
-      },
-      {
-        "name": "tosu overlay developer",
-        "class": "role-developer",
-        "url": "https://skvidos.github.io/about-me/overlays/index.html"
-      }
-    ],
-    "links": [
-      {
-        "name": "Spreadsheet",
-        "url": "https://docs.google.com/spreadsheets/d/1cbZm7F3ZkW65mCVKfijoQ01kqIrYmIiGXvYX-RBGE3U/edit?gid=968007802#gid=968007802",
-        "icon": "../src/icons/file-spreadsheet-blue.svg"
-      },
-      {
-        "name": "Twitch",
-        "url": "https://www.twitch.tv/6wcml_osu/videos",
-        "icon": "../src/icons/twitch-blue.svg"
-      }
-    ],
-    "comments": "It was another good experience working on the overlay, and I\n                  also had to deal with the language barrier, since everyone\n                  there speaks English"
-  },
-  {
-    "number": "23",
-    "name": "Russian Provincial Cup 2025",
-    "subtitle": "1-100k (Russian Only) · Standard · 3v3 (TS 4)",
-    "status": "completed",
-    "banner": "banners/rpc.png",
-    "rucast": null,
-    "hosts": [
-      {
-        "name": "Kobra_TF",
-        "url": "https://osu.ppy.sh/users/10035482",
-        "avatar": "https://a.ppy.sh/10035482"
-      },
-      {
-        "name": "normanzerga",
-        "url": "https://osu.ppy.sh/users/9887673",
-        "avatar": "https://a.ppy.sh/9887673"
-      }
-    ],
-    "dates": {
-      "start": "August 18, 2025",
-      "end": "October 5, 2025"
-    },
-    "rank": "1-100k (Russian only)",
-    "type": "Standard",
-    "format": "3v3 (TS 4)",
-    "badge": {
-      "hasBadge": true,
-      "statusText": "Approved",
-      "icons": [
-        "badges/rpc.png"
-      ]
-    },
-    "roles": [
-      {
-        "name": "Streamer",
-        "class": "role-streamer"
-      }
-    ],
-    "links": [
-      {
-        "name": "Forum Post",
-        "url": "https://osu.ppy.sh/community/forums/topics/2104690?n=1",
-        "icon": "../src/icons/osu-blue.png"
-      },
-      {
-        "name": "Spreadsheet",
-        "url": "https://docs.google.com/spreadsheets/d/1nrshran3png_sB5bj9zIKaiOJ9xs3mHF3IR_iAualwU/edit?usp=sharing",
-        "icon": "../src/icons/file-spreadsheet-blue.svg"
-      },
-      {
-        "name": "Twitch",
-        "url": "https://www.twitch.tv/russian_provincial_cups",
-        "icon": "../src/icons/twitch-blue.svg"
-      },
-      {
-        "name": "Tcomm page",
-        "url": "https://tcomm.hivie.tn/tournaments/6898b3769ee5eb643a1bcd17",
-        "icon": "../src/icons/tcomm.svg"
-      },
-      {
-        "name": "Liquipedia",
-        "url": "https://liquipedia.net/osu/Russian_Provincial_Cup/2025",
-        "icon": "../src/icons/liquipedia.png"
-      }
-    ],
-    "comments": "It was a good tournament. I took most of the matches"
-  },
-  {
-    "number": "24",
-    "name": "Raise It!",
+    "number": "45",
+    "name": "Raise It! 2",
     "subtitle": "Open Rank (Russian speaking only) · Auction · 3v3 (TS 6)",
-    "status": "completed",
-    "banner": "banners/raiseit.png",
+    "status": "upcoming",
+    "banner": "banners/raiseit2.png",
     "rucast": null,
     "hosts": [
       {
@@ -1439,18 +68,15 @@
       }
     ],
     "dates": {
-      "start": "September 20, 2025",
-      "end": "October 19, 2025"
+      "start": "October 17, 2026",
+      "end": "November 22, 2026"
     },
     "rank": "Open Rank (Russian speaking only)",
     "type": "Standard",
     "format": "3v3 (TS 6)",
     "badge": {
-      "hasBadge": true,
-      "statusText": "Approved",
-      "icons": [
-        "badges/raiseit.png"
-      ]
+      "hasBadge": false,
+      "text": "Not yet"
     },
     "roles": [
       {
@@ -1469,12 +95,12 @@
     "links": [
       {
         "name": "Forum Post",
-        "url": "https://osu.ppy.sh/community/forums/topics/2118134?n=1",
+        "url": "https://osu.ppy.sh/community/forums/topics/2246212?n=1",
         "icon": "../src/icons/osu-blue.png"
       },
       {
         "name": "Spreadsheet",
-        "url": "https://docs.google.com/spreadsheets/d/1-UYnhZzXMxnjtu7T3RcLMlykpOOvpq7ZflCp8IewkfA/edit?gid=276058618#gid=276058618",
+        "url": "https://docs.google.com/spreadsheets/d/1Pfqs40RePS3_8h29BIH7PpEmoWO-WuJY7AmAtfy94vk/edit?gid=1122799041#gid=1122799041",
         "icon": "../src/icons/file-spreadsheet-blue.svg"
       },
       {
@@ -1484,685 +110,36 @@
       },
       {
         "name": "Tcomm page",
-        "url": "https://tcomm.hivie.tn/tournaments/68b80a7c3621eb0c3f59d7a3",
+        "url": "http://127.0.0.1:5500/tournaments/staff-page.html",
         "icon": "../src/icons/tcomm.svg"
       }
     ],
-    "comments": "It was also a pretty good tournament with an interesting\n                  format. I streamed a few matches"
+    "comments": ""
   },
   {
-    "number": "25",
-    "name": "osu!Collegiate League 2025",
-    "subtitle": "Open Rank (Only Students) · Standard · 2v2 (TS 4)",
-    "status": "completed",
-    "banner": "banners/ocl.png",
-    "rucast": {
-      "class": "tc-cast",
-      "url": "https://www.twitch.tv/tc_cast/videos"
-    },
-    "hosts": [
-      {
-        "name": "LumenLogic",
-        "url": "https://osu.ppy.sh/users/8171404",
-        "avatar": "https://a.ppy.sh/8171404"
-      }
-    ],
-    "dates": {
-      "start": "October 7, 2025",
-      "end": "November 23, 2025"
-    },
-    "rank": "Open Rank (Only Students)",
-    "type": "Standard",
-    "format": "2v2 (TS 4)",
-    "badge": {
-      "hasBadge": false,
-      "text": "No badge"
-    },
-    "roles": [
-      {
-        "name": "Restreamer",
-        "class": "role-restreamer"
-      },
-      {
-        "name": "Caster",
-        "class": "role-caster"
-      },
-      {
-        "name": "Streamer",
-        "class": "role-streamer"
-      }
-    ],
-    "links": [
-      {
-        "name": "Forum Post",
-        "url": "https://osu.ppy.sh/community/forums/topics/2129919?n=1",
-        "icon": "../src/icons/osu-blue.png"
-      },
-      {
-        "name": "Spreadsheet",
-        "url": "https://docs.google.com/spreadsheets/d/1Hnd8vdH3a6enCyV4kFA8ShN5q2t1IKky8du_4tcAyFg/edit?gid=1976912948#gid=1976912948",
-        "icon": "../src/icons/file-spreadsheet-blue.svg"
-      },
-      {
-        "name": "TC Cast",
-        "url": "https://www.twitch.tv/tc_cast/videos",
-        "icon": "../src/icons/twitch-blue.svg"
-      },
-      {
-        "name": "Liquipedia",
-        "url": "https://liquipedia.net/osu/Collegiate_League/2025/Standard/Fall/ROTW/Tier_2",
-        "icon": "../src/icons/liquipedia.png"
-      }
-    ],
-    "comments": "I took on this tournament to stream Russian universities on TC\n                  Cast"
-  },
-  {
-    "number": "26",
-    "name": "osu! World Cup 2025",
-    "subtitle": "1 - 10k · Standard · 4v4 (TS 8)",
-    "status": "completed",
-    "banner": "banners/owc2025.jfif",
-    "rucast": {
-      "class": "rucast",
-      "url": "https://osuru.live/"
-    },
-    "hosts": [
-      {
-        "name": "osu! team",
-        "url": "https://osu.ppy.sh/wiki/en/People/osu%21_team",
-        "avatar": ""
-      }
-    ],
-    "dates": {
-      "start": "November 1, 2025",
-      "end": "December 14, 2025"
-    },
-    "rank": "1 - 10k",
-    "type": "Standard",
-    "format": "4v4 (TS 8)",
-    "badge": {
-      "hasBadge": true,
-      "statusText": "Yeahhh",
-      "icons": [
-        "badges/owc2025-1.png",
-        "badges/owc2025-2.png",
-        "badges/owc2025-3.png"
-      ]
-    },
-    "roles": [
-      {
-        "name": "Restreamer",
-        "class": "role-restreamer"
-      },
-      {
-        "name": "Streamer",
-        "class": "role-streamer"
-      }
-    ],
-    "links": [
-      {
-        "name": "Wiki Page",
-        "url": "https://osu.ppy.sh/wiki/en/Tournaments/OWC/2025",
-        "icon": "../src/icons/osu-blue.png"
-      },
-      {
-        "name": "Ru Forum Post",
-        "url": "https://osu.ppy.sh/community/forums/topics/2134862?n=1",
-        "icon": "../src/icons/osu-blue.png"
-      },
-      {
-        "name": "Twitch",
-        "url": "https://www.twitch.tv/osulive/videos",
-        "icon": "../src/icons/twitch-blue.svg"
-      },
-      {
-        "name": "osu!rulive",
-        "url": "https://www.twitch.tv/osurulive/videos",
-        "icon": "../src/icons/twitch-blue.svg"
-      },
-      {
-        "name": "Liquipedia",
-        "url": "https://liquipedia.net/osu/Osu_World_Cup/2025",
-        "icon": "../src/icons/liquipedia.png"
-      }
-    ],
-    "comments": "Well, a huge thanks to Rucast for letting me stream over 20\n                  OWC matches. That's really cool"
-  },
-  {
-    "number": "27",
-    "name": "PIVO CUP 3",
-    "subtitle": "Open Rank · Standard · 3v3 (TS 3)",
-    "status": "completed",
-    "banner": "banners/pivo.png",
+    "number": "44",
+    "name": "osu!Kazakhstan Community Cup 7",
+    "subtitle": "Open Rank (Kazakhstan and Kyrgyzstan only) · Standard · 1v1",
+    "status": "ongoing",
+    "banner": "banners/KZcup7.png",
     "rucast": null,
     "hosts": [
       {
-        "name": "Capricciosa",
-        "url": "https://osu.ppy.sh/users/15853047",
-        "avatar": "https://a.ppy.sh/15853047"
+        "name": "Lightin",
+        "url": "https://osu.ppy.sh/users/7595619",
+        "avatar": "https://a.ppy.sh/7595619"
       }
     ],
     "dates": {
-      "start": "November 1, 2025",
-      "end": "December 21, 2025"
+      "start": "September 26, 2026",
+      "end": "November 1, 2026"
     },
-    "rank": "Open Rank",
-    "type": "Standard",
-    "format": "3v3 (TS 3)",
-    "badge": {
-      "hasBadge": false,
-      "text": "No Badge"
-    },
-    "roles": [
-      {
-        "name": "Streamer",
-        "class": "role-streamer"
-      }
-    ],
-    "links": [
-      {
-        "name": "Forum Post",
-        "url": "https://osu.ppy.sh/community/forums/topics/2138689?n=1",
-        "icon": "../src/icons/osu-blue.png"
-      },
-      {
-        "name": "Spreadsheet",
-        "url": "https://docs.google.com/spreadsheets/d/11Ii-Jjk9Gu5tOVioTjePTqxVV02EgIEn-UDv4l7GI2s/edit?gid=0#gid=0",
-        "icon": "../src/icons/file-spreadsheet-blue.svg"
-      }
-    ],
-    "comments": "I was completely inactive in this tournament"
-  },
-  {
-    "number": "28",
-    "name": "Kazakhstan Tournament Mafia Draft Cup 2",
-    "subtitle": "5k - 100k (CIS, BALTIC & UA) · Draft · 2v2 (TS 3)",
-    "status": "completed",
-    "banner": "banners/ktmc2.png",
-    "rucast": null,
-    "hosts": [
-      {
-        "name": "Nordax21",
-        "url": "https://osu.ppy.sh/users/11603379",
-        "avatar": "https://a.ppy.sh/11603379"
-      },
-      {
-        "name": "dxprxsslve",
-        "url": "https://osu.ppy.sh/users/15961784",
-        "avatar": "https://a.ppy.sh/15961784"
-      }
-    ],
-    "dates": {
-      "start": "December 6, 2025",
-      "end": "January 25, 2026"
-    },
-    "rank": "5k - 100k (CIS, BALTIC & UA)",
-    "type": "Draft",
-    "format": "2v2 (TS 3)",
-    "badge": {
-      "hasBadge": true,
-      "statusText": "Unbadge",
-      "icons": [
-        "badges/ktmc2.png"
-      ]
-    },
-    "roles": [
-      {
-        "name": "Caster",
-        "class": "role-caster"
-      },
-      {
-        "name": "Streamer",
-        "class": "role-streamer"
-      },
-      {
-        "name": "GFX",
-        "class": "role-gfx"
-      },
-      {
-        "name": "tosu overlay developer",
-        "class": "role-developer",
-        "url": "https://skvidos.github.io/about-me/overlays/index.html"
-      }
-    ],
-    "links": [
-      {
-        "name": "Forum Post",
-        "url": "https://osu.ppy.sh/community/forums/topics/2140861?n=1",
-        "icon": "../src/icons/osu-blue.png"
-      },
-      {
-        "name": "Spreadsheet",
-        "url": "https://docs.google.com/spreadsheets/d/1CS-BTfAqk7YEen1E7T9FXvaWuh1mEkLG2P4E03fBdQk/edit?usp=sharing",
-        "icon": "../src/icons/file-spreadsheet-blue.svg"
-      },
-      {
-        "name": "Twitch",
-        "url": "https://www.twitch.tv/kazakhstantournamentmafia/videos",
-        "icon": "../src/icons/twitch-blue.svg"
-      },
-      {
-        "name": "Tcomm page",
-        "url": "https://tcomm.hivie.tn/tournaments/6914da89034e4b525fd40720",
-        "icon": "../src/icons/tcomm.svg"
-      }
-    ],
-    "comments": "Thank you Nordax21 for organizing the second edition of this\n                  tournament. Just like last time, I enjoyed everything"
-  },
-  {
-    "number": "29",
-    "name": "osu!community cup 6",
-    "subtitle": "Open Rank · Standard · 1v1",
-    "status": "completed",
-    "banner": "banners/occ6.png",
-    "rucast": null,
-    "hosts": [
-      {
-        "name": "8mi8",
-        "url": "https://osu.ppy.sh/users/11359985",
-        "avatar": "https://a.ppy.sh/11359985"
-      }
-    ],
-    "dates": {
-      "start": "November 3, 2025",
-      "end": "December 14, 2026"
-    },
-    "rank": "Open Rank",
+    "rank": "Open Rank (Kazakhstan and Kyrgyzstan only)",
     "type": "Standard",
     "format": "1v1",
     "badge": {
       "hasBadge": false,
-      "text": "No Badge"
-    },
-    "roles": [
-      {
-        "name": "Streamer",
-        "class": "role-streamer"
-      }
-    ],
-    "links": [
-      {
-        "name": "Spreadsheet",
-        "url": "https://docs.google.com/spreadsheets/d/1HiDmlrlGRAkhosFLeAXJuM5Oo4711itoMLEu6CoBfak/edit?gid=0#gid=0",
-        "icon": "../src/icons/file-spreadsheet-blue.svg"
-      }
-    ],
-    "comments": "A good local tournament. Just like last year, I streamed most\n                  of my matches."
-  },
-  {
-    "number": "30",
-    "name": "5 Digit European Cup 2026",
-    "subtitle": "10k - 99k · Standard · 4v4 (TS 8)",
-    "status": "completed",
-    "banner": "banners/5ec26.png",
-    "rucast": null,
-    "hosts": [
-      {
-        "name": "Filoxen",
-        "url": "https://osu.ppy.sh/users/24454271",
-        "avatar": "https://a.ppy.sh/24454271"
-      },
-      {
-        "name": "BeZonaurul",
-        "url": "https://osu.ppy.sh/users/11068604",
-        "avatar": "https://a.ppy.sh/11068604"
-      }
-    ],
-    "dates": {
-      "start": "December 29, 2025",
-      "end": "March 8, 2026"
-    },
-    "rank": "10k - 99k",
-    "type": "Standard",
-    "format": "4v4 (TS 8)",
-    "badge": {
-      "hasBadge": true,
-      "statusText": "Approved",
-      "icons": [
-        "badges/5ec26.png"
-      ]
-    },
-    "roles": [
-      {
-        "name": "Streamer",
-        "class": "role-streamer"
-      }
-    ],
-    "links": [
-      {
-        "name": "Forum Post",
-        "url": "https://osu.ppy.sh/community/forums/topics/2153398?n=1",
-        "icon": "../src/icons/osu-blue.png"
-      },
-      {
-        "name": "Spreadsheet",
-        "url": "https://docs.google.com/spreadsheets/d/13_PKwbPnlNxLE8Fa4CmldZrikR2lrwOi9JMleA34I8s/edit?usp=sharing",
-        "icon": "../src/icons/file-spreadsheet-blue.svg"
-      },
-      {
-        "name": "Twitch",
-        "url": "https://www.twitch.tv/5digiteuropeancup/videos",
-        "icon": "../src/icons/twitch-blue.svg"
-      },
-      {
-        "name": "Tcomm page",
-        "url": "https://tcomm.hivie.tn/tournaments/694053986cf2c535b4da2186",
-        "icon": "../src/icons/tcomm.svg"
-      },
-      {
-        "name": "Liquipedia",
-        "url": "https://liquipedia.net/osu/5_Digit_European_Cup/2026",
-        "icon": "../src/icons/liquipedia.png"
-      }
-    ],
-    "comments": "Filoxen and BeZonaurul W! A great tournament"
-  },
-  {
-    "number": "31",
-    "name": "3 Digit World Cup 2026",
-    "subtitle": "100 - 999 · Standard · 4v4 (TS 8)",
-    "status": "completed",
-    "banner": "banners/3wc26.jfif",
-    "rucast": {
-      "class": "rucast",
-      "url": "https://osuru.live/"
-    },
-    "hosts": [
-      {
-        "name": "shdewz",
-        "url": "https://osu.ppy.sh/users/10000899",
-        "avatar": "https://a.ppy.sh/10000899"
-      },
-      {
-        "name": "nik",
-        "url": "https://osu.ppy.sh/users/10077264",
-        "avatar": "https://a.ppy.sh/10077264"
-      }
-    ],
-    "dates": {
-      "start": "February 21, 2026",
-      "end": "March 29, 2026"
-    },
-    "rank": "100 - 999",
-    "type": "Standard",
-    "format": "4v4 (TS 8)",
-    "badge": {
-      "hasBadge": true,
-      "statusText": "Approved",
-      "icons": [
-        "badges/3wc26.png"
-      ]
-    },
-    "roles": [
-      {
-        "name": "Restreamer",
-        "class": "role-restreamer"
-      },
-      {
-        "name": "Streamer",
-        "class": "role-streamer"
-      }
-    ],
-    "links": [
-      {
-        "name": "Wiki Page",
-        "url": "https://osu.ppy.sh/wiki/en/Tournaments/3WC/2026",
-        "icon": "../src/icons/osu-blue.png"
-      },
-      {
-        "name": "Spreadsheet",
-        "url": "https://docs.google.com/spreadsheets/d/17tQOAKWcZsZwJaRJP-3JVEcQJP-16WfaSxVexhYVuDM/edit",
-        "icon": "../src/icons/file-spreadsheet-blue.svg"
-      },
-      {
-        "name": "Twitch",
-        "url": "https://www.twitch.tv/3wc_osu/videos",
-        "icon": "../src/icons/twitch-blue.svg"
-      },
-      {
-        "name": "osu!rucast",
-        "url": "https://www.twitch.tv/osurucast/videos",
-        "icon": "../src/icons/twitch-blue.svg"
-      },
-      {
-        "name": "Tcomm page",
-        "url": "https://tcomm.hivie.tn/tournaments/69863caf1457f5c8a836e1c8",
-        "icon": "../src/icons/tcomm.svg"
-      },
-      {
-        "name": "Liquipedia",
-        "url": "https://liquipedia.net/osu/3_Digit_World_Cup/2026",
-        "icon": "../src/icons/liquipedia.png"
-      }
-    ],
-    "comments": "Well, the stream on 3wc26 was pretty good. Too bad the ending\n                  wasn't great—just like the tournament overall"
-  },
-  {
-    "number": "32",
-    "name": "5 Digit World Cup 2026",
-    "subtitle": "10k - 99k · Standard · 4v4 (TS 8)",
-    "status": "completed",
-    "banner": "banners/5wc26.webp",
-    "rucast": {
-      "class": "tc-cast",
-      "url": "https://www.twitch.tv/tc_cast/videos"
-    },
-    "hosts": [
-      {
-        "name": "LumenLogic",
-        "url": "https://osu.ppy.sh/users/8171404",
-        "avatar": "https://a.ppy.sh/8171404"
-      }
-    ],
-    "dates": {
-      "start": "March 7, 2026",
-      "end": "April 26, 2026"
-    },
-    "rank": "10k - 99k",
-    "type": "Standard",
-    "format": "4v4 (TS 8)",
-    "badge": {
-      "hasBadge": true,
-      "statusText": "Approved",
-      "icons": [
-        "badges/5wc26.png"
-      ]
-    },
-    "roles": [
-      {
-        "name": "Restreamer",
-        "class": "role-restreamer"
-      },
-      {
-        "name": "Streamer",
-        "class": "role-streamer"
-      }
-    ],
-    "links": [
-      {
-        "name": "Forum Post",
-        "url": "https://osu.ppy.sh/community/forums/topics/2173597?n=1",
-        "icon": "../src/icons/osu-blue.png"
-      },
-      {
-        "name": "Spreadsheet",
-        "url": "https://docs.google.com/spreadsheets/d/12ed6gpuxjrCrxzSOYjdKhOv46FetyJvrbl0_F3cEZ3A/edit",
-        "icon": "../src/icons/file-spreadsheet-blue.svg"
-      },
-      {
-        "name": "Twitch",
-        "url": "https://www.twitch.tv/5wc2026/videos",
-        "icon": "../src/icons/twitch-blue.svg"
-      },
-      {
-        "name": "TC Cast",
-        "url": "https://www.twitch.tv/tc_cast/videos",
-        "icon": "../src/icons/twitch-blue.svg"
-      },
-      {
-        "name": "Tcomm page",
-        "url": "https://tcomm.hivie.tn/tournaments/6996112bda6f25cc89e6f46e",
-        "icon": "../src/icons/tcomm.svg"
-      },
-      {
-        "name": "Liquipedia",
-        "url": "https://liquipedia.net/osu/5_Digit_World_Cup/2026",
-        "icon": "../src/icons/liquipedia.png"
-      }
-    ],
-    "comments": "I streamed a bunch of matches on tc!cast with just one viewer,\n                  and I also streamed a couple of matches on the official\n                  channel. It was a good tournament"
-  },
-  {
-    "number": "33",
-    "name": "VITYA Cup: EXPERIMENTS",
-    "subtitle": "Open Rank (Russian Speaking Only) · Standard · 1v1",
-    "status": "completed",
-    "banner": "banners/vityacupexp.png",
-    "rucast": null,
-    "hosts": [
-      {
-        "name": "JustRoxy",
-        "url": "https://osu.ppy.sh/users/9083516",
-        "avatar": "https://a.ppy.sh/9083516"
-      }
-    ],
-    "dates": {
-      "start": "March 15, 2026",
-      "end": "June 7, 2026"
-    },
-    "rank": "Open Rank (Russian Speaking Only)",
-    "type": "Standard",
-    "format": "1v1",
-    "badge": {
-      "hasBadge": true,
-      "statusText": "Approved",
-      "icons": [
-        "badges/vityacupexp.png"
-      ]
-    },
-    "roles": [
-      {
-        "name": "Referee",
-        "class": "role-referee"
-      },
-      {
-        "name": "Streamer",
-        "class": "role-streamer"
-      }
-    ],
-    "links": [
-      {
-        "name": "Forum Post",
-        "url": "https://osu.ppy.sh/community/forums/topics/2183934?n=1",
-        "icon": "../src/icons/osu-blue.png"
-      },
-      {
-        "name": "Spreadsheet",
-        "url": "https://docs.google.com/spreadsheets/d/1mGOheFC2iHcJqLKDIs3EHpB6fsmFBUwqFtp78O_7Igo/edit?gid=204983983#gid=204983983",
-        "icon": "../src/icons/file-spreadsheet-blue.svg"
-      },
-      {
-        "name": "Twitch",
-        "url": "https://www.twitch.tv/vityacup/videos",
-        "icon": "../src/icons/twitch-blue.svg"
-      },
-      {
-        "name": "Tcomm page",
-        "url": "https://tcomm.hivie.tn/tournaments/69b80a7914a24db8371e0ca1",
-        "icon": "../src/icons/tcomm.svg"
-      }
-    ],
-    "comments": "JustRoxy and ixfire are doing their thing. What an awesome\n                  tournament. I totally loved streaming it"
-  },
-  {
-    "number": "34",
-    "name": "Lazer Grand Arena 2026",
-    "subtitle": "Open Rank · Standard · 1v1",
-    "status": "completed",
-    "banner": "banners/lga.jfif",
-    "rucast": {
-      "class": "rucast",
-      "url": "https://osuru.live/"
-    },
-    "hosts": [
-      {
-        "name": "osu! team",
-        "url": "https://osu.ppy.sh/wiki/en/People/osu%21_team",
-        "avatar": ""
-      }
-    ],
-    "dates": {
-      "start": "May 3, 2026",
-      "end": "May 30, 2026"
-    },
-    "rank": "Open Rank",
-    "type": "Standard",
-    "format": "1v1",
-    "badge": {
-      "hasBadge": false,
-      "text": "idk"
-    },
-    "roles": [
-      {
-        "name": "Restreamer",
-        "class": "role-restreamer"
-      },
-      {
-        "name": "Streamer",
-        "class": "role-streamer"
-      }
-    ],
-    "links": [
-      {
-        "name": "Wiki Page",
-        "url": "https://osu.ppy.sh/wiki/en/Tournaments/LGA/2026",
-        "icon": "../src/icons/osu-blue.png"
-      },
-      {
-        "name": "Twitch",
-        "url": "https://www.twitch.tv/osulive/videos",
-        "icon": "../src/icons/twitch-blue.svg"
-      },
-      {
-        "name": "osu!rulive",
-        "url": "https://www.twitch.tv/osurulive/videos",
-        "icon": "../src/icons/twitch-blue.svg"
-      },
-      {
-        "name": "Liquipedia",
-        "url": "https://liquipedia.net/osu/Lazer_Grand_Arena/2026",
-        "icon": "../src/icons/liquipedia.png"
-      }
-    ],
-    "comments": "I've only streamed the first week"
-  },
-  {
-    "number": "35",
-    "name": "Bazarjoq Trios Cup",
-    "subtitle": "4k-99k (Kazakhstan only) · Auction · 3v3 (TS 3)",
-    "status": "completed",
-    "banner": "banners/bazar.png",
-    "rucast": null,
-    "hosts": [
-      {
-        "name": "Ternafis",
-        "url": "https://osu.ppy.sh/users/9921139",
-        "avatar": "https://a.ppy.sh/9921139"
-      }
-    ],
-    "dates": {
-      "start": "June 14, 2026",
-      "end": "July 19, 2026"
-    },
-    "rank": "4k-99k (Kazakhstan only)",
-    "type": "Auction",
-    "format": "3v3 (TS 3)",
-    "badge": {
-      "hasBadge": true,
-      "statusText": "Approved",
-      "icons": [
-        "badges/bazar.png"
-      ]
+      "text": "Not yet"
     },
     "roles": [
       {
@@ -2181,12 +158,12 @@
     "links": [
       {
         "name": "Forum Post",
-        "url": "https://osu.ppy.sh/community/forums/topics/2202257?n=1",
+        "url": "https://osu.ppy.sh/community/forums/topics/2238546?n=1",
         "icon": "../src/icons/osu-blue.png"
       },
       {
         "name": "Spreadsheet",
-        "url": "https://docs.google.com/spreadsheets/d/1sbwR7El5pM2NdZHZUn-WQq0ZdN-M-7EVvl6uYRz14ws/edit?gid=0#gid=0",
+        "url": "https://docs.google.com/spreadsheets/d/1awMmDiis5Ua0Jex-3h863mxhtRubZwdneECUqPAdgbU/edit?gid=1731745086#gid=1731745086",
         "icon": "../src/icons/file-spreadsheet-blue.svg"
       },
       {
@@ -2196,152 +173,309 @@
       },
       {
         "name": "Tcomm page",
-        "url": "https://tcomm.hivie.tn/tournaments/6a1eca09e3dc5a2caece572c",
+        "url": "https://tcomm.hivie.tn/tournaments/6aa5cd0d299b0170957fba91",
         "icon": "../src/icons/tcomm.svg"
+      },
+      {
+        "name": "Liquipedia",
+        "url": "https://liquipedia.net/osu/Osu!kz_Community_Cup/7",
+        "icon": "../src/icons/liquipedia.png"
       }
     ],
-    "comments": "Even though it wasn't without its problems, the tournament\n                  turned out great. Thanks to the organizers and the staff for\n                  this tournament"
+    "comments": ""
   },
   {
-    "number": "36",
-    "name": ":neee: cup",
-    "subtitle": "Open Rank (Russian speaking only) · Draft · 3v3 (TS 5)",
-    "status": "completed",
-    "banner": "banners/nee.png",
-    "rucast": null,
-    "hosts": [
-      {
-        "name": "Decheg_777",
-        "url": "https://osu.ppy.sh/users/10997439",
-        "avatar": "https://a.ppy.sh/10997439"
-      },
-      {
-        "name": "BAHEK",
-        "url": "https://osu.ppy.sh/users/10590105",
-        "avatar": "https://a.ppy.sh/10590105"
-      }
-    ],
-    "dates": {
-      "start": "May 24, 2026",
-      "end": "July 19, 2026"
-    },
-    "rank": "Open Rank (Russian speaking only)",
-    "type": "Draft",
-    "format": "3v3 (TS 5)",
-    "badge": {
-      "hasBadge": true,
-      "statusText": "Approved",
-      "icons": [
-        "badges/neecup.png"
-      ]
-    },
-    "roles": [
-      {
-        "name": "Referee",
-        "class": "role-referee"
-      },
-      {
-        "name": "Streamer",
-        "class": "role-streamer"
-      }
-    ],
-    "links": [
-      {
-        "name": "Forum Post",
-        "url": "https://osu.ppy.sh/community/forums/topics/2204972?n=1",
-        "icon": "../src/icons/osu-blue.png"
-      },
-      {
-        "name": "Spreadsheet",
-        "url": "https://docs.google.com/spreadsheets/d/1JNy3WF0N9Wq3nWcNiZvPQulOrMJcnTvnVs5_WOiTjXE/edit?gid=0#gid=0",
-        "icon": "../src/icons/file-spreadsheet-blue.svg"
-      },
-      {
-        "name": "Twitch",
-        "url": "https://www.twitch.tv/osuxunev/videos",
-        "icon": "../src/icons/twitch-blue.svg"
-      },
-      {
-        "name": "Tcomm page",
-        "url": "https://tcomm.hivie.tn/tournaments/6a1ebcc5e3dc5a2caecd4277",
-        "icon": "../src/icons/tcomm.svg"
-      }
-    ],
-    "comments": "Unfortunately, because I was busy with other tournaments and\n                  real life, I only streamed the auction and one match, but they\n                  decided to leave me out of the final announcement, stating\n                  that no one streaming anything. Thanks"
-  },
-  {
-    "number": "37",
-    "name": "TimeFall Origins",
-    "subtitle": "Open Rank · Standard · 4v4 (TS 6)",
+    "number": "43",
+    "name": "Minimalistic Cup 2",
+    "subtitle": "1k-9999 (Russian speaking only) · Standard · 1v1",
     "status": "ongoing",
-    "banner": "banners/timefall.png",
+    "banner": "banners/minimalistic2.png",
     "rucast": null,
     "hosts": [
       {
-        "name": "Ch0knyt",
-        "url": "https://osu.ppy.sh/users/10360432",
-        "avatar": "https://a.ppy.sh/10360432"
+        "name": "Frindin",
+        "url": "https://osu.ppy.sh/users/17124682",
+        "avatar": "https://a.ppy.sh/17124682"
+      },
+      {
+        "name": "ikigatsumaru",
+        "url": "https://osu.ppy.sh/users/24658561",
+        "avatar": "https://a.ppy.sh/24658561"
       }
     ],
     "dates": {
-      "start": "June 27, 2026",
-      "end": "August 2, 2026"
+      "start": "September 16, 2026",
+      "end": "November 4, 2026"
     },
-    "rank": "Open Rank",
+    "rank": "1k - 9999",
     "type": "Standard",
-    "format": "4v4 (TS 6)",
+    "format": "1v1",
     "badge": {
       "hasBadge": false,
       "text": "Not yet"
     },
     "roles": [
       {
-        "name": "Caster",
-        "class": "role-caster"
-      },
-      {
         "name": "Streamer",
         "class": "role-streamer"
       },
       {
-        "name": "tosu overlay developer",
-        "class": "role-developer",
-        "url": "https://skvidos.github.io/about-me/overlays/index.html"
+        "name": "GFX",
+        "class": "role-gfx"
       }
     ],
     "links": [
       {
         "name": "Forum Post",
-        "url": "https://osu.ppy.sh/community/forums/topics/2205244?n=1",
+        "url": "https://osu.ppy.sh/community/forums/topics/2238940?n=1",
         "icon": "../src/icons/osu-blue.png"
       },
       {
         "name": "Spreadsheet",
-        "url": "https://docs.google.com/spreadsheets/d/1Qi8F_iFowlSmrN_P3652FgxifYM4nuO2xxx_ucnakTg/edit?gid=0#gid=0",
+        "url": "https://docs.google.com/spreadsheets/d/1rUzTSdVihEa0u9NJN7JI_AgsereTOpjNzB_VQ5V9GiM/edit",
         "icon": "../src/icons/file-spreadsheet-blue.svg"
       },
       {
         "name": "Twitch",
-        "url": "https://www.twitch.tv/timefallorigins/videos",
+        "url": "https://www.twitch.tv/ikigatsumaru115/videos",
+        "icon": "../src/icons/twitch-blue.svg"
+      }
+    ],
+    "comments": ""
+  },
+  {
+    "number": "42",
+    "name": "Blind Matchup Cup 4: Duos",
+    "subtitle": "Open Rank · Standard · 2v2 (TS 4)",
+    "status": "ongoing",
+    "banner": "banners/BMC.png",
+    "rucast": null,
+    "hosts": [
+      {
+        "name": "alisha-",
+        "url": "https://osu.ppy.sh/users/29031839",
+        "avatar": "https://a.ppy.sh/29031839"
+      },
+      {
+        "name": "BeZonaurul",
+        "url": "https://osu.ppy.sh/users/11068604",
+        "avatar": "https://a.ppy.sh/11068604"
+      }
+    ],
+    "dates": {
+      "start": "August 24, 2026",
+      "end": "October 12, 2026"
+    },
+    "rank": "Open Rank",
+    "type": "Standard",
+    "format": "2v2 (TS 4)",
+    "badge": {
+      "hasBadge": false,
+      "text": "Not yet"
+    },
+    "roles": [
+      {
+        "name": "Streamer",
+        "class": "role-streamer"
+      }
+    ],
+    "links": [
+      {
+        "name": "Forum Post",
+        "url": "https://osu.ppy.sh/community/forums/topics/2226895?n=1",
+        "icon": "../src/icons/osu-blue.png"
+      },
+      {
+        "name": "Spreadsheet",
+        "url": "https://docs.google.com/spreadsheets/d/1j42cqNxjOIc0EItDdtw3u_AXKPbH_fgCzCB3rwjbyzg/edit?gid=1084234362#gid=1084234362",
+        "icon": "../src/icons/file-spreadsheet-blue.svg"
+      },
+      {
+        "name": "Twitch",
+        "url": "https://www.twitch.tv/alishastourneys/videos",
         "icon": "../src/icons/twitch-blue.svg"
       },
       {
         "name": "Tcomm page",
-        "url": "https://tcomm.hivie.tn/tournaments/6a30c398f6bc2ca584e942a7",
+        "url": "https://tcomm.hivie.tn/tournaments/6a7b08ad0a3bf7f60256052c",
+        "icon": "../src/icons/tcomm.svg"
+      }
+    ],
+    "comments": ""
+  },
+  {
+    "number": "41",
+    "name": "MWS, Whisked",
+    "subtitle": "900-10500 · Standard · 1v1",
+    "status": "ongoing",
+    "banner": "banners/whisked.png",
+    "rucast": null,
+    "hosts": [
+      {
+        "name": "iiMegxnx",
+        "url": "https://osu.ppy.sh/users/9574522",
+        "avatar": "https://a.ppy.sh/9574522"
+      }
+    ],
+    "dates": {
+      "start": "August 28, 2026",
+      "end": "October 9, 2026"
+    },
+    "rank": "900-10500",
+    "type": "Standard",
+    "format": "1v1",
+    "badge": {
+      "hasBadge": false,
+      "text": "Not yet"
+    },
+    "roles": [
+      {
+        "name": "Streamer",
+        "class": "role-streamer"
+      }
+    ],
+    "links": [
+      {
+        "name": "Forum Post",
+        "url": "https://osu.ppy.sh/community/forums/topics/2220809?n=1",
+        "icon": "../src/icons/osu-blue.png"
+      },
+      {
+        "name": "Spreadsheet",
+        "url": "https://docs.google.com/spreadsheets/d/1LNrZP9hRh0iZz5FkGkdu1u91IRK4YfbN9dBbSUTOdW4/edit?usp=sharing",
+        "icon": "../src/icons/file-spreadsheet-blue.svg"
+      },
+      {
+        "name": "Twitch",
+        "url": "https://www.twitch.tv/mwstournament/videos",
+        "icon": "../src/icons/twitch-blue.svg"
+      },
+      {
+        "name": "Website",
+        "url": "https://monodramatic.gg/about",
+        "icon": "../src/icons/earth-blue.svg"
+      }
+    ],
+    "comments": ""
+  },
+  {
+    "number": "40",
+    "name": "Russian Provincial Cup 2026",
+    "subtitle": "1k-1000k (Russian Only) · Standard · 3v3 (TS 4)",
+    "status": "ongoing",
+    "banner": "banners/rpc26.png",
+    "rucast": null,
+    "hosts": [
+      {
+        "name": "baikalsk",
+        "url": "https://osu.ppy.sh/users/30240186",
+        "avatar": "https://a.ppy.sh/30240186"
+      },
+      {
+        "name": "Endura",
+        "url": "https://osu.ppy.sh/users/7774197",
+        "avatar": "https://a.ppy.sh/7774197"
+      }
+    ],
+    "dates": {
+      "start": "Septebmer 5, 2026",
+      "end": "October 18, 2026"
+    },
+    "rank": "1k-1000k (Russian Only)",
+    "type": "Standard",
+    "format": "3v3 (TS 4)",
+    "badge": {
+      "hasBadge": false,
+      "text": "Not yet"
+    },
+    "roles": [
+      {
+        "name": "Streamer",
+        "class": "role-streamer"
+      },
+      {
+        "name": "Caster",
+        "class": "role-caster"
+      }
+    ],
+    "links": [
+      {
+        "name": "Forum Post",
+        "url": "https://osu.ppy.sh/community/forums/topics/2227115?n=1",
+        "icon": "../src/icons/osu-blue.png"
+      },
+      {
+        "name": "Spreadsheet",
+        "url": "https://docs.google.com/spreadsheets/d/1lzNmqxoa-fiB4BX_H_pJkaJmBKuIdnXiOqZedRqf7D8/edit?gid=903172837#gid=903172837",
+        "icon": "../src/icons/file-spreadsheet-blue.svg"
+      },
+      {
+        "name": "Twitch",
+        "url": "https://www.twitch.tv/russian_provincial_cup/videos",
+        "icon": "../src/icons/twitch-blue.svg"
+      }
+    ],
+    "comments": ""
+  },
+  {
+    "number": "39",
+    "name": "Moscow osu! Event 2026",
+    "subtitle": "Open Qualifier · Standard · 1v1",
+    "status": "completed",
+    "banner": "banners/moe2026.png",
+    "rucast": null,
+    "hosts": [
+      {
+        "name": "ThankYou",
+        "url": "https://osu.ppy.sh/users/4571241",
+        "avatar": "https://a.ppy.sh/4571241"
+      }
+    ],
+    "dates": {
+      "start": "June 20, 2026",
+      "end": "July 26, 2026"
+    },
+    "rank": "Open Qualifier",
+    "type": "Standard",
+    "format": "1v1",
+    "badge": {
+      "hasBadge": false,
+      "text": "Not yet"
+    },
+    "roles": [
+      {
+        "name": "Streamer",
+        "class": "role-streamer"
+      }
+    ],
+    "links": [
+      {
+        "name": "Forum Post",
+        "url": "https://osu.ppy.sh/community/forums/topics/2212231",
+        "icon": "../src/icons/osu-blue.png"
+      },
+      {
+        "name": "Twitch",
+        "url": "https://www.twitch.tv/playosupro/videos",
+        "icon": "../src/icons/twitch-blue.svg"
+      },
+      {
+        "name": "Website",
+        "url": "https://moscowosu.events/en",
+        "icon": "../src/icons/earth-blue.svg"
+      },
+      {
+        "name": "Tcomm page",
+        "url": "https://tcomm.hivie.tn/tournaments/6a30c7faf6bc2ca584e9a76c",
         "icon": "../src/icons/tcomm.svg"
       },
       {
         "name": "Liquipedia",
-        "url": "https://liquipedia.net/osu/TimeFall_Origins",
+        "url": "https://liquipedia.net/osu/Moscow_osu!_Event/2026",
         "icon": "../src/icons/liquipedia.png"
-      },
-      {
-        "name": "Website",
-        "url": "https://timefall.pro/",
-        "icon": "../src/icons/earth-blue.svg"
       }
     ],
-    "comments": "This tournament will never end. It's a shame that everyone has\n                  forgotten about this tournament, but I will continue to stream\n                  it until the end."
+    "comments": "Even tho I wasn't able to visit MOE in Moscow, I still did my\n                  part by streaming the matches for an English-speaking\n                  audience. Thanks to RobotSkin_ for inviting me!"
   },
   {
     "number": "38",
@@ -2421,210 +555,115 @@
     "comments": "Thank you, Project Hexagon, for inviting me to participate in\n                  such a major tournament as a streamer. It was awesome!"
   },
   {
-    "number": "39",
-    "name": "Moscow osu! Event 2026",
-    "subtitle": "Open Qualifier · Standard · 1v1",
-    "status": "completed",
-    "banner": "banners/moe2026.png",
+    "number": "37",
+    "name": "TimeFall Origins",
+    "subtitle": "Open Rank · Standard · 4v4 (TS 6)",
+    "status": "ongoing",
+    "banner": "banners/timefall.png",
     "rucast": null,
     "hosts": [
       {
-        "name": "ThankYou",
-        "url": "https://osu.ppy.sh/users/4571241",
-        "avatar": "https://a.ppy.sh/4571241"
+        "name": "Ch0knyt",
+        "url": "https://osu.ppy.sh/users/10360432",
+        "avatar": "https://a.ppy.sh/10360432"
       }
     ],
     "dates": {
-      "start": "June 20, 2026",
-      "end": "July 26, 2026"
+      "start": "June 27, 2026",
+      "end": "August 2, 2026"
     },
-    "rank": "Open Qualifier",
+    "rank": "Open Rank",
     "type": "Standard",
-    "format": "1v1",
+    "format": "4v4 (TS 6)",
     "badge": {
       "hasBadge": false,
       "text": "Not yet"
     },
     "roles": [
       {
+        "name": "Caster",
+        "class": "role-caster"
+      },
+      {
         "name": "Streamer",
         "class": "role-streamer"
+      },
+      {
+        "name": "tosu overlay developer",
+        "class": "role-developer",
+        "url": "https://skvidos.github.io/about-me/overlays/index.html"
       }
     ],
     "links": [
       {
         "name": "Forum Post",
-        "url": "https://osu.ppy.sh/community/forums/topics/2212231",
+        "url": "https://osu.ppy.sh/community/forums/topics/2205244?n=1",
         "icon": "../src/icons/osu-blue.png"
       },
       {
+        "name": "Spreadsheet",
+        "url": "https://docs.google.com/spreadsheets/d/1Qi8F_iFowlSmrN_P3652FgxifYM4nuO2xxx_ucnakTg/edit?gid=0#gid=0",
+        "icon": "../src/icons/file-spreadsheet-blue.svg"
+      },
+      {
         "name": "Twitch",
-        "url": "https://www.twitch.tv/playosupro/videos",
+        "url": "https://www.twitch.tv/timefallorigins/videos",
         "icon": "../src/icons/twitch-blue.svg"
       },
       {
-        "name": "Website",
-        "url": "https://moscowosu.events/en",
-        "icon": "../src/icons/earth-blue.svg"
-      },
-      {
         "name": "Tcomm page",
-        "url": "https://tcomm.hivie.tn/tournaments/6a30c7faf6bc2ca584e9a76c",
+        "url": "https://tcomm.hivie.tn/tournaments/6a30c398f6bc2ca584e942a7",
         "icon": "../src/icons/tcomm.svg"
       },
       {
         "name": "Liquipedia",
-        "url": "https://liquipedia.net/osu/Moscow_osu!_Event/2026",
+        "url": "https://liquipedia.net/osu/TimeFall_Origins",
         "icon": "../src/icons/liquipedia.png"
-      }
-    ],
-    "comments": "Even tho I wasn't able to visit MOE in Moscow, I still did my\n                  part by streaming the matches for an English-speaking\n                  audience. Thanks to RobotSkin_ for inviting me!"
-  },
-  {
-    "number": "40",
-    "name": "Russian Provincial Cup 2026",
-    "subtitle": "1k-1000k (Russian Only) · Standard · 3v3 (TS 4)",
-    "status": "ongoing",
-    "banner": "banners/rpc26.png",
-    "rucast": null,
-    "hosts": [
-      {
-        "name": "baikalsk",
-        "url": "https://osu.ppy.sh/users/30240186",
-        "avatar": "https://a.ppy.sh/30240186"
-      },
-      {
-        "name": "Endura",
-        "url": "https://osu.ppy.sh/users/7774197",
-        "avatar": "https://a.ppy.sh/7774197"
-      }
-    ],
-    "dates": {
-      "start": "Septebmer 5, 2026",
-      "end": "October 18, 2026"
-    },
-    "rank": "1k-1000k (Russian Only)",
-    "type": "Standard",
-    "format": "3v3 (TS 4)",
-    "badge": {
-      "hasBadge": false,
-      "text": "Not yet"
-    },
-    "roles": [
-      {
-        "name": "Streamer",
-        "class": "role-streamer"
-      },
-      {
-        "name": "Caster",
-        "class": "role-caster"
-      }
-    ],
-    "links": [
-      {
-        "name": "Forum Post",
-        "url": "https://osu.ppy.sh/community/forums/topics/2227115?n=1",
-        "icon": "../src/icons/osu-blue.png"
-      },
-      {
-        "name": "Spreadsheet",
-        "url": "https://docs.google.com/spreadsheets/d/1lzNmqxoa-fiB4BX_H_pJkaJmBKuIdnXiOqZedRqf7D8/edit?gid=903172837#gid=903172837",
-        "icon": "../src/icons/file-spreadsheet-blue.svg"
-      },
-      {
-        "name": "Twitch",
-        "url": "https://www.twitch.tv/russian_provincial_cup/videos",
-        "icon": "../src/icons/twitch-blue.svg"
-      }
-    ],
-    "comments": ""
-  },
-  {
-    "number": "41",
-    "name": "MWS, Whisked",
-    "subtitle": "900-10500 · Standard · 1v1",
-    "status": "ongoing",
-    "banner": "banners/whisked.png",
-    "rucast": null,
-    "hosts": [
-      {
-        "name": "iiMegxnx",
-        "url": "https://osu.ppy.sh/users/9574522",
-        "avatar": "https://a.ppy.sh/9574522"
-      }
-    ],
-    "dates": {
-      "start": "August 28, 2026",
-      "end": "October 9, 2026"
-    },
-    "rank": "900-10500",
-    "type": "Standard",
-    "format": "1v1",
-    "badge": {
-      "hasBadge": false,
-      "text": "Not yet"
-    },
-    "roles": [
-      {
-        "name": "Streamer",
-        "class": "role-streamer"
-      }
-    ],
-    "links": [
-      {
-        "name": "Forum Post",
-        "url": "https://osu.ppy.sh/community/forums/topics/2220809?n=1",
-        "icon": "../src/icons/osu-blue.png"
-      },
-      {
-        "name": "Spreadsheet",
-        "url": "https://docs.google.com/spreadsheets/d/1LNrZP9hRh0iZz5FkGkdu1u91IRK4YfbN9dBbSUTOdW4/edit?usp=sharing",
-        "icon": "../src/icons/file-spreadsheet-blue.svg"
-      },
-      {
-        "name": "Twitch",
-        "url": "https://www.twitch.tv/mwstournament/videos",
-        "icon": "../src/icons/twitch-blue.svg"
       },
       {
         "name": "Website",
-        "url": "https://monodramatic.gg/about",
+        "url": "https://timefall.pro/",
         "icon": "../src/icons/earth-blue.svg"
       }
     ],
-    "comments": ""
+    "comments": "This tournament will never end. It's a shame that everyone has\n                  forgotten about this tournament, but I will continue to stream\n                  it until the end."
   },
   {
-    "number": "42",
-    "name": "Blind Matchup Cup 4: Duos",
-    "subtitle": "Open Rank · Standard · 2v2 (TS 4)",
-    "status": "ongoing",
-    "banner": "banners/BMC.png",
+    "number": "36",
+    "name": ":neee: cup",
+    "subtitle": "Open Rank (Russian speaking only) · Draft · 3v3 (TS 5)",
+    "status": "completed",
+    "banner": "banners/nee.png",
     "rucast": null,
     "hosts": [
       {
-        "name": "alisha-",
-        "url": "https://osu.ppy.sh/users/29031839",
-        "avatar": "https://a.ppy.sh/29031839"
+        "name": "Decheg_777",
+        "url": "https://osu.ppy.sh/users/10997439",
+        "avatar": "https://a.ppy.sh/10997439"
       },
       {
-        "name": "BeZonaurul",
-        "url": "https://osu.ppy.sh/users/11068604",
-        "avatar": "https://a.ppy.sh/11068604"
+        "name": "BAHEK",
+        "url": "https://osu.ppy.sh/users/10590105",
+        "avatar": "https://a.ppy.sh/10590105"
       }
     ],
     "dates": {
-      "start": "August 24, 2026",
-      "end": "October 12, 2026"
+      "start": "May 24, 2026",
+      "end": "July 19, 2026"
     },
-    "rank": "Open Rank",
-    "type": "Standard",
-    "format": "2v2 (TS 4)",
+    "rank": "Open Rank (Russian speaking only)",
+    "type": "Draft",
+    "format": "3v3 (TS 5)",
     "badge": {
-      "hasBadge": false,
-      "text": "Not yet"
+      "hasBadge": true,
+      "statusText": "Approved",
+      "icons": ["badges/neecup.png"]
     },
     "roles": [
+      {
+        "name": "Referee",
+        "class": "role-referee"
+      },
       {
         "name": "Streamer",
         "class": "role-streamer"
@@ -2633,110 +672,52 @@
     "links": [
       {
         "name": "Forum Post",
-        "url": "https://osu.ppy.sh/community/forums/topics/2226895?n=1",
+        "url": "https://osu.ppy.sh/community/forums/topics/2204972?n=1",
         "icon": "../src/icons/osu-blue.png"
       },
       {
         "name": "Spreadsheet",
-        "url": "https://docs.google.com/spreadsheets/d/1j42cqNxjOIc0EItDdtw3u_AXKPbH_fgCzCB3rwjbyzg/edit?gid=1084234362#gid=1084234362",
+        "url": "https://docs.google.com/spreadsheets/d/1JNy3WF0N9Wq3nWcNiZvPQulOrMJcnTvnVs5_WOiTjXE/edit?gid=0#gid=0",
         "icon": "../src/icons/file-spreadsheet-blue.svg"
       },
       {
         "name": "Twitch",
-        "url": "https://www.twitch.tv/alishastourneys/videos",
+        "url": "https://www.twitch.tv/osuxunev/videos",
         "icon": "../src/icons/twitch-blue.svg"
       },
       {
         "name": "Tcomm page",
-        "url": "https://tcomm.hivie.tn/tournaments/6a7b08ad0a3bf7f60256052c",
+        "url": "https://tcomm.hivie.tn/tournaments/6a1ebcc5e3dc5a2caecd4277",
         "icon": "../src/icons/tcomm.svg"
       }
     ],
-    "comments": ""
+    "comments": "Unfortunately, because I was busy with other tournaments and\n                  real life, I only streamed the auction and one match, but they\n                  decided to leave me out of the final announcement, stating\n                  that no one streaming anything. Thanks"
   },
   {
-    "number": "43",
-    "name": "Minimalistic Cup 2",
-    "subtitle": "1k-9999 (Russian speaking only) · Standard · 1v1",
-    "status": "ongoing",
-    "banner": "banners/minimalistic2.png",
+    "number": "35",
+    "name": "Bazarjoq Trios Cup",
+    "subtitle": "4k-99k (Kazakhstan only) · Auction · 3v3 (TS 3)",
+    "status": "completed",
+    "banner": "banners/bazar.png",
     "rucast": null,
     "hosts": [
       {
-        "name": "Frindin",
-        "url": "https://osu.ppy.sh/users/17124682",
-        "avatar": "https://a.ppy.sh/17124682"
-      },
-      {
-        "name": "ikigatsumaru",
-        "url": "https://osu.ppy.sh/users/24658561",
-        "avatar": "https://a.ppy.sh/24658561"
+        "name": "Ternafis",
+        "url": "https://osu.ppy.sh/users/9921139",
+        "avatar": "https://a.ppy.sh/9921139"
       }
     ],
     "dates": {
-      "start": "September 16, 2026",
-      "end": "November 4, 2026"
+      "start": "June 14, 2026",
+      "end": "July 19, 2026"
     },
-    "rank": "1k - 9999",
-    "type": "Standard",
-    "format": "1v1",
+    "rank": "4k-99k (Kazakhstan only)",
+    "type": "Auction",
+    "format": "3v3 (TS 3)",
     "badge": {
-      "hasBadge": false,
-      "text": "Not yet"
-    },
-    "roles": [
-      {
-        "name": "Streamer",
-        "class": "role-streamer"
-      },
-      {
-        "name": "GFX",
-        "class": "role-gfx"
-      }
-    ],
-    "links": [
-      {
-        "name": "Forum Post",
-        "url": "https://osu.ppy.sh/community/forums/topics/2238940?n=1",
-        "icon": "../src/icons/osu-blue.png"
-      },
-      {
-        "name": "Spreadsheet",
-        "url": "https://docs.google.com/spreadsheets/d/1rUzTSdVihEa0u9NJN7JI_AgsereTOpjNzB_VQ5V9GiM/edit",
-        "icon": "../src/icons/file-spreadsheet-blue.svg"
-      },
-      {
-        "name": "Twitch",
-        "url": "https://www.twitch.tv/ikigatsumaru115/videos",
-        "icon": "../src/icons/twitch-blue.svg"
-      }
-    ],
-    "comments": ""
-  },
-  {
-    "number": "44",
-    "name": "osu!Kazakhstan Community Cup 7",
-    "subtitle": "Open Rank (Kazakhstan and Kyrgyzstan only) · Standard · 1v1",
-    "status": "ongoing",
-    "banner": "banners/KZcup7.png",
-    "rucast": null,
-    "hosts": [
-      {
-        "name": "Lightin",
-        "url": "https://osu.ppy.sh/users/7595619",
-        "avatar": "https://a.ppy.sh/7595619"
-      }
-    ],
-    "dates": {
-      "start": "September 26, 2026",
-      "end": "November 1, 2026"
-    },
-    "rank": "Open Rank (Kazakhstan and Kyrgyzstan only)",
-    "type": "Standard",
-    "format": "1v1",
-    "badge": {
-      "hasBadge": false,
-      "text": "Not yet"
+      "hasBadge": true,
+      "statusText": "Approved",
+      "icons": ["badges/bazar.png"]
     },
     "roles": [
       {
@@ -2755,12 +736,12 @@
     "links": [
       {
         "name": "Forum Post",
-        "url": "https://osu.ppy.sh/community/forums/topics/2238546?n=1",
+        "url": "https://osu.ppy.sh/community/forums/topics/2202257?n=1",
         "icon": "../src/icons/osu-blue.png"
       },
       {
         "name": "Spreadsheet",
-        "url": "https://docs.google.com/spreadsheets/d/1awMmDiis5Ua0Jex-3h863mxhtRubZwdneECUqPAdgbU/edit?gid=1731745086#gid=1731745086",
+        "url": "https://docs.google.com/spreadsheets/d/1sbwR7El5pM2NdZHZUn-WQq0ZdN-M-7EVvl6uYRz14ws/edit?gid=0#gid=0",
         "icon": "../src/icons/file-spreadsheet-blue.svg"
       },
       {
@@ -2770,23 +751,654 @@
       },
       {
         "name": "Tcomm page",
-        "url": "https://tcomm.hivie.tn/tournaments/6aa5cd0d299b0170957fba91",
+        "url": "https://tcomm.hivie.tn/tournaments/6a1eca09e3dc5a2caece572c",
+        "icon": "../src/icons/tcomm.svg"
+      }
+    ],
+    "comments": "Even though it wasn't without its problems, the tournament\n                  turned out great. Thanks to the organizers and the staff for\n                  this tournament"
+  },
+  {
+    "number": "34",
+    "name": "Lazer Grand Arena 2026",
+    "subtitle": "Open Rank · Standard · 1v1",
+    "status": "completed",
+    "banner": "banners/lga.jfif",
+    "rucast": {
+      "class": "rucast",
+      "url": "https://osuru.live/"
+    },
+    "hosts": [
+      {
+        "name": "osu! team",
+        "url": "https://osu.ppy.sh/wiki/en/People/osu%21_team",
+        "avatar": ""
+      }
+    ],
+    "dates": {
+      "start": "May 3, 2026",
+      "end": "May 30, 2026"
+    },
+    "rank": "Open Rank",
+    "type": "Standard",
+    "format": "1v1",
+    "badge": {
+      "hasBadge": false,
+      "text": "idk"
+    },
+    "roles": [
+      {
+        "name": "Restreamer",
+        "class": "role-restreamer"
+      },
+      {
+        "name": "Streamer",
+        "class": "role-streamer"
+      }
+    ],
+    "links": [
+      {
+        "name": "Wiki Page",
+        "url": "https://osu.ppy.sh/wiki/en/Tournaments/LGA/2026",
+        "icon": "../src/icons/osu-blue.png"
+      },
+      {
+        "name": "Twitch",
+        "url": "https://www.twitch.tv/osulive/videos",
+        "icon": "../src/icons/twitch-blue.svg"
+      },
+      {
+        "name": "osu!rulive",
+        "url": "https://www.twitch.tv/osurulive/videos",
+        "icon": "../src/icons/twitch-blue.svg"
+      },
+      {
+        "name": "Liquipedia",
+        "url": "https://liquipedia.net/osu/Lazer_Grand_Arena/2026",
+        "icon": "../src/icons/liquipedia.png"
+      }
+    ],
+    "comments": "I've only streamed the first week"
+  },
+  {
+    "number": "33",
+    "name": "VITYA Cup: EXPERIMENTS",
+    "subtitle": "Open Rank (Russian Speaking Only) · Standard · 1v1",
+    "status": "completed",
+    "banner": "banners/vityacupexp.png",
+    "rucast": null,
+    "hosts": [
+      {
+        "name": "JustRoxy",
+        "url": "https://osu.ppy.sh/users/9083516",
+        "avatar": "https://a.ppy.sh/9083516"
+      }
+    ],
+    "dates": {
+      "start": "March 15, 2026",
+      "end": "June 7, 2026"
+    },
+    "rank": "Open Rank (Russian Speaking Only)",
+    "type": "Standard",
+    "format": "1v1",
+    "badge": {
+      "hasBadge": true,
+      "statusText": "Approved",
+      "icons": ["badges/vityacupexp.png"]
+    },
+    "roles": [
+      {
+        "name": "Referee",
+        "class": "role-referee"
+      },
+      {
+        "name": "Streamer",
+        "class": "role-streamer"
+      }
+    ],
+    "links": [
+      {
+        "name": "Forum Post",
+        "url": "https://osu.ppy.sh/community/forums/topics/2183934?n=1",
+        "icon": "../src/icons/osu-blue.png"
+      },
+      {
+        "name": "Spreadsheet",
+        "url": "https://docs.google.com/spreadsheets/d/1mGOheFC2iHcJqLKDIs3EHpB6fsmFBUwqFtp78O_7Igo/edit?gid=204983983#gid=204983983",
+        "icon": "../src/icons/file-spreadsheet-blue.svg"
+      },
+      {
+        "name": "Twitch",
+        "url": "https://www.twitch.tv/vityacup/videos",
+        "icon": "../src/icons/twitch-blue.svg"
+      },
+      {
+        "name": "Tcomm page",
+        "url": "https://tcomm.hivie.tn/tournaments/69b80a7914a24db8371e0ca1",
+        "icon": "../src/icons/tcomm.svg"
+      }
+    ],
+    "comments": "JustRoxy and ixfire are doing their thing. What an awesome\n                  tournament. I totally loved streaming it"
+  },
+  {
+    "number": "32",
+    "name": "5 Digit World Cup 2026",
+    "subtitle": "10k - 99k · Standard · 4v4 (TS 8)",
+    "status": "completed",
+    "banner": "banners/5wc26.webp",
+    "rucast": {
+      "class": "tc-cast",
+      "url": "https://www.twitch.tv/tc_cast/videos"
+    },
+    "hosts": [
+      {
+        "name": "LumenLogic",
+        "url": "https://osu.ppy.sh/users/8171404",
+        "avatar": "https://a.ppy.sh/8171404"
+      }
+    ],
+    "dates": {
+      "start": "March 7, 2026",
+      "end": "April 26, 2026"
+    },
+    "rank": "10k - 99k",
+    "type": "Standard",
+    "format": "4v4 (TS 8)",
+    "badge": {
+      "hasBadge": true,
+      "statusText": "Approved",
+      "icons": ["badges/5wc26.png"]
+    },
+    "roles": [
+      {
+        "name": "Restreamer",
+        "class": "role-restreamer"
+      },
+      {
+        "name": "Streamer",
+        "class": "role-streamer"
+      }
+    ],
+    "links": [
+      {
+        "name": "Forum Post",
+        "url": "https://osu.ppy.sh/community/forums/topics/2173597?n=1",
+        "icon": "../src/icons/osu-blue.png"
+      },
+      {
+        "name": "Spreadsheet",
+        "url": "https://docs.google.com/spreadsheets/d/12ed6gpuxjrCrxzSOYjdKhOv46FetyJvrbl0_F3cEZ3A/edit",
+        "icon": "../src/icons/file-spreadsheet-blue.svg"
+      },
+      {
+        "name": "Twitch",
+        "url": "https://www.twitch.tv/5wc2026/videos",
+        "icon": "../src/icons/twitch-blue.svg"
+      },
+      {
+        "name": "TC Cast",
+        "url": "https://www.twitch.tv/tc_cast/videos",
+        "icon": "../src/icons/twitch-blue.svg"
+      },
+      {
+        "name": "Tcomm page",
+        "url": "https://tcomm.hivie.tn/tournaments/6996112bda6f25cc89e6f46e",
         "icon": "../src/icons/tcomm.svg"
       },
       {
         "name": "Liquipedia",
-        "url": "https://liquipedia.net/osu/Osu!kz_Community_Cup/7",
+        "url": "https://liquipedia.net/osu/5_Digit_World_Cup/2026",
         "icon": "../src/icons/liquipedia.png"
       }
     ],
-    "comments": ""
+    "comments": "I streamed a bunch of matches on tc!cast with just one viewer,\n                  and I also streamed a couple of matches on the official\n                  channel. It was a good tournament"
   },
   {
-    "number": "45",
-    "name": "Raise It! 2",
+    "number": "31",
+    "name": "3 Digit World Cup 2026",
+    "subtitle": "100 - 999 · Standard · 4v4 (TS 8)",
+    "status": "completed",
+    "banner": "banners/3wc26.jfif",
+    "rucast": {
+      "class": "rucast",
+      "url": "https://osuru.live/"
+    },
+    "hosts": [
+      {
+        "name": "shdewz",
+        "url": "https://osu.ppy.sh/users/10000899",
+        "avatar": "https://a.ppy.sh/10000899"
+      },
+      {
+        "name": "nik",
+        "url": "https://osu.ppy.sh/users/10077264",
+        "avatar": "https://a.ppy.sh/10077264"
+      }
+    ],
+    "dates": {
+      "start": "February 21, 2026",
+      "end": "March 29, 2026"
+    },
+    "rank": "100 - 999",
+    "type": "Standard",
+    "format": "4v4 (TS 8)",
+    "badge": {
+      "hasBadge": true,
+      "statusText": "Approved",
+      "icons": ["badges/3wc26.png"]
+    },
+    "roles": [
+      {
+        "name": "Restreamer",
+        "class": "role-restreamer"
+      },
+      {
+        "name": "Streamer",
+        "class": "role-streamer"
+      }
+    ],
+    "links": [
+      {
+        "name": "Wiki Page",
+        "url": "https://osu.ppy.sh/wiki/en/Tournaments/3WC/2026",
+        "icon": "../src/icons/osu-blue.png"
+      },
+      {
+        "name": "Spreadsheet",
+        "url": "https://docs.google.com/spreadsheets/d/17tQOAKWcZsZwJaRJP-3JVEcQJP-16WfaSxVexhYVuDM/edit",
+        "icon": "../src/icons/file-spreadsheet-blue.svg"
+      },
+      {
+        "name": "Twitch",
+        "url": "https://www.twitch.tv/3wc_osu/videos",
+        "icon": "../src/icons/twitch-blue.svg"
+      },
+      {
+        "name": "osu!rucast",
+        "url": "https://www.twitch.tv/osurucast/videos",
+        "icon": "../src/icons/twitch-blue.svg"
+      },
+      {
+        "name": "Tcomm page",
+        "url": "https://tcomm.hivie.tn/tournaments/69863caf1457f5c8a836e1c8",
+        "icon": "../src/icons/tcomm.svg"
+      },
+      {
+        "name": "Liquipedia",
+        "url": "https://liquipedia.net/osu/3_Digit_World_Cup/2026",
+        "icon": "../src/icons/liquipedia.png"
+      }
+    ],
+    "comments": "Well, the stream on 3wc26 was pretty good. Too bad the ending\n                  wasn't great—just like the tournament overall"
+  },
+  {
+    "number": "30",
+    "name": "5 Digit European Cup 2026",
+    "subtitle": "10k - 99k · Standard · 4v4 (TS 8)",
+    "status": "completed",
+    "banner": "banners/5ec26.png",
+    "rucast": null,
+    "hosts": [
+      {
+        "name": "Filoxen",
+        "url": "https://osu.ppy.sh/users/24454271",
+        "avatar": "https://a.ppy.sh/24454271"
+      },
+      {
+        "name": "BeZonaurul",
+        "url": "https://osu.ppy.sh/users/11068604",
+        "avatar": "https://a.ppy.sh/11068604"
+      }
+    ],
+    "dates": {
+      "start": "December 29, 2025",
+      "end": "March 8, 2026"
+    },
+    "rank": "10k - 99k",
+    "type": "Standard",
+    "format": "4v4 (TS 8)",
+    "badge": {
+      "hasBadge": true,
+      "statusText": "Approved",
+      "icons": ["badges/5ec26.png"]
+    },
+    "roles": [
+      {
+        "name": "Streamer",
+        "class": "role-streamer"
+      }
+    ],
+    "links": [
+      {
+        "name": "Forum Post",
+        "url": "https://osu.ppy.sh/community/forums/topics/2153398?n=1",
+        "icon": "../src/icons/osu-blue.png"
+      },
+      {
+        "name": "Spreadsheet",
+        "url": "https://docs.google.com/spreadsheets/d/13_PKwbPnlNxLE8Fa4CmldZrikR2lrwOi9JMleA34I8s/edit?usp=sharing",
+        "icon": "../src/icons/file-spreadsheet-blue.svg"
+      },
+      {
+        "name": "Twitch",
+        "url": "https://www.twitch.tv/5digiteuropeancup/videos",
+        "icon": "../src/icons/twitch-blue.svg"
+      },
+      {
+        "name": "Tcomm page",
+        "url": "https://tcomm.hivie.tn/tournaments/694053986cf2c535b4da2186",
+        "icon": "../src/icons/tcomm.svg"
+      },
+      {
+        "name": "Liquipedia",
+        "url": "https://liquipedia.net/osu/5_Digit_European_Cup/2026",
+        "icon": "../src/icons/liquipedia.png"
+      }
+    ],
+    "comments": "Filoxen and BeZonaurul W! A great tournament"
+  },
+  {
+    "number": "29",
+    "name": "osu!community cup 6",
+    "subtitle": "Open Rank · Standard · 1v1",
+    "status": "completed",
+    "banner": "banners/occ6.png",
+    "rucast": null,
+    "hosts": [
+      {
+        "name": "8mi8",
+        "url": "https://osu.ppy.sh/users/11359985",
+        "avatar": "https://a.ppy.sh/11359985"
+      }
+    ],
+    "dates": {
+      "start": "November 3, 2025",
+      "end": "December 14, 2026"
+    },
+    "rank": "Open Rank",
+    "type": "Standard",
+    "format": "1v1",
+    "badge": {
+      "hasBadge": false,
+      "text": "No Badge"
+    },
+    "roles": [
+      {
+        "name": "Streamer",
+        "class": "role-streamer"
+      }
+    ],
+    "links": [
+      {
+        "name": "Spreadsheet",
+        "url": "https://docs.google.com/spreadsheets/d/1HiDmlrlGRAkhosFLeAXJuM5Oo4711itoMLEu6CoBfak/edit?gid=0#gid=0",
+        "icon": "../src/icons/file-spreadsheet-blue.svg"
+      }
+    ],
+    "comments": "A good local tournament. Just like last year, I streamed most\n                  of my matches."
+  },
+  {
+    "number": "28",
+    "name": "Kazakhstan Tournament Mafia Draft Cup 2",
+    "subtitle": "5k - 100k (CIS, BALTIC & UA) · Draft · 2v2 (TS 3)",
+    "status": "completed",
+    "banner": "banners/ktmc2.png",
+    "rucast": null,
+    "hosts": [
+      {
+        "name": "Nordax21",
+        "url": "https://osu.ppy.sh/users/11603379",
+        "avatar": "https://a.ppy.sh/11603379"
+      },
+      {
+        "name": "dxprxsslve",
+        "url": "https://osu.ppy.sh/users/15961784",
+        "avatar": "https://a.ppy.sh/15961784"
+      }
+    ],
+    "dates": {
+      "start": "December 6, 2025",
+      "end": "January 25, 2026"
+    },
+    "rank": "5k - 100k (CIS, BALTIC & UA)",
+    "type": "Draft",
+    "format": "2v2 (TS 3)",
+    "badge": {
+      "hasBadge": true,
+      "statusText": "Unbadge",
+      "icons": ["badges/ktmc2.png"]
+    },
+    "roles": [
+      {
+        "name": "Caster",
+        "class": "role-caster"
+      },
+      {
+        "name": "Streamer",
+        "class": "role-streamer"
+      },
+      {
+        "name": "GFX",
+        "class": "role-gfx"
+      },
+      {
+        "name": "tosu overlay developer",
+        "class": "role-developer",
+        "url": "https://skvidos.github.io/about-me/overlays/index.html"
+      }
+    ],
+    "links": [
+      {
+        "name": "Forum Post",
+        "url": "https://osu.ppy.sh/community/forums/topics/2140861?n=1",
+        "icon": "../src/icons/osu-blue.png"
+      },
+      {
+        "name": "Spreadsheet",
+        "url": "https://docs.google.com/spreadsheets/d/1CS-BTfAqk7YEen1E7T9FXvaWuh1mEkLG2P4E03fBdQk/edit?usp=sharing",
+        "icon": "../src/icons/file-spreadsheet-blue.svg"
+      },
+      {
+        "name": "Twitch",
+        "url": "https://www.twitch.tv/kazakhstantournamentmafia/videos",
+        "icon": "../src/icons/twitch-blue.svg"
+      },
+      {
+        "name": "Tcomm page",
+        "url": "https://tcomm.hivie.tn/tournaments/6914da89034e4b525fd40720",
+        "icon": "../src/icons/tcomm.svg"
+      }
+    ],
+    "comments": "Thank you Nordax21 for organizing the second edition of this\n                  tournament. Just like last time, I enjoyed everything"
+  },
+  {
+    "number": "27",
+    "name": "PIVO CUP 3",
+    "subtitle": "Open Rank · Standard · 3v3 (TS 3)",
+    "status": "completed",
+    "banner": "banners/pivo.png",
+    "rucast": null,
+    "hosts": [
+      {
+        "name": "Capricciosa",
+        "url": "https://osu.ppy.sh/users/15853047",
+        "avatar": "https://a.ppy.sh/15853047"
+      }
+    ],
+    "dates": {
+      "start": "November 1, 2025",
+      "end": "December 21, 2025"
+    },
+    "rank": "Open Rank",
+    "type": "Standard",
+    "format": "3v3 (TS 3)",
+    "badge": {
+      "hasBadge": false,
+      "text": "No Badge"
+    },
+    "roles": [
+      {
+        "name": "Streamer",
+        "class": "role-streamer"
+      }
+    ],
+    "links": [
+      {
+        "name": "Forum Post",
+        "url": "https://osu.ppy.sh/community/forums/topics/2138689?n=1",
+        "icon": "../src/icons/osu-blue.png"
+      },
+      {
+        "name": "Spreadsheet",
+        "url": "https://docs.google.com/spreadsheets/d/11Ii-Jjk9Gu5tOVioTjePTqxVV02EgIEn-UDv4l7GI2s/edit?gid=0#gid=0",
+        "icon": "../src/icons/file-spreadsheet-blue.svg"
+      }
+    ],
+    "comments": "I was completely inactive in this tournament"
+  },
+  {
+    "number": "26",
+    "name": "osu! World Cup 2025",
+    "subtitle": "1 - 10k · Standard · 4v4 (TS 8)",
+    "status": "completed",
+    "banner": "banners/owc2025.jfif",
+    "rucast": {
+      "class": "rucast",
+      "url": "https://osuru.live/"
+    },
+    "hosts": [
+      {
+        "name": "osu! team",
+        "url": "https://osu.ppy.sh/wiki/en/People/osu%21_team",
+        "avatar": ""
+      }
+    ],
+    "dates": {
+      "start": "November 1, 2025",
+      "end": "December 14, 2025"
+    },
+    "rank": "1 - 10k",
+    "type": "Standard",
+    "format": "4v4 (TS 8)",
+    "badge": {
+      "hasBadge": true,
+      "statusText": "Yeahhh",
+      "icons": [
+        "badges/owc2025-1.png",
+        "badges/owc2025-2.png",
+        "badges/owc2025-3.png"
+      ]
+    },
+    "roles": [
+      {
+        "name": "Restreamer",
+        "class": "role-restreamer"
+      },
+      {
+        "name": "Streamer",
+        "class": "role-streamer"
+      }
+    ],
+    "links": [
+      {
+        "name": "Wiki Page",
+        "url": "https://osu.ppy.sh/wiki/en/Tournaments/OWC/2025",
+        "icon": "../src/icons/osu-blue.png"
+      },
+      {
+        "name": "Ru Forum Post",
+        "url": "https://osu.ppy.sh/community/forums/topics/2134862?n=1",
+        "icon": "../src/icons/osu-blue.png"
+      },
+      {
+        "name": "Twitch",
+        "url": "https://www.twitch.tv/osulive/videos",
+        "icon": "../src/icons/twitch-blue.svg"
+      },
+      {
+        "name": "osu!rulive",
+        "url": "https://www.twitch.tv/osurulive/videos",
+        "icon": "../src/icons/twitch-blue.svg"
+      },
+      {
+        "name": "Liquipedia",
+        "url": "https://liquipedia.net/osu/Osu_World_Cup/2025",
+        "icon": "../src/icons/liquipedia.png"
+      }
+    ],
+    "comments": "Well, a huge thanks to Rucast for letting me stream over 20\n                  OWC matches. That's really cool"
+  },
+  {
+    "number": "25",
+    "name": "osu!Collegiate League 2025",
+    "subtitle": "Open Rank (Only Students) · Standard · 2v2 (TS 4)",
+    "status": "completed",
+    "banner": "banners/ocl.png",
+    "rucast": {
+      "class": "tc-cast",
+      "url": "https://www.twitch.tv/tc_cast/videos"
+    },
+    "hosts": [
+      {
+        "name": "LumenLogic",
+        "url": "https://osu.ppy.sh/users/8171404",
+        "avatar": "https://a.ppy.sh/8171404"
+      }
+    ],
+    "dates": {
+      "start": "October 7, 2025",
+      "end": "November 23, 2025"
+    },
+    "rank": "Open Rank (Only Students)",
+    "type": "Standard",
+    "format": "2v2 (TS 4)",
+    "badge": {
+      "hasBadge": false,
+      "text": "No badge"
+    },
+    "roles": [
+      {
+        "name": "Restreamer",
+        "class": "role-restreamer"
+      },
+      {
+        "name": "Caster",
+        "class": "role-caster"
+      },
+      {
+        "name": "Streamer",
+        "class": "role-streamer"
+      }
+    ],
+    "links": [
+      {
+        "name": "Forum Post",
+        "url": "https://osu.ppy.sh/community/forums/topics/2129919?n=1",
+        "icon": "../src/icons/osu-blue.png"
+      },
+      {
+        "name": "Spreadsheet",
+        "url": "https://docs.google.com/spreadsheets/d/1Hnd8vdH3a6enCyV4kFA8ShN5q2t1IKky8du_4tcAyFg/edit?gid=1976912948#gid=1976912948",
+        "icon": "../src/icons/file-spreadsheet-blue.svg"
+      },
+      {
+        "name": "TC Cast",
+        "url": "https://www.twitch.tv/tc_cast/videos",
+        "icon": "../src/icons/twitch-blue.svg"
+      },
+      {
+        "name": "Liquipedia",
+        "url": "https://liquipedia.net/osu/Collegiate_League/2025/Standard/Fall/ROTW/Tier_2",
+        "icon": "../src/icons/liquipedia.png"
+      }
+    ],
+    "comments": "I took on this tournament to stream Russian universities on TC\n                  Cast"
+  },
+  {
+    "number": "24",
+    "name": "Raise It!",
     "subtitle": "Open Rank (Russian speaking only) · Auction · 3v3 (TS 6)",
-    "status": "upcoming",
-    "banner": "banners/raiseit2.png",
+    "status": "completed",
+    "banner": "banners/raiseit.png",
     "rucast": null,
     "hosts": [
       {
@@ -2801,15 +1413,16 @@
       }
     ],
     "dates": {
-      "start": "October 17, 2026",
-      "end": "November 22, 2026"
+      "start": "September 20, 2025",
+      "end": "October 19, 2025"
     },
     "rank": "Open Rank (Russian speaking only)",
     "type": "Standard",
     "format": "3v3 (TS 6)",
     "badge": {
-      "hasBadge": false,
-      "text": "Not yet"
+      "hasBadge": true,
+      "statusText": "Approved",
+      "icons": ["badges/raiseit.png"]
     },
     "roles": [
       {
@@ -2828,12 +1441,12 @@
     "links": [
       {
         "name": "Forum Post",
-        "url": "https://osu.ppy.sh/community/forums/topics/2246212?n=1",
+        "url": "https://osu.ppy.sh/community/forums/topics/2118134?n=1",
         "icon": "../src/icons/osu-blue.png"
       },
       {
         "name": "Spreadsheet",
-        "url": "https://docs.google.com/spreadsheets/d/1Pfqs40RePS3_8h29BIH7PpEmoWO-WuJY7AmAtfy94vk/edit?gid=1122799041#gid=1122799041",
+        "url": "https://docs.google.com/spreadsheets/d/1-UYnhZzXMxnjtu7T3RcLMlykpOOvpq7ZflCp8IewkfA/edit?gid=276058618#gid=276058618",
         "icon": "../src/icons/file-spreadsheet-blue.svg"
       },
       {
@@ -2843,10 +1456,1404 @@
       },
       {
         "name": "Tcomm page",
-        "url": "http://127.0.0.1:5500/tournaments/staff-page.html",
+        "url": "https://tcomm.hivie.tn/tournaments/68b80a7c3621eb0c3f59d7a3",
         "icon": "../src/icons/tcomm.svg"
       }
     ],
-    "comments": ""
+    "comments": "It was also a pretty good tournament with an interesting\n                  format. I streamed a few matches"
+  },
+  {
+    "number": "23",
+    "name": "Russian Provincial Cup 2025",
+    "subtitle": "1-100k (Russian Only) · Standard · 3v3 (TS 4)",
+    "status": "completed",
+    "banner": "banners/rpc.png",
+    "rucast": null,
+    "hosts": [
+      {
+        "name": "Kobra_TF",
+        "url": "https://osu.ppy.sh/users/10035482",
+        "avatar": "https://a.ppy.sh/10035482"
+      },
+      {
+        "name": "normanzerga",
+        "url": "https://osu.ppy.sh/users/9887673",
+        "avatar": "https://a.ppy.sh/9887673"
+      }
+    ],
+    "dates": {
+      "start": "August 18, 2025",
+      "end": "October 5, 2025"
+    },
+    "rank": "1-100k (Russian only)",
+    "type": "Standard",
+    "format": "3v3 (TS 4)",
+    "badge": {
+      "hasBadge": true,
+      "statusText": "Approved",
+      "icons": ["badges/rpc.png"]
+    },
+    "roles": [
+      {
+        "name": "Streamer",
+        "class": "role-streamer"
+      }
+    ],
+    "links": [
+      {
+        "name": "Forum Post",
+        "url": "https://osu.ppy.sh/community/forums/topics/2104690?n=1",
+        "icon": "../src/icons/osu-blue.png"
+      },
+      {
+        "name": "Spreadsheet",
+        "url": "https://docs.google.com/spreadsheets/d/1nrshran3png_sB5bj9zIKaiOJ9xs3mHF3IR_iAualwU/edit?usp=sharing",
+        "icon": "../src/icons/file-spreadsheet-blue.svg"
+      },
+      {
+        "name": "Twitch",
+        "url": "https://www.twitch.tv/russian_provincial_cups",
+        "icon": "../src/icons/twitch-blue.svg"
+      },
+      {
+        "name": "Tcomm page",
+        "url": "https://tcomm.hivie.tn/tournaments/6898b3769ee5eb643a1bcd17",
+        "icon": "../src/icons/tcomm.svg"
+      },
+      {
+        "name": "Liquipedia",
+        "url": "https://liquipedia.net/osu/Russian_Provincial_Cup/2025",
+        "icon": "../src/icons/liquipedia.png"
+      }
+    ],
+    "comments": "It was a good tournament. I took most of the matches"
+  },
+  {
+    "number": "22",
+    "name": "6 Digit World Cup 2025 (Minor League)",
+    "subtitle": "100k - 999k · Standard · 4v4 (TS 8)",
+    "status": "completed",
+    "banner": "banners/6wc25minor.png",
+    "rucast": null,
+    "hosts": [
+      {
+        "name": "WheelsWaz",
+        "url": "https://osu.ppy.sh/users/21404004",
+        "avatar": "https://a.ppy.sh/21404004"
+      }
+    ],
+    "dates": {
+      "start": "September 14, 2025",
+      "end": "October 19, 2025"
+    },
+    "rank": "100k - 999k",
+    "type": "Standard",
+    "format": "4v4 (TS 8)",
+    "badge": {
+      "hasBadge": false,
+      "text": "No badge"
+    },
+    "roles": [
+      {
+        "name": "Streamer",
+        "class": "role-streamer"
+      },
+      {
+        "name": "GFX",
+        "class": "role-gfx"
+      },
+      {
+        "name": "tosu overlay developer",
+        "class": "role-developer",
+        "url": "https://skvidos.github.io/about-me/overlays/index.html"
+      }
+    ],
+    "links": [
+      {
+        "name": "Spreadsheet",
+        "url": "https://docs.google.com/spreadsheets/d/1cbZm7F3ZkW65mCVKfijoQ01kqIrYmIiGXvYX-RBGE3U/edit?gid=968007802#gid=968007802",
+        "icon": "../src/icons/file-spreadsheet-blue.svg"
+      },
+      {
+        "name": "Twitch",
+        "url": "https://www.twitch.tv/6wcml_osu/videos",
+        "icon": "../src/icons/twitch-blue.svg"
+      }
+    ],
+    "comments": "It was another good experience working on the overlay, and I\n                  also had to deal with the language barrier, since everyone\n                  there speaks English"
+  },
+  {
+    "number": "21",
+    "name": "6 Digit World Cup 2025",
+    "subtitle": "100k - 999k · Standard · 4v4 (TS 8)",
+    "status": "completed",
+    "banner": "banners/6wc25.png",
+    "rucast": null,
+    "hosts": [
+      {
+        "name": "gamicrayola",
+        "url": "https://osu.ppy.sh/users/29426345",
+        "avatar": "https://a.ppy.sh/29426345"
+      }
+    ],
+    "dates": {
+      "start": "August 4, 2025",
+      "end": "September 21, 2025"
+    },
+    "rank": "100k - 999k",
+    "type": "Standard",
+    "format": "4v4 (TS 8)",
+    "badge": {
+      "hasBadge": false,
+      "text": "No badge"
+    },
+    "roles": [
+      {
+        "name": "Streamer",
+        "class": "role-streamer"
+      }
+    ],
+    "links": [
+      {
+        "name": "Forum Post",
+        "url": "https://osu.ppy.sh/community/forums/topics/2086828?n=1",
+        "icon": "../src/icons/osu-blue.png"
+      },
+      {
+        "name": "Spreadsheet",
+        "url": "https://docs.google.com/spreadsheets/d/1ja8dTQbEDG2S1AHTdfw_JE_C3lvdUpVSrnuovHHBlTg/edit?gid=1070934373#gid=1070934373",
+        "icon": "../src/icons/file-spreadsheet-blue.svg"
+      },
+      {
+        "name": "Twitch",
+        "url": "https://www.twitch.tv/project_hexagon/videos",
+        "icon": "../src/icons/twitch-blue.svg"
+      },
+      {
+        "name": "Tcomm page",
+        "url": "https://tcomm.hivie.tn/tournaments/6866d383a86ef9b03c192e0d",
+        "icon": "../src/icons/tcomm.svg"
+      },
+      {
+        "name": "Liquipedia",
+        "url": "https://liquipedia.net/osu/6_Digit_World_Cup/2025",
+        "icon": "../src/icons/liquipedia.png"
+      }
+    ],
+    "comments": "Project Hexagon is really doing things at a high level. I\n                  streamed almost all the matches in which Kazakhstan played"
+  },
+  {
+    "number": "20",
+    "name": "osu!Kazakhstan Community Cup 6",
+    "subtitle": "Open Rank (Kazakhstan and Kyrgyzstan only) · Standard · 1v1",
+    "status": "completed",
+    "banner": "banners/KZcup6.png",
+    "rucast": null,
+    "hosts": [
+      {
+        "name": "Lightin",
+        "url": "https://osu.ppy.sh/users/7595619",
+        "avatar": "https://a.ppy.sh/7595619"
+      }
+    ],
+    "dates": {
+      "start": "July 12, 2025",
+      "end": "August 31, 2025"
+    },
+    "rank": "Open Rank (Kazakhstan and Kyrgyzstan only)",
+    "type": "Standard",
+    "format": "1v1",
+    "badge": {
+      "hasBadge": true,
+      "statusText": "Approved",
+      "icons": ["badges/kzcup6.png"]
+    },
+    "roles": [
+      {
+        "name": "Referee",
+        "class": "role-referee"
+      },
+      {
+        "name": "Caster",
+        "class": "role-caster"
+      },
+      {
+        "name": "Streamer",
+        "class": "role-streamer"
+      }
+    ],
+    "links": [
+      {
+        "name": "Forum Post",
+        "url": "https://osu.ppy.sh/community/forums/topics/2092254?n=1",
+        "icon": "../src/icons/osu-blue.png"
+      },
+      {
+        "name": "Spreadsheet",
+        "url": "https://docs.google.com/spreadsheets/d/1IriINvQy8VKuB3yeVZpxJkRYa3-bqaJnol1L-uRt4d4/edit?gid=0#gid=0",
+        "icon": "../src/icons/file-spreadsheet-blue.svg"
+      },
+      {
+        "name": "Twitch",
+        "url": "https://www.twitch.tv/osukazakhstan/videos",
+        "icon": "../src/icons/twitch-blue.svg"
+      },
+      {
+        "name": "Tcomm page",
+        "url": "https://tcomm.hivie.tn/tournaments/6860229ee93dc18f1d40640c",
+        "icon": "../src/icons/tcomm.svg"
+      },
+      {
+        "name": "Liquipedia",
+        "url": "https://liquipedia.net/osu/Osu!kz_Community_Cup/6",
+        "icon": "../src/icons/liquipedia.png"
+      }
+    ],
+    "comments": "\"@Skvidos - My man started his career as a streamer last\n                  iteration for osu!Kazakhstan Community Cup 5 and since then\n                  became the MOST active streamer in CIS that has been doing so\n                  much work not just for Kazakhstan tournaments but practically\n                  everywhere. I am gald we gave you the platform to grow and I\n                  am always happy to see you as a streamer on any tournament.\n                  The 🐐 of streamers for sure. THE BEST Streamer award for\n                  osu!Kazakhstan Community Cup 6 goes to: @Skvidos .\n                  Congratulations! - Lightin\""
+  },
+  {
+    "number": "19",
+    "name": "Minimalistic Cup",
+    "subtitle": "10k-99k (Russian speaking only) · Standard · 1v1",
+    "status": "completed",
+    "banner": "banners/minimalistic.png",
+    "rucast": null,
+    "hosts": [
+      {
+        "name": "ikigatsumaru",
+        "url": "https://osu.ppy.sh/users/24658561",
+        "avatar": "https://a.ppy.sh/24658561"
+      },
+      {
+        "name": "Frindin",
+        "url": "https://osu.ppy.sh/users/17124682",
+        "avatar": "https://a.ppy.sh/17124682"
+      }
+    ],
+    "dates": {
+      "start": "June 28, 2025",
+      "end": "August 10, 2025"
+    },
+    "rank": "10k-99k (Russian speaking only)",
+    "type": "Standard",
+    "format": "1v1",
+    "badge": {
+      "hasBadge": true,
+      "statusText": "Approved",
+      "icons": ["badges/minimalistic.png"]
+    },
+    "roles": [
+      {
+        "name": "Streamer",
+        "class": "role-streamer"
+      },
+      {
+        "name": "tosu overlay developer",
+        "class": "role-developer",
+        "url": "https://skvidos.github.io/about-me/overlays/index.html"
+      }
+    ],
+    "links": [
+      {
+        "name": "Forum Post",
+        "url": "https://osu.ppy.sh/community/forums/topics/2082372?n=1",
+        "icon": "../src/icons/osu-blue.png"
+      },
+      {
+        "name": "Spreadsheet",
+        "url": "https://docs.google.com/spreadsheets/d/1zZgbOAIoqOnatAnymBfPWCxuycCh7gC8HFJiot4FQRI/edit?gid=1176348381#gid=1176348381",
+        "icon": "../src/icons/file-spreadsheet-blue.svg"
+      },
+      {
+        "name": "Twitch",
+        "url": "https://www.twitch.tv/minimalisticcup/videos",
+        "icon": "../src/icons/twitch-blue.svg"
+      },
+      {
+        "name": "Tcomm page",
+        "url": "https://tcomm.hivie.tn/tournaments/68459e2cd410af37f86f20ed",
+        "icon": "../src/icons/tcomm.svg"
+      }
+    ],
+    "comments": "A fun 1v1 tournament. I didn't stream it, but I made a cool\n                  overlay"
+  },
+  {
+    "number": "18",
+    "name": "Lightin's Crystal Tide",
+    "subtitle": "Open Rank · Standard · 3v3 (TS 6)",
+    "status": "completed",
+    "banner": "banners/lct.png",
+    "rucast": null,
+    "hosts": [
+      {
+        "name": "Lightin",
+        "url": "https://osu.ppy.sh/users/7595619",
+        "avatar": "https://a.ppy.sh/7595619"
+      }
+    ],
+    "dates": {
+      "start": "June 28, 2025",
+      "end": "August 10, 2025"
+    },
+    "rank": "Open Rank",
+    "type": "Standard",
+    "format": "3v3 (TS 6)",
+    "badge": {
+      "hasBadge": true,
+      "statusText": "Approved",
+      "icons": ["badges/lct.png"]
+    },
+    "roles": [
+      {
+        "name": "Streamer",
+        "class": "role-streamer"
+      },
+      {
+        "name": "tosu overlay developer",
+        "class": "role-developer",
+        "url": "https://skvidos.github.io/about-me/overlays/index.html"
+      }
+    ],
+    "links": [
+      {
+        "name": "Forum Post",
+        "url": "https://osu.ppy.sh/community/forums/topics/2082736?n=1",
+        "icon": "../src/icons/osu-blue.png"
+      },
+      {
+        "name": "Spreadsheet",
+        "url": "https://docs.google.com/spreadsheets/d/1CdXkaaHHRMMilxBecHRYwp8DKYxkww0_PgVMlvnD6Gw/edit",
+        "icon": "../src/icons/file-spreadsheet-blue.svg"
+      },
+      {
+        "name": "Twitch",
+        "url": "https://www.twitch.tv/notlightin/videos",
+        "icon": "../src/icons/twitch-blue.svg"
+      },
+      {
+        "name": "Tcomm page",
+        "url": "https://tcomm.hivie.tn/tournaments/68501f5d8bda4add5afb27c2",
+        "icon": "../src/icons/tcomm.svg"
+      },
+      {
+        "name": "Liquipedia",
+        "url": "https://liquipedia.net/osu/Lightin%27s_Crystal_Tide",
+        "icon": "../src/icons/liquipedia.png"
+      }
+    ],
+    "comments": "Thank you to Lightin for organizing this tournament. It was a\n                  pleasure working with him."
+  },
+  {
+    "number": "17",
+    "name": "Emo4kapro's Noob Tournament",
+    "subtitle": "90k-315k · Standard · 2v2 (TS 2)",
+    "status": "completed",
+    "banner": "banners/ent.png",
+    "rucast": null,
+    "hosts": [
+      {
+        "name": "emo4kapro",
+        "url": "https://osu.ppy.sh/users/20629395",
+        "avatar": "https://a.ppy.sh/20629395"
+      }
+    ],
+    "dates": {
+      "start": "June 6, 2025",
+      "end": "July 20, 2025"
+    },
+    "rank": "90k-315k",
+    "type": "Standard",
+    "format": "2v2 (TS 2)",
+    "badge": {
+      "hasBadge": true,
+      "statusText": "",
+      "icons": []
+    },
+    "roles": [
+      {
+        "name": "Admin",
+        "class": "role-admin"
+      },
+      {
+        "name": "Streamer",
+        "class": "role-streamer"
+      }
+    ],
+    "links": [
+      {
+        "name": "Forum Post",
+        "url": "https://osu.ppy.sh/community/forums/topics/2078056?n=1",
+        "icon": "../src/icons/osu-blue.png"
+      },
+      {
+        "name": "Spreadsheet",
+        "url": "https://docs.google.com/spreadsheets/d/1g4bkZ94HfN2eqFXB03BWZPio3MrfG7p3mqxXQYI39LU/edit?gid=1081147069#gid=1081147069",
+        "icon": "../src/icons/file-spreadsheet-blue.svg"
+      },
+      {
+        "name": "Twitch",
+        "url": "https://www.twitch.tv/emo4kanoobtourney/videos",
+        "icon": "../src/icons/twitch-blue.svg"
+      }
+    ],
+    "comments": "Thanks to emo4kapro for organizing the tournament. I was a\n                  really good “admin”"
+  },
+  {
+    "number": "16",
+    "name": "VITYA Cup: RABBIT",
+    "subtitle": "Open Rank (Russian speaking only) · Standard · 1v1",
+    "status": "completed",
+    "banner": "banners/vityacuprabbit.png",
+    "rucast": null,
+    "hosts": [
+      {
+        "name": "JustRoxy",
+        "url": "https://osu.ppy.sh/users/9083516",
+        "avatar": "https://a.ppy.sh/9083516"
+      }
+    ],
+    "dates": {
+      "start": "May 17, 2025",
+      "end": "June 29, 2025"
+    },
+    "rank": "Open Rank (Russian speaking only)",
+    "type": "Standard",
+    "format": "1v1",
+    "badge": {
+      "hasBadge": true,
+      "statusText": "Approved",
+      "icons": ["badges/vityacuprabbit.png"]
+    },
+    "roles": [
+      {
+        "name": "Referee",
+        "class": "role-referee"
+      },
+      {
+        "name": "Streamer",
+        "class": "role-streamer"
+      }
+    ],
+    "links": [
+      {
+        "name": "Forum Post",
+        "url": "https://osu.ppy.sh/community/forums/topics/2066186?n=1",
+        "icon": "../src/icons/osu-blue.png"
+      },
+      {
+        "name": "Spreadsheet",
+        "url": "https://docs.google.com/spreadsheets/d/1YKQfDz7EHvhi8WXUqkQlSI2gRobIS-8SRWAXm-j4-K8/edit?gid=1855546747#gid=1855546747",
+        "icon": "../src/icons/file-spreadsheet-blue.svg"
+      },
+      {
+        "name": "Twitch",
+        "url": "https://www.twitch.tv/vityacup/videos",
+        "icon": "../src/icons/twitch-blue.svg"
+      },
+      {
+        "name": "Tcomm page",
+        "url": "https://tcomm.hivie.tn/tournaments/680f83b56d8222a26abcd0e3",
+        "icon": "../src/icons/tcomm.svg"
+      }
+    ],
+    "comments": "It was a good tournament. I was happy to take part in it"
+  },
+  {
+    "number": "15",
+    "name": "Котятки Random Cup",
+    "subtitle": "Open Rank · Draft · 2v2 (TS 3)",
+    "status": "completed",
+    "banner": "banners/kotr.png",
+    "rucast": null,
+    "hosts": [],
+    "dates": {
+      "start": "March 3, 2025",
+      "end": "June 22, 2025"
+    },
+    "rank": "Open Rank",
+    "type": "Draft",
+    "format": "2v2 (TS 3)",
+    "badge": {
+      "hasBadge": true,
+      "statusText": "",
+      "icons": []
+    },
+    "roles": [
+      {
+        "name": "Streamer",
+        "class": "role-streamer"
+      }
+    ],
+    "links": [
+      {
+        "name": "Spreadsheet",
+        "url": "https://docs.google.com/spreadsheets/d/19klCPNsyn51xN-ZqagKfKp8wm1Mw0ccLeSkyfR42I1E/edit?gid=2094230702#gid=2094230702",
+        "icon": "../src/icons/file-spreadsheet-blue.svg"
+      }
+    ],
+    "comments": "One successful stream 😊"
+  },
+  {
+    "number": "14",
+    "name": "Osu! Emo Cup",
+    "subtitle": "5k-50k (Russian speaking only) · Standard · 2v2 (TS 2)",
+    "status": "completed",
+    "banner": "banners/oec.png",
+    "rucast": null,
+    "hosts": [
+      {
+        "name": "Ch0knyt",
+        "url": "https://osu.ppy.sh/users/10360432",
+        "avatar": "https://a.ppy.sh/10360432"
+      }
+    ],
+    "dates": {
+      "start": "March 10, 2025",
+      "end": "April 27, 2025"
+    },
+    "rank": "5k-50k (Russian speaking only)",
+    "type": "Standard",
+    "format": "2v2 (TS 2)",
+    "badge": {
+      "hasBadge": true,
+      "statusText": "Approved",
+      "icons": ["badges/oec.png"]
+    },
+    "roles": [
+      {
+        "name": "Referee",
+        "class": "role-referee"
+      },
+      {
+        "name": "Caster",
+        "class": "role-caster"
+      },
+      {
+        "name": "Streamer",
+        "class": "role-streamer"
+      },
+      {
+        "name": "tosu overlay developer",
+        "class": "role-developer",
+        "url": "https://skvidos.github.io/about-me/overlays/index.html"
+      }
+    ],
+    "links": [
+      {
+        "name": "Forum Post",
+        "url": "https://osu.ppy.sh/community/forums/topics/2031047?n=1",
+        "icon": "../src/icons/osu-blue.png"
+      },
+      {
+        "name": "Spreadsheet",
+        "url": "https://docs.google.com/spreadsheets/d/1UGtbVI40wAOqp3YY4llT6yN2cVQWpiNgssri2C-pkk8/edit?gid=859819526#gid=859819526",
+        "icon": "../src/icons/file-spreadsheet-blue.svg"
+      },
+      {
+        "name": "Twitch",
+        "url": "http://twitch.tv/ch0knyt/videos",
+        "icon": "../src/icons/twitch-blue.svg"
+      },
+      {
+        "name": "Tcomm page",
+        "url": "https://tcomm.hivie.tn/tournaments/67ec60770f2d0e2420937242",
+        "icon": "../src/icons/tcomm.svg"
+      }
+    ],
+    "comments": "A really awesome tournament. I made a really cool overlay,\n                  streamed a lot of matches, and got to talk to so many nice\n                  people! Thanks to\n                  Ch0knyt\n                  for organizing this tournament. Oh, and the stream with\n                  talala\n                  on GFs!"
+  },
+  {
+    "number": "13",
+    "name": "5 Digit World Cup 2025",
+    "subtitle": "10k-99.9k · Standard · 4v4 (TS 8)",
+    "status": "completed",
+    "banner": "banners/5wc25.png",
+    "rucast": {
+      "class": "tc-cast",
+      "url": "https://www.twitch.tv/tc_cast/videos"
+    },
+    "hosts": [
+      {
+        "name": "LumenLogic",
+        "url": "https://osu.ppy.sh/users/8171404",
+        "avatar": "https://a.ppy.sh/8171404"
+      }
+    ],
+    "dates": {
+      "start": "February 25, 2025",
+      "end": "April 13, 2025"
+    },
+    "rank": "10k-99.9k",
+    "type": "Standard",
+    "format": "4v4 (TS 8)",
+    "badge": {
+      "hasBadge": true,
+      "statusText": "Approved",
+      "icons": ["badges/5wc25.png"]
+    },
+    "roles": [
+      {
+        "name": "Restreamer",
+        "class": "role-restreamer"
+      },
+      {
+        "name": "Caster",
+        "class": "role-caster"
+      },
+      {
+        "name": "Streamer",
+        "class": "role-streamer"
+      }
+    ],
+    "links": [
+      {
+        "name": "Forum Post",
+        "url": "https://osu.ppy.sh/community/forums/topics/2028931",
+        "icon": "../src/icons/osu-blue.png"
+      },
+      {
+        "name": "Spreadsheet",
+        "url": "https://docs.google.com/spreadsheets/d/1Zm4bKyWxron56ynG4SKYe80pUiZdPiWJmVwOoq2qa0c/edit?gid=0#gid=0",
+        "icon": "../src/icons/file-spreadsheet-blue.svg"
+      },
+      {
+        "name": "Twitch",
+        "url": "https://www.twitch.tv/5wc2025/videos",
+        "icon": "../src/icons/twitch-blue.svg"
+      },
+      {
+        "name": "TС Cast",
+        "url": "https://www.twitch.tv/tc_cast/videos",
+        "icon": "../src/icons/twitch-blue.svg"
+      },
+      {
+        "name": "Liquipedia",
+        "url": "https://liquipedia.net/osu/5_Digit_World_Cup/2025",
+        "icon": "../src/icons/liquipedia.png"
+      }
+    ],
+    "comments": "Same like 5ec25"
+  },
+  {
+    "number": "12",
+    "name": "5 Digit European Cup 2025",
+    "subtitle": "10k-99.9k · Standard · 4v4 (TS 8)",
+    "status": "completed",
+    "banner": "banners/5ec25.png",
+    "rucast": {
+      "class": "tc-cast",
+      "url": "https://www.twitch.tv/tc_cast/videos"
+    },
+    "hosts": [
+      {
+        "name": "Kyori_",
+        "url": "https://osu.ppy.sh/users/18389558",
+        "avatar": "https://a.ppy.sh/18389558"
+      },
+      {
+        "name": "BeZonaurul",
+        "url": "https://osu.ppy.sh/users/11068604",
+        "avatar": "https://a.ppy.sh/11068604"
+      }
+    ],
+    "dates": {
+      "start": "December 1, 2024",
+      "end": "March 23, 2025"
+    },
+    "rank": "10k-99.9k",
+    "type": "Standard",
+    "format": "4v4 (TS 8)",
+    "badge": {
+      "hasBadge": true,
+      "statusText": "Approved",
+      "icons": ["badges/5ec25.png"]
+    },
+    "roles": [
+      {
+        "name": "Restreamer",
+        "class": "role-restreamer"
+      },
+      {
+        "name": "Caster",
+        "class": "role-caster"
+      },
+      {
+        "name": "Streamer",
+        "class": "role-streamer"
+      }
+    ],
+    "links": [
+      {
+        "name": "Forum Post",
+        "url": "https://osu.ppy.sh/community/forums/topics/2010087?n=1",
+        "icon": "../src/icons/osu-blue.png"
+      },
+      {
+        "name": "Spreadsheet",
+        "url": "https://docs.google.com/spreadsheets/d/1guAhwo6XqcTp1xWIQbnZoVOiw5G5KfAkNzDB4iM8CjU/edit",
+        "icon": "../src/icons/file-spreadsheet-blue.svg"
+      },
+      {
+        "name": "Twitch",
+        "url": "https://www.twitch.tv/5digiteuropeancup/videos",
+        "icon": "../src/icons/twitch-blue.svg"
+      },
+      {
+        "name": "TС Cast",
+        "url": "https://www.twitch.tv/tc_cast/videos",
+        "icon": "../src/icons/twitch-blue.svg"
+      },
+      {
+        "name": "Tcomm page",
+        "url": "https://tcomm.hivie.tn/tournaments/67ec60630f2d0e2420937159",
+        "icon": "../src/icons/tcomm.svg"
+      },
+      {
+        "name": "Liquipedia",
+        "url": "https://liquipedia.net/osu/5_Digit_European_Cup/2025",
+        "icon": "../src/icons/liquipedia.png"
+      }
+    ],
+    "comments": "Re-streaming is definitely cool, but there's always the\n                  problem with the commentators—they're never there, which kind\n                  of sucks"
+  },
+  {
+    "number": "11",
+    "name": "6 Digit European Cup 2025",
+    "subtitle": "100k-999k · Standard · 4v4 (TS 8)",
+    "status": "completed",
+    "banner": "banners/6ec25.png",
+    "rucast": null,
+    "hosts": [
+      {
+        "name": "FrauOn",
+        "url": "https://osu.ppy.sh/users/14942638",
+        "avatar": "https://a.ppy.sh/14942638"
+      },
+      {
+        "name": "WheelsWaz",
+        "url": "https://osu.ppy.sh/users/21404004",
+        "avatar": "https://a.ppy.sh/21404004"
+      }
+    ],
+    "dates": {
+      "start": "January 27, 2025",
+      "end": "March 30, 2025"
+    },
+    "rank": "100k-999k",
+    "type": "Standard",
+    "format": "4v4 (TS 8)",
+    "badge": {
+      "hasBadge": true,
+      "statusText": "",
+      "icons": []
+    },
+    "roles": [
+      {
+        "name": "Referee",
+        "class": "role-referee"
+      },
+      {
+        "name": "Caster",
+        "class": "role-caster"
+      },
+      {
+        "name": "Streamer",
+        "class": "role-streamer"
+      },
+      {
+        "name": "GFX",
+        "class": "role-gfx"
+      },
+      {
+        "name": "tosu overlay developer",
+        "class": "role-developer",
+        "url": "https://skvidos.github.io/about-me/overlays/index.html"
+      }
+    ],
+    "links": [
+      {
+        "name": "Forum Post",
+        "url": "https://osu.ppy.sh/community/forums/topics/2015866?n=1",
+        "icon": "../src/icons/osu-blue.png"
+      },
+      {
+        "name": "Spreadsheet",
+        "url": "https://docs.google.com/spreadsheets/d/1o5yW-YzqhzKnUhZ0usQReoVOigLjVEhfz6ZIpwa6CTg/edit?gid=1689800604#gid=1689800604",
+        "icon": "../src/icons/file-spreadsheet-blue.svg"
+      },
+      {
+        "name": "Twitch",
+        "url": "https://www.twitch.tv/6ec_osu/videos",
+        "icon": "../src/icons/twitch-blue.svg"
+      }
+    ],
+    "comments": "Awesome tournament. My first time streaming in English cast\n                  and I made a cool tournament overlay!"
+  },
+  {
+    "number": "10",
+    "name": "TRAVKA CUP",
+    "subtitle": "Open Rank · Standard · 1v1",
+    "status": "completed",
+    "banner": "banners/travka.png",
+    "rucast": null,
+    "hosts": [
+      {
+        "name": "garab1k",
+        "url": "https://osu.ppy.sh/users/9984244",
+        "avatar": "https://a.ppy.sh/9984244"
+      }
+    ],
+    "dates": {
+      "start": "January 16, 2025",
+      "end": "March 16, 2025"
+    },
+    "rank": "Open Rank",
+    "type": "Standard",
+    "format": "1v1",
+    "badge": {
+      "hasBadge": true,
+      "statusText": "Approved",
+      "icons": ["badges/travka.png"]
+    },
+    "roles": [
+      {
+        "name": "Streamer",
+        "class": "role-streamer"
+      }
+    ],
+    "links": [
+      {
+        "name": "Forum Post",
+        "url": "https://osu.ppy.sh/community/forums/topics/2007458?n=1",
+        "icon": "../src/icons/osu-blue.png"
+      },
+      {
+        "name": "Spreadsheet",
+        "url": "https://docs.google.com/spreadsheets/d/1ABBrNpsac7J_dqhsginXiqayrzlP5sNhrptToW1jrko/edit?gid=0#gid=0",
+        "icon": "../src/icons/file-spreadsheet-blue.svg"
+      },
+      {
+        "name": "Twitch",
+        "url": "https://www.twitch.tv/travkacup/videos",
+        "icon": "../src/icons/twitch-blue.svg"
+      },
+      {
+        "name": "Tcomm page",
+        "url": "https://tcomm.hivie.tn/tournaments/67ec60490f2d0e242093701f",
+        "icon": "../src/icons/tcomm.svg"
+      }
+    ],
+    "comments": "I don't know, something about this tournament really got me\n                  all fired up. I streamed one match, and there weren't any\n                  casters and streamers, for that matter"
+  },
+  {
+    "number": "09",
+    "name": "Котятки Cup 3",
+    "subtitle": "Open Rank · Draft · 2v2 (TS 3)",
+    "status": "completed",
+    "banner": "banners/kot3.png",
+    "rucast": null,
+    "hosts": [],
+    "dates": {
+      "start": "Decebmer 28, 2024",
+      "end": "February 8, 2025"
+    },
+    "rank": "Open Rank",
+    "type": "Draft",
+    "format": "2v2 (TS 3)",
+    "badge": {
+      "hasBadge": true,
+      "statusText": "",
+      "icons": []
+    },
+    "roles": [
+      {
+        "name": "Streamer",
+        "class": "role-streamer"
+      }
+    ],
+    "links": [
+      {
+        "name": "Spreadsheet",
+        "url": "https://docs.google.com/spreadsheets/d/1aKTp_HkdCUE4ok9L8sXW826C6Gc8uwAjpJkW7VgMSu0/edit?gid=2086491910#gid=2086491910",
+        "icon": "../src/icons/file-spreadsheet-blue.svg"
+      }
+    ],
+    "comments": "It was a good tournament. I enjoyed it. Too bad I didn't\n                  stream much."
+  },
+  {
+    "number": "08",
+    "name": "osu!Kazakhstan Collegiate Cup",
+    "subtitle": "Open Rank (Kazakhstani Students Only) · Standard · 2v2 (TS\n                    2)",
+    "status": "completed",
+    "banner": "banners/okc.png",
+    "rucast": null,
+    "hosts": [
+      {
+        "name": "Lightin",
+        "url": "https://osu.ppy.sh/users/7595619",
+        "avatar": "https://a.ppy.sh/7595619"
+      }
+    ],
+    "dates": {
+      "start": "October 14, 2024",
+      "end": "December 8, 2024"
+    },
+    "rank": "Open Rank (Kazakhstani Students Only)",
+    "type": "Standard",
+    "format": "2v2 (TS 2)",
+    "badge": {
+      "hasBadge": true,
+      "statusText": "",
+      "icons": []
+    },
+    "roles": [
+      {
+        "name": "Referee",
+        "class": "role-referee"
+      },
+      {
+        "name": "Caster",
+        "class": "role-caster"
+      },
+      {
+        "name": "Streamer",
+        "class": "role-streamer"
+      }
+    ],
+    "links": [
+      {
+        "name": "Forum Post",
+        "url": "https://osu.ppy.sh/community/forums/topics/1990080?n=1",
+        "icon": "../src/icons/osu-blue.png"
+      },
+      {
+        "name": "Spreadsheet",
+        "url": "https://docs.google.com/spreadsheets/d/1tJzNHHs7OOHnte4nQfMonMeSNDnHCTcHsHemjRLwi4k/edit?usp=sharing",
+        "icon": "../src/icons/file-spreadsheet-blue.svg"
+      },
+      {
+        "name": "Twitch",
+        "url": "https://www.twitch.tv/nujapaneseclub/videos",
+        "icon": "../src/icons/twitch-blue.svg"
+      }
+    ],
+    "comments": "I didn't stream much, but the tournament was top"
+  },
+  {
+    "number": "07",
+    "name": "Kazakhstan Tournament Mafia Cup 1",
+    "subtitle": "40k-999k (Kazakhstan only) · Draft · 2v2 (TS 3)",
+    "status": "completed",
+    "banner": "banners/KTMC1.png",
+    "rucast": null,
+    "hosts": [
+      {
+        "name": "Nordax21",
+        "url": "https://osu.ppy.sh/users/11603379",
+        "avatar": "https://a.ppy.sh/11603379"
+      }
+    ],
+    "dates": {
+      "start": "October 14, 2024",
+      "end": "January 13, 2025"
+    },
+    "rank": "40k-999k (Kazakhstan only)",
+    "type": "Draft",
+    "format": "2v2 (TS 3)",
+    "badge": {
+      "hasBadge": true,
+      "statusText": "",
+      "icons": []
+    },
+    "roles": [
+      {
+        "name": "Caster",
+        "class": "role-caster"
+      },
+      {
+        "name": "Streamer",
+        "class": "role-streamer"
+      },
+      {
+        "name": "GFX",
+        "class": "role-gfx"
+      },
+      {
+        "name": "tosu overlay developer",
+        "class": "role-developer",
+        "url": "https://skvidos.github.io/about-me/overlays/index.html"
+      }
+    ],
+    "links": [
+      {
+        "name": "Forum Post",
+        "url": "https://osu.ppy.sh/community/forums/topics/1989832?n=1",
+        "icon": "../src/icons/osu-blue.png"
+      },
+      {
+        "name": "Spreadsheet",
+        "url": "https://docs.google.com/spreadsheets/d/1Pn1ewjieX7JGpbCm1gsip8Hiy0Tx7FrV1CEp2pOeEHI/edit?gid=0#gid=0",
+        "icon": "../src/icons/file-spreadsheet-blue.svg"
+      },
+      {
+        "name": "Twitch",
+        "url": "https://www.twitch.tv/ktm_tournaments/videos",
+        "icon": "../src/icons/twitch-blue.svg"
+      }
+    ],
+    "comments": "A lot of work has been done. Thank you Nordax21 for organizing\n                  this tournament"
+  },
+  {
+    "number": "06",
+    "name": "osu!community cup 5",
+    "subtitle": "Open Rank · Standard · 1v1",
+    "status": "completed",
+    "banner": "banners/occ5.png",
+    "rucast": null,
+    "hosts": [],
+    "dates": {
+      "start": "October 26, 2024",
+      "end": "December 22, 2024"
+    },
+    "rank": "Open Rank",
+    "type": "Standard",
+    "format": "1v1",
+    "badge": {
+      "hasBadge": true,
+      "statusText": "",
+      "icons": []
+    },
+    "roles": [
+      {
+        "name": "Streamer",
+        "class": "role-streamer"
+      }
+    ],
+    "links": [
+      {
+        "name": "Spreadsheet",
+        "url": "https://docs.google.com/spreadsheets/d/1qrhU-APGpqNHHSUncaSvY2F-Yq1_VIkCAV0badJQXvg/edit?gid=1182072436#gid=1182072436",
+        "icon": "../src/icons/file-spreadsheet-blue.svg"
+      }
+    ],
+    "comments": "Thanks for the tournament. It was fun to stream it"
+  },
+  {
+    "number": "05",
+    "name": "Gasha Cup Legacy",
+    "subtitle": "1-100k (Russian speaking only) · Draft · 3v3 (TS 4)",
+    "status": "completed",
+    "banner": "banners/gasha.png",
+    "rucast": null,
+    "hosts": [
+      {
+        "name": "z0mbir",
+        "url": "https://osu.ppy.sh/users/4939107",
+        "avatar": "https://a.ppy.sh/4939107"
+      }
+    ],
+    "dates": {
+      "start": "October 2, 2024",
+      "end": "December 2, 2024"
+    },
+    "rank": "1-100k (Russian speaking only)",
+    "type": "Draft",
+    "format": "3v3 (TS 4)",
+    "badge": {
+      "hasBadge": true,
+      "statusText": "Approved",
+      "icons": ["badges/gasha.png"]
+    },
+    "roles": [
+      {
+        "name": "Referee",
+        "class": "role-referee"
+      },
+      {
+        "name": "Caster",
+        "class": "role-caster"
+      },
+      {
+        "name": "Streamer",
+        "class": "role-streamer"
+      }
+    ],
+    "links": [
+      {
+        "name": "Forum Post",
+        "url": "https://osu.ppy.sh/community/forums/topics/1972373?n=1",
+        "icon": "../src/icons/osu-blue.png"
+      },
+      {
+        "name": "Spreadsheet",
+        "url": "https://docs.google.com/spreadsheets/d/1ep3HQCwwenXmNWrXvrr0a83swgfBYvWsZNwpGLvBB-E/edit?gid=645297264#gid=645297264",
+        "icon": "../src/icons/file-spreadsheet-blue.svg"
+      },
+      {
+        "name": "Twitch",
+        "url": "https://www.twitch.tv/gashacup/videos",
+        "icon": "../src/icons/twitch-blue.svg"
+      },
+      {
+        "name": "Tcomm page",
+        "url": "https://tcomm.hivie.tn/tournaments/67ec601e0f2d0e2420936e0f",
+        "icon": "../src/icons/tcomm.svg"
+      }
+    ],
+    "comments": "I did a great job streaming the matches of the top players"
+  },
+  {
+    "number": "04",
+    "name": "Shika Random Tournament",
+    "subtitle": "7k-100k (Russian speaking only) · Standard · 4v4 (TS 8)",
+    "status": "completed",
+    "banner": "banners/shika.jpg",
+    "rucast": null,
+    "hosts": [
+      {
+        "name": "_Rossweisse_",
+        "url": "https://osu.ppy.sh/users/11621577",
+        "avatar": "https://a.ppy.sh/11621577"
+      }
+    ],
+    "dates": {
+      "start": "July 20, 2024",
+      "end": "October 13, 2024"
+    },
+    "rank": "7k-100k (Russian speaking only)",
+    "type": "Standard",
+    "format": "4v4 (TS 8)",
+    "badge": {
+      "hasBadge": true,
+      "statusText": "Approved",
+      "icons": ["badges/shika.png"]
+    },
+    "roles": [
+      {
+        "name": "Caster",
+        "class": "role-caster"
+      },
+      {
+        "name": "Streamer",
+        "class": "role-streamer"
+      }
+    ],
+    "links": [
+      {
+        "name": "Forum Post",
+        "url": "https://osu.ppy.sh/community/forums/topics/1951508?n=1",
+        "icon": "../src/icons/osu-blue.png"
+      },
+      {
+        "name": "Spreadsheet",
+        "url": "https://docs.google.com/spreadsheets/d/1k8How9YjeGDOnVGxV39HvuXlfVqUU4GhxmSFEAX-9Lg/edit?gid=0#gid=0",
+        "icon": "../src/icons/file-spreadsheet-blue.svg"
+      },
+      {
+        "name": "Tcomm page",
+        "url": "https://tcomm.hivie.tn/tournaments/67ec5ff90f2d0e2420936c64",
+        "icon": "../src/icons/tcomm.svg"
+      }
+    ],
+    "comments": "Two out of the two matches I wanted to stream got canceled.\n                  Well, at least I got to commentate one"
+  },
+  {
+    "number": "03",
+    "name": "6 Digit World Cup 2024",
+    "subtitle": "100k-999k · Standard · 4v4 (TS 8)",
+    "status": "completed",
+    "banner": "banners/6wc24.png",
+    "rucast": {
+      "class": "tc-cast",
+      "url": "https://www.twitch.tv/tc_cast/videos"
+    },
+    "hosts": [
+      {
+        "name": "Mashyuf",
+        "url": "https://osu.ppy.sh/users/14356517",
+        "avatar": "https://a.ppy.sh/14356517"
+      }
+    ],
+    "dates": {
+      "start": "July 1, 2024",
+      "end": "October 6, 2024"
+    },
+    "rank": "100k-999k",
+    "type": "Standard",
+    "format": "4v4 (TS 8)",
+    "badge": {
+      "hasBadge": false,
+      "text": "No badge"
+    },
+    "roles": [
+      {
+        "name": "Restreamer",
+        "class": "role-restreamer"
+      },
+      {
+        "name": "Caster",
+        "class": "role-caster"
+      },
+      {
+        "name": "Streamer",
+        "class": "role-streamer"
+      }
+    ],
+    "links": [
+      {
+        "name": "Forum Post",
+        "url": "https://osu.ppy.sh/community/forums/topics/1942416?n=1",
+        "icon": "../src/icons/osu-blue.png"
+      },
+      {
+        "name": "Spreadsheet",
+        "url": "https://docs.google.com/spreadsheets/d/1L4HSL0Ssn40kK71bEd52yNZmZkWVsSbxRX-Ovj_lEfQ/edit?gid=0#gid=0",
+        "icon": "../src/icons/file-spreadsheet-blue.svg"
+      },
+      {
+        "name": "Twitch",
+        "url": "https://www.twitch.tv/6wc_osu/videos",
+        "icon": "../src/icons/twitch-blue.svg"
+      },
+      {
+        "name": "TС Cast",
+        "url": "https://www.twitch.tv/tc_cast/videos",
+        "icon": "../src/icons/twitch-blue.svg"
+      }
+    ],
+    "comments": "Gand Finals stream early in the morning 😊"
+  },
+  {
+    "number": "02",
+    "name": "Emerald cup 2",
+    "subtitle": "500-10k · Standard · 1v1",
+    "status": "completed",
+    "banner": "banners/ec2.png",
+    "rucast": null,
+    "hosts": [
+      {
+        "name": "Ternafis",
+        "url": "https://osu.ppy.sh/users/9921139",
+        "avatar": "https://a.ppy.sh/9921139"
+      }
+    ],
+    "dates": {
+      "start": "July 2, 2024",
+      "end": "September 23, 2024"
+    },
+    "rank": "500-10k",
+    "type": "Standard",
+    "format": "1v1",
+    "badge": {
+      "hasBadge": true,
+      "statusText": "Approved",
+      "icons": ["badges/ec2.png"]
+    },
+    "roles": [
+      {
+        "name": "Referee",
+        "class": "role-referee"
+      },
+      {
+        "name": "Caster",
+        "class": "role-caster"
+      },
+      {
+        "name": "Streamer",
+        "class": "role-streamer"
+      }
+    ],
+    "links": [
+      {
+        "name": "Forum Post",
+        "url": "https://osu.ppy.sh/community/forums/topics/1943185?n=1",
+        "icon": "../src/icons/osu-blue.png"
+      },
+      {
+        "name": "Spreadsheet",
+        "url": "https://docs.google.com/spreadsheets/d/1REU0Go2rzN-lHzZ9MSsYKpBbPfPfKlQV-Dgwd5qPGdg/edit?gid=0#gid=0",
+        "icon": "../src/icons/file-spreadsheet-blue.svg"
+      },
+      {
+        "name": "Twitch",
+        "url": "https://www.twitch.tv/ternafistournaments/videos",
+        "icon": "../src/icons/twitch-blue.svg"
+      },
+      {
+        "name": "Tcomm page",
+        "url": "https://tcomm.hivie.tn/tournaments/67ec5fe20f2d0e2420936b37",
+        "icon": "../src/icons/tcomm.svg"
+      }
+    ],
+    "comments": "Nice"
+  },
+  {
+    "number": "01",
+    "name": "osu!Kazakhstan Community Cup 5",
+    "subtitle": "Open Rank (Kazakhstan only) · Standard · 1v1",
+    "status": "completed",
+    "banner": "banners/KZcup5.png",
+    "rucast": null,
+    "hosts": [
+      {
+        "name": "Lightin",
+        "url": "https://osu.ppy.sh/users/7595619",
+        "avatar": "https://a.ppy.sh/7595619"
+      }
+    ],
+    "dates": {
+      "start": "May 15, 2024",
+      "end": "July 28, 2024"
+    },
+    "rank": "Open Rank (Kazakhstan only)",
+    "type": "Standard",
+    "format": "1v1",
+    "badge": {
+      "hasBadge": true,
+      "statusText": "Approved",
+      "icons": ["badges/KZcup5.png"]
+    },
+    "roles": [
+      {
+        "name": "Referee",
+        "class": "role-referee"
+      },
+      {
+        "name": "Caster",
+        "class": "role-caster"
+      },
+      {
+        "name": "Streamer",
+        "class": "role-streamer"
+      }
+    ],
+    "links": [
+      {
+        "name": "Forum Post",
+        "url": "https://osu.ppy.sh/community/forums/topics/1922332?n=1",
+        "icon": "../src/icons/osu-blue.png"
+      },
+      {
+        "name": "Spreadsheet",
+        "url": "https://docs.google.com/spreadsheets/d/1p1gWVi2j8s-hMi0frRTH808z06ti0u0mnhqsK9TsoAc/edit?gid=508748914#gid=508748914",
+        "icon": "../src/icons/file-spreadsheet-blue.svg"
+      },
+      {
+        "name": "Twitch",
+        "url": "https://www.twitch.tv/osukazakhstan/videos",
+        "icon": "../src/icons/twitch-blue.svg"
+      },
+      {
+        "name": "Tcomm page",
+        "url": "https://tcomm.hivie.tn/tournaments/67ec5f8f0f2d0e242093677c",
+        "icon": "../src/icons/tcomm.svg"
+      },
+      {
+        "name": "Liquipedia",
+        "url": "https://liquipedia.net/osu/Osu!kz_Community_Cup/5",
+        "icon": "../src/icons/liquipedia.png"
+      }
+    ],
+    "comments": "My first staff experience"
   }
 ]
