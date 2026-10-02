@@ -639,8 +639,8 @@
         "class": "role-streamer"
       },
       {
-        "name": "tosu overlay developer",
-        "class": "role-developer",
+        "name": "Streamer",
+        "class": "role-streamer",
         "url": "https://skvidos.github.io/about-me/overlays/index.html"
       }
     ],
@@ -676,7 +676,7 @@
         "icon": "../src/icons/earth-blue.svg"
       }
     ],
-    "comments": "This tournament will never end. It's a shame that everyone has\n                  forgotten about this tournament, but I will continue to stream\n                  it until the end."
+    "comments": "This tournament will never end. It's a shame that everyone has\n                  forgotten about this tournament, but I will continue to stream\n                  it until the end. (Never end)"
   },
   {
     "number": "36",
