@@ -1,5 +1,55 @@
 [
   {
+    "number": "47",
+    "name": "Far-Eastern osu! Tournament",
+    "subtitle": "Open Rank (Far-Eastern Russian Regions) · Standart · 1v1",
+    "status": "upcoming",
+    "banner": "banners/feot.png",
+    "rucast": null,
+    "hosts": [
+      {
+        "name": "EldeR-",
+        "url": "https://osu.ppy.sh/users/29458821",
+        "avatar": "https://a.ppy.sh/29458821"
+      },
+      {
+        "name": "RobotSkin_",
+        "url": "https://osu.ppy.sh/users/13820038",
+        "avatar": "https://a.ppy.sh/13820038"
+      }
+    ],
+    "dates": {
+      "start": "October 17, 2026",
+      "end": "November 8, 2026"
+    },
+    "rank": "Open Rank (Far-Eastern Russian Regions)",
+    "type": "Standard",
+    "format": "1v1",
+    "badge": {
+      "hasBadge": false,
+      "text": "No badge"
+    },
+    "roles": [
+      {
+        "name": "Streamer",
+        "class": "role-streamer"
+      }
+    ],
+    "links": [
+      {
+        "name": "Forum Post",
+        "url": "https://osu.ppy.sh/community/forums/topics/2244415?n=1",
+        "icon": "../src/icons/osu-blue.png"
+      },
+      {
+        "name": "Website",
+        "url": "https://tourney.play-osu.ru/ru/tournament/1940901b-110b-430a-a99b-9c26f233954d",
+        "icon": "../src/icons/earth-blue.svg"
+      }
+    ],
+    "comments": ""
+  },
+  {
     "number": "46",
     "name": "osu!Collegiate League 2026",
     "subtitle": "Open Rank (Only Students) · Standard · 3v3 (TS 5)",
@@ -52,7 +102,7 @@
     "number": "45",
     "name": "Raise It! 2",
     "subtitle": "Open Rank (Russian speaking only) · Auction · 3v3 (TS 6)",
-    "status": "upcoming",
+    "status": "ongoing",
     "banner": "banners/raiseit2.png",
     "rucast": null,
     "hosts": [
