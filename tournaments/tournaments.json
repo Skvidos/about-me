@@ -3,7 +3,7 @@
     "number": "47",
     "name": "Far-Eastern osu! Tournament",
     "subtitle": "Open Rank (Far-Eastern Russian Regions) · Standart · 1v1",
-    "status": "upcoming",
+    "status": "ongoing",
     "banner": "banners/feot.png",
     "rucast": null,
     "hosts": [
@@ -53,7 +53,7 @@
     "number": "46",
     "name": "osu!Collegiate League 2026",
     "subtitle": "Open Rank (Only Students) · Standard · 3v3 (TS 5)",
-    "status": "upcoming",
+    "status": "ongoing",
     "banner": "banners/ocl26.png",
     "rucast": null,
     "hosts": [
@@ -297,7 +297,7 @@
     "number": "42",
     "name": "Blind Matchup Cup 4: Duos",
     "subtitle": "Open Rank · Standard · 2v2 (TS 4)",
-    "status": "ongoing",
+    "status": "completed",
     "banner": "banners/BMC.png",
     "rucast": null,
     "hosts": [
