@@ -1,5 +1,72 @@
 [
   {
+    "number": "48",
+    "name": "osu! World Cup 2026",
+    "subtitle": "1 - 10k · Standard · 4v4 (TS 8)",
+    "status": "ongoing",
+    "banner": "banners/owc2026.jpg",
+    "rucast": {
+      "class": "rucast",
+      "url": "https://rtvs.fun/live"
+    },
+    "hosts": [
+      {
+        "name": "osu! team",
+        "url": "https://osu.ppy.sh/wiki/en/People/osu%21_team",
+        "avatar": ""
+      }
+    ],
+    "dates": {
+      "start": "October 24, 2026",
+      "end": "December 13, 2026"
+    },
+    "rank": "1 - 10k",
+    "type": "Standard",
+    "format": "4v4",
+    "badge": {
+      "hasBadge": false,
+      "text": "No badge"
+    },
+    "roles": [
+      {
+        "name": "Restreamer",
+        "class": "role-restreamer"
+      },
+      {
+        "name": "Streamer",
+        "class": "role-streamer"
+      }
+    ],
+    "links": [
+      {
+        "name": "Wiki Page ",
+        "url": "https://osu.ppy.sh/wiki/en/Tournaments/OWC/2026",
+        "icon": "../src/icons/osu-blue.png"
+      },
+      {
+        "name": "Ru Forum Post",
+        "url": "https://osu.ppy.sh/community/forums/topics/2252751?n=1",
+        "icon": "../src/icons/osu-blue.png"
+      },
+      {
+        "name": "Twitch",
+        "url": "https://www.twitch.tv/osulive/videos",
+        "icon": "../src/icons/twitch-blue.svg"
+      },
+      {
+        "name": "osu!rulive",
+        "url": "https://www.twitch.tv/osurulive/videos",
+        "icon": "../src/icons/twitch-blue.svg"
+      },
+      {
+        "name": "Liquipedia",
+        "url": "https://liquipedia.net/osu/Osu_World_Cup/2026",
+        "icon": "../src/icons/liquipedia.png"
+      }
+    ],
+    "comments": ""
+  },
+  {
     "number": "47",
     "name": "Far-Eastern osu! Tournament",
     "subtitle": "Open Rank (Far-Eastern Russian Regions) · Standart · 1v1",
@@ -170,7 +237,7 @@
     "number": "44",
     "name": "osu!Kazakhstan Community Cup 7",
     "subtitle": "Open Rank (Kazakhstan and Kyrgyzstan only) · Standard · 1v1",
-    "status": "ongoing",
+    "status": "completed",
     "banner": "banners/KZcup7.png",
     "rucast": null,
     "hosts": [
@@ -238,7 +305,7 @@
     "number": "43",
     "name": "Minimalistic Cup 2",
     "subtitle": "1k-9999 (Russian speaking only) · Standard · 1v1",
-    "status": "ongoing",
+    "status": "completed",
     "banner": "banners/minimalistic2.png",
     "rucast": null,
     "hosts": [
@@ -1313,7 +1380,7 @@
     "banner": "banners/owc2025.jfif",
     "rucast": {
       "class": "rucast",
-      "url": "https://osuru.live/"
+      "url": "https://rtvs.fun/live"
     },
     "hosts": [
       {
